@@ -40,12 +40,18 @@ DISCORDIAN THEME version 0.8.6
 
   --text-header: hsla(233, 45%, 69%, 1);
 
-  --text-title-h1: hsla(243, 35%, 65%, 1);
-  --text-title-h2: var(--text-header);
-  --text-title-h3: var(--text-header);
-  --text-title-h4: var(--text-header);
+  --text-title-purpol: hsl(263, 86%, 79%);
+  --text-title-purple: hsla(243, 35%, 65%, 1);
+  --text-title-orange: hsl(35, 67%, 65%);
+  --text-title-green: hsl(89, 50%, 61%);
+
+  --text-title-h1: var(--text-header);
+  --text-title-h2: var(--text-title-purpol);
+  --text-title-h3: var(--text-title-orange);
+  --text-title-h4: var(--text-title-green);
   --text-title-h5: var(--text-header);
   --text-title-h6: hsla(192, 13%, 53%, 1);
+
 
   --h1-size: 1.802em;
   --h2-size: 1.602em;
@@ -97,12 +103,18 @@ DISCORDIAN THEME version 0.8.6
 
   --text-header: hsla(233, 45%, 69%, 1);
 
-  --text-title-h1: hsla(243, 35%, 65%, 1);
-  --text-title-h2: var(--text-header);
-  --text-title-h3: var(--text-header);
-  --text-title-h4: var(--text-header);
+  --text-title-purpol: hsl(263, 86%, 79%);
+  --text-title-purple: hsla(243, 35%, 65%, 1);
+  --text-title-orange: hsl(35, 67%, 65%);
+  --text-title-green: hsl(89, 50%, 61%);
+
+  --text-title-h1: var(--text-header);
+  --text-title-h2: var(--text-title-purpol);
+  --text-title-h3: var(--text-title-orange);
+  --text-title-h4: var(--text-title-green);
   --text-title-h5: var(--text-header);
   --text-title-h6: hsla(192, 13%, 53%, 1);
+
 
   --text-a: hsla(322, 65%, 70%, 1);
   --text-a-hover: hsla(327, 100%, 77%, 1);
@@ -136,7 +148,7 @@ DISCORDIAN THEME version 0.8.6
 
 :root {
   --light: #2E3035;
-  --lightgray: #2B2D31; 
+  --lightgray: #2B2D31;
   --gray: #646464;
   --darkgray: #d4d4d4;
   --dark: #ebebec;
@@ -151,19 +163,19 @@ DISCORDIAN THEME version 0.8.6
   --text-faint: var(--lightgray);
   --background-primary: var(--light);
   --background-secondary: var(--lightgray);
-  
+
   /* Embed styling based on dbaseDK.css */
   --embed-background: var(--background-primary);
   --embed-border: var(--lightgray);
   --embed-padding: 0;
-  
+
   /* Link colors */
   --link-color: var(--secondary);
   --link-color-hover: var(--tertiary);
-  
+
   /* Headers */
   --h1-color: var(--text-title-h1);
-  --h2-color: var(--text-title-h2); 
+  --h2-color: var(--text-title-h2);
   --h3-color: var(--text-title-h3);
   --h4-color: var(--text-title-h4);
   --h5-color: var(--text-title-h5);
@@ -280,7 +292,7 @@ body {
   --embed-padding: 0 0 0 var(--size-4-6);
   --embed-font-style: inherit;
   --embed-block-shadow-hover: 0 0 0 1px var(--background-modifier-border),
-inset 0 0 0 1px var(--background-modifier-border);
+    inset 0 0 0 1px var(--background-modifier-border);
   --file-line-width: 700px;
   --file-folding-offset: 24px;
   --file-margins: var(--size-4-8);
@@ -765,34 +777,39 @@ inset 0 0 0 1px var(--background-modifier-border);
 
 
 
-h1{
+h1 {
   color: var(--text-title-h1);
   font-size: var(--h1-size) !important;
 }
-h2{
+
+h2 {
   color: var(--text-title-h2);
   font-size: var(--h2-size) !important;
 }
-h3{
+
+h3 {
   color: var(--text-title-h3);
   font-size: var(--h3-size) !important;
 }
-h4{
+
+h4 {
   color: var(--text-title-h4);
   font-size: var(--h4-size) !important;
 }
-h5{
+
+h5 {
   color: var(--text-title-h5);
   font-size: var(--h5-size) !important;
 }
-h6{
+
+h6 {
   color: var(--text-title-h6);
   font-size: var(--h6-size) !important;
 }
 
 
 
-pre{
+pre {
   background-color: var(--background-code-preview) !important;
   margin: 2rem 0;
   position: relative;
@@ -803,37 +820,41 @@ pre{
   display: block;
   unicode-bidi: isolate;
 }
+
 pre>code {
   color: var(--text-normal) !important;
   background-color: unset !important;
   font-size: 100% !important;
   border: none;
 }
+
 code {
   text-shadow: unset !important;
   color: var(--markup-code) !important;
-  background-color: var(--discord-yellow-bg)!important;
+  background-color: var(--discord-yellow-bg) !important;
   font-size: 100% !important;
   padding-top: 4px;
   padding-bottom: 1px;
 }
 
-strong{
+strong {
   color: var(--discord-yellow-alt) !important;
   font-weight: 600;
 }
-mark>strong{
+
+mark>strong {
   color: var(--discord-yellow-alt) !important;
   font-weight: 500;
   padding: 0 2px;
 }
-em{
+
+em {
   color: var(--text-em);
   font-style: italic;
 }
 
 
-a{
+a {
   --font-weight: var(--link-weight);
   color: var(--link-color);
   font-weight: var(--link-weight);
@@ -843,7 +864,8 @@ a{
   cursor: var(--cursor-link);
   transition: opacity 0.15s ease-in-out;
 }
-sup>a{
+
+sup>a {
   color: var(--text-a) !important;
   text-decoration: none;
 }
@@ -859,6 +881,7 @@ input[type=checkbox] {
   border: 1px solid var(--text-faint);
   border-radius: 3px;
 }
+
 .task-list-item-checkbox {
   top: 8px;
   width: calc(var(--font-size-notes) + 0.375rem);
@@ -908,6 +931,7 @@ a.internal {
   color: #E481C0 !important;
   transition: opacity 0.15s ease-in-out;
 }
+
 a {
   text-transform: uppercase;
   font-weight: bold;
@@ -926,6 +950,7 @@ a {
 thead {
   border-top: 2px solid var(--discord-yellow-alt) !important;
 }
+
 tr {
   border-top: 1px solid var(--background-accent) !important;
 }
@@ -935,6 +960,6 @@ tr {
 }
 
 
-.page > #quartz-body footer {
+.page>#quartz-body footer {
   display: none !important;
 }
