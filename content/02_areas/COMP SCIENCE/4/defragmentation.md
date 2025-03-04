@@ -1,0 +1,2 @@
+on hard disk drives memory is stored into different places and sections on the disk. as data is created and deleted over time, the data for the same type of stuff can be scattered across the disk in an unorganized fashion. This makes running and reading that data slower. This is known as a fragmented disk.
+Defragmentation is the process of organizing a fragmented disk so that all the same data end up near each other and also the empty spaces end up near each other.
