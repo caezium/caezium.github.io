@@ -3,8 +3,8 @@ draft: false
 ---
 
 > [!def]
-> 1. A body remains at rest, or in motion at a constant speed in a straight line, except insofar as it is acted upon by a force.
-> 2. At any instant of time, the net force on a body is equal to the body's [acceleration](https://en.wikipedia.org/wiki/Acceleration "Acceleration") multiplied by its mass or, equivalently, the rate at which the body's [momentum](https://en.wikipedia.org/wiki/Momentum "Momentum") is changing with time.
+> 1. A body remains at rest, or in [[motion]] at a constant [[speed]] in a straight line, except insofar as it is acted upon by a force.
+> 2. At any instant of time, the net force on a body is equal to the body's [[acceleration]] multiplied by its [[mass]] or, equivalently, the rate at which the body's [[momentum]] is changing with time.
 >  $$F = ma = \frac{\Delta p}{\Delta t}$$
 > 3. For every action, there is an equal and opposite reaction
 

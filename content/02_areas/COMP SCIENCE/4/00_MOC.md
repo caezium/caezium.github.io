@@ -5,7 +5,7 @@
 			1. [[Command Line Interface and Graphical User Interface]]
 		![[00_MOC-20250216204916341.png|369]]
 		2. [[Utility Software]]
-2. [[02_areas/COMP SCIENCE/4/hardware]]
+2. [[02_areas/COMP SCIENCE/Hardware|Hardware]]
 ![[00_MOC-20250216203548885.png|290]]
 3. [[Programming Languages]]
 	1. [[Translators, Compilers & Interpreters]]

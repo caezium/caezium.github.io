@@ -2,7 +2,7 @@
 draft: false
 ---
 > [!def] Density
-> The mass per unit volume
+> The [[mass]] per unit volume
 ## $$\rho=\frac{m}{v}$$
 
 ![[Density-20241102172651452.png]]

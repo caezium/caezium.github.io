@@ -4,20 +4,20 @@ draft: false
 > [!def] Force
 > A push or a pull that acts on an object due to the interaction with another object
 
-Forces can have a variety of effects on an object
-Forces can change an object's
+[[Forces]] can have a variety of effects on an object
+[[Forces]] can change an object's
     - **[[Speed]]**
     - **direction**
     - **shape**
     - **size**
 ![[Forces-20241102173747240.png|698]]
 
-### Balanced and Unbalanced forces
-- The forces acting on an object can be described as **balanced** or **unbalanced**
-- Forces are **balanced** if multiple forces act in **opposing directions** with an **equal magnitude** in each direction
-    - The effects of the forces then **cancel out**
+### Balanced and Unbalanced [[forces]]
+- The [[forces]] acting on an object can be described as **balanced** or **unbalanced**
+- [[Forces]] are **balanced** if multiple [[forces]] act in **opposing directions** with an **equal magnitude** in each direction
+    - The effects of the [[forces]] then **cancel out**
     - There is **no resultant force** in that plane of direction
-- Forces are **unbalanced** if the effects of the forces acting in each plane do **not** cancel out
+- [[Forces]] are **unbalanced** if the effects of the [[forces]] acting in each plane do **not** cancel out
     - There is a **resultant force** in one or more planes of direction
 
 No resultant force is *incorrect* -> instead, **say the resultant force is 0**
@@ -37,8 +37,8 @@ Gravitational Force is a *force*.
 # *Change in [[Motion]]*
 ## **[[Newton's Three Laws of Motion]]**
 > [!def]
-> 1. A body remains at rest, or in motion at a constant speed in a straight line, except insofar as it is acted upon by a force.
-> 2. At any instant of time, the net force on a body is equal to the body's [acceleration](https://en.wikipedia.org/wiki/Acceleration "Acceleration") multiplied by its mass or, equivalently, the rate at which the body's [momentum](https://en.wikipedia.org/wiki/Momentum "Momentum") is changing with time.
+> 1. A body remains at rest, or in [[motion]] at a constant [[speed]] in a straight line, except insofar as it is acted upon by a force.
+> 2. At any instant of time, the net force on a body is equal to the body's [[acceleration]] multiplied by its [[mass]] or, equivalently, the rate at which the body's [[momentum]] is changing with time.
 >  $$F = ma = \frac{\Delta p}{\Delta t}$$
 > 3. For every action, there is an equal and opposite reaction
 
@@ -113,7 +113,7 @@ $$ F=m \frac{v^2}{R} = m \omega^2R$$
 > [[Friction]] is a force that works in **opposition** to the [[Motion]] of an object
 - When [[Friction]] occurs, energy is transferred by **heating**
     - [[Friction]] causes an increase in **temperature** of the object and its surroundings
-    - The work done against the frictional forces causes this rise in the temperature
+    - The work done against the frictional [[forces]] causes this rise in the temperature
 
 
 ![[Forces-20241102174619876.png]]

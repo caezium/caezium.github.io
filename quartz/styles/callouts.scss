@@ -10,7 +10,7 @@
   transition: max-height 0.3s ease;
   box-sizing: border-box;
 
-  & > .callout-content > :first-child {
+  &>.callout-content> :first-child {
     margin-top: 0;
   }
 
@@ -113,7 +113,7 @@
     --callout-icon: var(--callout-icon-quote);
   }
 
-  &.is-collapsed > .callout-title > .fold-callout-icon {
+  &.is-collapsed>.callout-title>.fold-callout-icon {
     transform: rotateZ(-90deg);
   }
 }
@@ -134,7 +134,7 @@
     --callout-icon: var(--callout-icon-fold);
   }
 
-  & > .callout-title-inner > p {
+  &>.callout-title-inner>p {
     color: var(--color);
     margin: 0;
   }
@@ -177,7 +177,7 @@
 
     &:hover {
       transform: translateY(-2px);
-      box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
     }
 
     .callout-title .callout-icon {
@@ -225,10 +225,10 @@
   &[data-callout="tags"] {
     --callout-padding: var(--size-2-4);
     --icon-size: 20px;
-    --callout-color: 180,30,180;
+    --callout-color: 180, 30, 180;
     --callout-icon: lucide-hash;
     --icon-stroke: 3px;
-    
+
     width: 90%;
     margin: 1em auto;
     display: flex;
@@ -236,7 +236,7 @@
     box-sizing: border-box;
     padding: 1em 2em;
     border-radius: 8px;
-    background-color: rgba(180,30,180,0.05);
+    background-color: rgba(180, 30, 180, 0.05);
 
     .callout-title {
       .callout-icon {
@@ -305,6 +305,27 @@
   &[data-callout="def"],
   &[data-callout="definition"],
   &[data-callout="theorem"] {
+    .callout-content {
+      font-style: italic;
+      line-height: 1.6;
+      --callout-color: var(--text-normal);
+      font-family: "Times New Roman", Times, serif;
+      background-color: transparent;
+      border: 2px solid var(--text-normal);
+      border-radius: 8px;
+      margin: 1em 0;
+      padding: 1em;
+    }
+
+    .callout-icon {
+      display: none;
+    }
+
+    .callout-title-inner {
+      font-weight: 700;
+      font-size: 1.1em;
+    }
+
     .callout-content {
       font-style: italic;
       line-height: 1.6;

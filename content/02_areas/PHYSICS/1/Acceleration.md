@@ -4,7 +4,7 @@ draft: false
 ## [[Acceleration]]
 
 >[!def] Acceleration
->the *rate* at which an object increases speed or velocity, change in velocity, vector.
+>the *rate* at which an object increases [[speed]] or [[velocity]], change in [[velocity]], vector.
 >$$a =\frac{v-u}{t}$$
 
 
