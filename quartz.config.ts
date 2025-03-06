@@ -14,7 +14,7 @@ const config: QuartzConfig = {
     enablePopovers: true,
     analytics: null,
     locale: "en-US",
-    baseUrl: "caezium.github.io/public", //garden.scie25832.com
+    baseUrl: "caezium.github.io", //garden.scie25832.com
     ignorePatterns: ["private", "templater", ".obsidian", ".trash", "98_archives"],
     defaultDateType: "created",
     generateSocialImages: false,
