@@ -5,6 +5,66 @@
       <link>https://caezium.github.io/public</link>
       <description>Last 10 notes on 🗄️ Not A File Cabinet</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
-      
+      <item>
+    <title>unlinked</title>
+    <link>https://caezium.github.io/public/unlinked</link>
+    <guid>https://caezium.github.io/public/unlinked</guid>
+    <description>TABLE without id out AS &quot;Uncreated files&quot;, file.link as &quot;Origin&quot; FLATTEN file.outlinks as out WHERE !(out.file) AND !contains(meta(out).path, &quot;/&quot;) ...</description>
+    <pubDate>Wed, 05 Mar 2025 15:36:00 GMT</pubDate>
+  </item><item>
+    <title>!CSS!</title>
+    <link>https://caezium.github.io/public/99_META/!CSS!</link>
+    <guid>https://caezium.github.io/public/99_META/!CSS!</guid>
+    <description>you can modify the Obsidian appearance by using CSS. Cascading Style Sheets (CSS) is the language used to describe how to present a HTML document. By adding CSS snippets, you can redefine parts of the Obsidian user interface, such as the size and color of headings.</description>
+    <pubDate>Wed, 05 Mar 2025 15:36:00 GMT</pubDate>
+  </item><item>
+    <title>!HOW TO MARKDOWN!</title>
+    <link>https://caezium.github.io/public/99_META/!HOW-TO-MARKDOWN!</link>
+    <guid>https://caezium.github.io/public/99_META/!HOW-TO-MARKDOWN!</guid>
+    <description>text ‘# HEADINGS’ This is a heading 1 This is a heading 2 This is a heading 3 This is a heading 4 This is a heading 5 This is a heading 6 # This is a heading 1 ## This is a heading 2 ### This is a heading ...</description>
+    <pubDate>Wed, 05 Mar 2025 15:36:00 GMT</pubDate>
+  </item><item>
+    <title>Evergreen</title>
+    <link>https://caezium.github.io/public/99_META/Evergreen</link>
+    <guid>https://caezium.github.io/public/99_META/Evergreen</guid>
+    <description>Evergreen notes are written and organized to evolve, contribute, and accumulate. &quot;Better note-taking&quot; misses the point; what matters is &quot;better thinking&quot; Evergreen notes should be atomic it is best to create notes which are only about one thing, but which, as much as possible, capture the entirety of that thing this way it is easier to form connects across topics and contexts atomicity fosters re-use which in turn multiplies the amount of connections in your second brain Evergreen notes should be concept-oriented write notes by concept rather than author, event, book, or topic this way concepts can be linked and expanded upon Evergreen notes should be densely linked helps you internalize the ideas more deeply Write the notes for yourself, rather than the ‘audience’.</description>
+    <pubDate>Wed, 05 Mar 2025 15:36:00 GMT</pubDate>
+  </item><item>
+    <title>LaTeX</title>
+    <link>https://caezium.github.io/public/99_META/LaTeX</link>
+    <guid>https://caezium.github.io/public/99_META/LaTeX</guid>
+    <description>you can add math expressions to your notes using MathJax and the LaTeX notation. To add a MathJax expression to your note, surround it with double dollar signs $$.</description>
+    <pubDate>Wed, 05 Mar 2025 15:36:00 GMT</pubDate>
+  </item><item>
+    <title>Obsidian Organization System</title>
+    <link>https://caezium.github.io/public/99_META/Obsidian-Organization-System</link>
+    <guid>https://caezium.github.io/public/99_META/Obsidian-Organization-System</guid>
+    <description>EXPERIMENTATION experiment with how I feel about this subject folders in areas 1,2,3,4…,n for chapter folder inside individual lessons/big ideas eg 1.1,1.2 but file name no nums ...</description>
+    <pubDate>Wed, 05 Mar 2025 15:36:00 GMT</pubDate>
+  </item><item>
+    <title>Obsidian Settings and Plugins</title>
+    <link>https://caezium.github.io/public/99_META/Obsidian-Settings-and-Plugins</link>
+    <guid>https://caezium.github.io/public/99_META/Obsidian-Settings-and-Plugins</guid>
+    <description>To see in-depth documentation for plugins, click on the plugin within Obsidian community plugins settings. (download readme.md from github about plugins later) plugins and settings in Obsidian do not sync over to PC but syncs with iOS devices.</description>
+    <pubDate>Wed, 05 Mar 2025 15:36:00 GMT</pubDate>
+  </item><item>
+    <title>Zettelkasten</title>
+    <link>https://caezium.github.io/public/99_META/Zettelkasten</link>
+    <guid>https://caezium.github.io/public/99_META/Zettelkasten</guid>
+    <description>zettel in German translates to a piece of paper. zettelkasten → note box Method by German sociologist Niklas Luhmann, he collected and organized all his notes in boxes but used tags to connect ideas.</description>
+    <pubDate>Wed, 05 Mar 2025 15:36:00 GMT</pubDate>
+  </item><item>
+    <title>git check ignored</title>
+    <link>https://caezium.github.io/public/99_META/git-check-ignored</link>
+    <guid>https://caezium.github.io/public/99_META/git-check-ignored</guid>
+    <description>git ls-files --others --ignored --exclude-standard git add -f path/to/folder //remove files/folder from staging git restore --staged path/to/folder/or/file git status //check ...</description>
+    <pubDate>Wed, 05 Mar 2025 15:36:00 GMT</pubDate>
+  </item><item>
+    <title>github access token expiration date</title>
+    <link>https://caezium.github.io/public/99_META/github-access-token-expiration-date</link>
+    <guid>https://caezium.github.io/public/99_META/github-access-token-expiration-date</guid>
+    <description>The token will expire on Wed, Apr 2 2025.</description>
+    <pubDate>Wed, 05 Mar 2025 15:36:00 GMT</pubDate>
+  </item>
     </channel>
   </rss>
