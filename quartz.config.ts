@@ -14,7 +14,7 @@ const config: QuartzConfig = {
     enablePopovers: true,
     analytics: null,
     locale: "en-US",
-    baseUrl: "garden.scie25832.com",
+    baseUrl: "caezium.github.io/public", //garden.scie25832.com
     ignorePatterns: ["private", "templater", ".obsidian", ".trash", "98_archives"],
     defaultDateType: "created",
     generateSocialImages: false,
@@ -68,7 +68,7 @@ const config: QuartzConfig = {
       Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: false }),
       Plugin.GitHubFlavoredMarkdown(),
       Plugin.TableOfContents(),
-      Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
+      Plugin.CrawlLinks({ markdownLinkResolution: "shortest", prettyLinks: true }), //absolute
       Plugin.Description(),
       Plugin.Latex({ renderEngine: "katex" }),
     ],
