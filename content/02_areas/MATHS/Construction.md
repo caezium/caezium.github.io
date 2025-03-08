@@ -25,7 +25,7 @@
 - **STEP 4**  
     **Connect** the points where the arcs intersect with a **straight line**
 
-![Constructing a perpendicular bisector](https://cdn.savemyexams.com/cdn-cgi/image/f=auto,width=3840/https://cdn.savemyexams.com/uploads/2020/03/Perpendicular-Bisector.png)
+![Constructing a perpendicular bisector](media/Constructing_a_perpendicular_bisector.png)
 
 #### How do I construct a perpendicular from a point to a line?
 - **STEP 1**  
@@ -41,7 +41,7 @@
     - The **arcs should intersect**
 - **STEP 6**  
     **Connect** the point where the arcs intersect to point P with a **straight line**
-![Constructing a perpendicular from a point to a line](https://cdn.savemyexams.com/cdn-cgi/image/f=auto,width=3840/https://cdn.savemyexams.com/uploads/2020/03/Perpendicular-from-Point-to-Line.png)
+![Constructing a perpendicular from a point to a line](media/Constructing_a_perpendicular_from_a_point_to_a_line.png)
 
 #### How do I construct an angle bisector?
 - **STEP 1**  
@@ -56,4 +56,4 @@
     - This **should intersect** the last arc you drew
 - **STEP 5**  
     Join the **point of the angle** to the **point of intersection** with a **straight line**
-![Constructing an angle bisector](https://cdn.savemyexams.com/cdn-cgi/image/f=auto,width=3840/https://cdn.savemyexams.com/uploads/2020/03/Angle-Bisector.png)
+![Constructing an angle bisector](media/Constructing_an_angle_bisector.png)

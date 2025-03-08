@@ -14,12 +14,12 @@
 - Explains behavior of [[solid]], [[liquid]], and [[gas]] states
 ![[IMG_4865.jpeg]]
 
-| Property        | [[Solid]]                | [[Liquid]]              | [[Gas]]                 |
+| Property        | [[Solid]]            | [[Liquid]]          | [[Gas]]             |
 | --------------- | -------------------- | ------------------- | ------------------- |
 | **Arrangement** | Fixed lattice        | Random              | Random              |
 | **Movement**    | Vibrational          | Sliding flow        | Free random         |
-| **[[Energy]]**      | Low                  | Medium              | High                |
-| **[[Density]]**     | $\rho_{\text{high}}$ | $\rho_{\text{med}}$ | $\rho_{\text{low}}$ |
+| **[[Energy]]**  | Low                  | Medium              | High                |
+| **[[Density]]** | $\rho_{\text{high}}$ | $\rho_{\text{med}}$ | $\rho_{\text{low}}$ |
 
 ```mermaid
 graph TD
@@ -117,7 +117,7 @@ $$Q = mL$$
 | Substance shape                    | Fixed                                                                                                                                                                                                               | Not fixed                                                                                                                                                                                                             | Not fixed                                                                                                                                                                                                       |
 | Substance volume                   | Fixed                                                                                                                                                                                                               | Fixed                                                                                                                                                                                                                 | Not fixed                                                                                                                                                                                                       |
 | Substance [[density]]                  | High                                                                                                                                                                                                                | Medium                                                                                                                                                                                                                | Low                                                                                                                                                                                                             |
-| 2D diagram of particle arrangement | ![table-solid-arrangement-ib-physics-revision-notes](https://cdn.savemyexams.com/cdn-cgi/image/f=auto,width=3840/https://cdn.savemyexams.com/uploads/2023/07/table-solid-arrangement-ib-physics-revision-notes.png) | ![table-liquid-arrangement-ib-physics-revision-notes](https://cdn.savemyexams.com/cdn-cgi/image/f=auto,width=3840/https://cdn.savemyexams.com/uploads/2023/07/table-liquid-arrangement-ib-physics-revision-notes.png) | ![table-gas-arrangement-ib-physics-revision-notes](https://cdn.savemyexams.com/cdn-cgi/image/f=auto,width=3840/https://cdn.savemyexams.com/uploads/2023/07/table-gas-arrangement-ib-physics-revision-notes.png) |
+| 2D diagram of particle arrangement | ![table-solid-arrangement-ib-physics-revision-notes](media/table-solid-arrangement-ib-physics-revision-notes.png) | ![table-liquid-arrangement-ib-physics-revision-notes](media/table-liquid-arrangement-ib-physics-revision-notes.png) | ![table-gas-arrangement-ib-physics-revision-notes](media/table-gas-arrangement-ib-physics-revision-notes.png) |
 
 #### [[Heating Curve]]
 

@@ -59,7 +59,7 @@ The failure of disarmament was especially **damaging** to the [[LON]]'s reputati
 - When the League’s solution ended in 1925, relations between **Poland and Germany worsened**
     - Poland argued that half of the population of Upper Silesia was Polish yet they received only a third of the land
     - Germany stated that the agreement took away a quarter of its coal mines
-![A Polish poster from the plebiscite in Upper Silesia. Workers are standing on a symbol of imperial Germany. The text is written in Polish and German and states “The Crusader is in the dust. Don’t let him rise”](https://cdn.savemyexams.com/cdn-cgi/image/f=auto,width=3840/https://cdn.savemyexams.com/uploads/2024/02/cie-upper-silesia-source.png)
+![A Polish poster from the plebiscite in Upper Silesia. Workers are standing on a symbol of imperial Germany. The text is written in Polish and German and states “The Crusader is in the dust. Don’t let him rise”](media/A_Polish_poster_from_the_plebiscite_in_Upper_Silesia._Workers_are_standing_on_a_symbol_of_imperial_G.png)
 
 _**A Polish poster from the plebiscite in Upper Silesia. Workers are standing on a symbol of imperial Germany. The text is written in Polish and German and states “The Crusader is in the dust. Don’t let him rise”**_
 
@@ -99,10 +99,10 @@ Because there was a new **British conservative government. They refused to sign*
 - **Nansen passport** to make the process of returning refugees to their homes easier and quicker
 - Housed hundreds of thousands when **Turkey crisis.**
 *They lacked funding and after 1930 was useless because the influence of the [[LON]] declined too.*
-![Fridjof Nansen, head of the Refugees Commission, with Greek refugees (1922)](https://cdn.savemyexams.com/cdn-cgi/image/f=auto,width=3840/https://cdn.savemyexams.com/uploads/2024/02/cie-refugee-source-1.png)
+![Fridjof Nansen, head of the Refugees Commission, with Greek refugees (1922)](media/Fridjof_Nansen,_head_of_the_Refugees_Commission,_with_Greek_refugees_(1922).png)
 
 _**Fridjof Nansen, head of the Refugees Commission, with Greek refugees (1922)**_
-![A Nansen passport, used by the League from 1922 to 1938, to allow stateless refugees to travel](https://cdn.savemyexams.com/cdn-cgi/image/f=auto,width=3840/https://cdn.savemyexams.com/uploads/2024/02/cie-passport-source.png)
+![A Nansen passport, used by the League from 1922 to 1938, to allow stateless refugees to travel](media/A_Nansen_passport,_used_by_the_League_from_1922_to_1938,_to_allow_stateless_refugees_to_travel.png)
 
 _**A Nansen passport, used by the League from 1922 to 1938, to allow stateless refugees to travel**_
 ### Working conditions **2/5**
@@ -117,7 +117,7 @@ _**A Nansen passport, used by the League from 1922 to 1938, to allow stateless r
 - prevented a typhus epidemic in Siberia
 - reduced leprosy, malaria, and yellow fever
 *Regarded as the most successful of the [[LON]]'s humanitarian work. Lacked experts after 1930s.
-![The League’s Malaria Commission on the River Danube in 1929. The Commission is collecting mosquito larvae to reduce the spread of malaria](https://cdn.savemyexams.com/cdn-cgi/image/f=auto,width=3840/https://cdn.savemyexams.com/uploads/2024/02/cie-malaria-source.png)
+![The League’s Malaria Commission on the River Danube in 1929. The Commission is collecting mosquito larvae to reduce the spread of malaria](media/The_League’s_Malaria_Commission_on_the_River_Danube_in_1929._The_Commission_is_collecting_mosquito_l.png)
 
 _**The League’s Malaria Commission on the River Danube in 1929. The Commission is collecting mosquito larvae to reduce the spread of malaria. Image courtesy of Wellcome Trust**_
 ### Forced [[Labor]] **3/5**

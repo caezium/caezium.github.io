@@ -62,4 +62,4 @@
     - Make sure you label each vertex with the correct letters
         
 
-![constructing an SSS triangle](https://cdn.savemyexams.com/cdn-cgi/image/f=auto,width=3840/https://cdn.savemyexams.com/uploads/2024/07/24432_sss-constructions-rn-diagram-1.png)
+![constructing an SSS triangle](media/constructing_an_SSS_triangle.png)

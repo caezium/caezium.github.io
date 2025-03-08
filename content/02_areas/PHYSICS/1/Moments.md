@@ -7,7 +7,7 @@ draft: false
  The **moment** of a force is the **turning effect** produced when a force is exerted on an object
 - Forces can cause the **rotation** of an object about a fixed **pivot**
 - This rotation can be **clockwise** or **anticlockwise**
-![pivot-force, IGCSE & GCSE Physics revision notes|394](https://cdn.savemyexams.com/cdn-cgi/image/f=auto,width=3840/https://cdn.savemyexams.com/uploads/2020/02/pivot-force.png)
+![pivot-force, IGCSE & GCSE Physics revision notes|394](media/pivot-force,_IGCSE_&_GCSE_Physics_revision_notes!394.png)
 
 _**The force applied will cause the object to rotate clockwise about the pivot**_
 
@@ -24,7 +24,7 @@ _**The force applied will cause the object to rotate clockwise about the pivot**
     - If you try to push open a door right next to the hinge, it is very difficult, as it requires a lot of force
     - If you push the door open at the side furthest from the hinge, then it is much easier, as less force is required
 
-![2-4-door-momentts-example](https://cdn.savemyexams.com/cdn-cgi/image/f=auto,width=3840/https://cdn.savemyexams.com/uploads/2024/02/2-4-door-momentts-example.png)
+![2-4-door-momentts-example](media/2-4-door-momentts-example.png)
 
 
 
@@ -38,7 +38,7 @@ _**The force applied will cause the object to rotate clockwise about the pivot**
 
 #### Principle of moments
 
-![Clockwise and anticlockwise moments|453](https://cdn.savemyexams.com/cdn-cgi/image/f=auto,width=3840/https://cdn.savemyexams.com/uploads/2020/09/4.1.2.1-Clockwise-or-anticlockwise-moment.png)
+![Clockwise and anticlockwise moments|453](media/Clockwise_and_anticlockwise_moments!453.png)
 ![[Moments-20241116140557095.png|536]]
 
 

@@ -35,7 +35,7 @@ the amount of [[energy]] required to raise [[[[Temperature]]|the [[tempe]]rature
 | Gold          | 130                                |
 #### Specific heat capacity of water and copper
 
-![Specific Heat Capacity Comparison of Water and Copper, for IB Physics Revision Notes](https://cdn.savemyexams.com/cdn-cgi/image/f=auto,width=3840/https://cdn.savemyexams.com/uploads/2023/07/specific-heat-capacity-comparison-of-water-and-copper-ib-physics-revision-notes.webp)
+![Specific Heat Capacity Comparison of Water and Copper, for IB Physics Revision Notes](media/Specific_Heat_Capacity_Comparison_of_Water_and_Copper,_for_IB_Physics_Revision_Notes.png)
 
 _**The high specific heat capacity of water means it heats up and cools down much slower than metals, such as copper**_
 

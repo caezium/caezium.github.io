@@ -7,6 +7,18 @@ $P_{atm} = 101000 Pa$
 1010hPa
 hecta
 
+##### Solids
+**Examples**
+1. Increase the pressure by *Reducing* the area
+	- knife, needle
+2. Reduce the pressure by *increasing* the area
+	- skis, wall foundations
+##### Gases
+$a.t.m.$ -> atmosphere pressure 100kPa
+Altitude Increase:
+> 	Smaller column of air above us
+> 	Air will be less dense
+
 ![[Pressure-20250305212824817.png]]
 ![[Pressure-20250305212846021.png]]
 ![[Pressure-20250305212857363.png]]

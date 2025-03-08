@@ -37,16 +37,16 @@ distance between particles can be seen as potential [[energy]], the closer they 
 
 ### Comparison Table
 
-|**State of [[Matter]]**|**[[Solid]]**|**[[Liquid]]**|**[[Gas]]**|
-|---|---|---|---|
-|Particle arrangement|Fixed pattern (lattice structure)|Random|Random|
-|Space between particles|No space|Some space|Large space|
-|Particle movement|Vibrates around a fixed position|Flows past each other|Moves around at different speeds|
-|Particle [[energy]]|Low|Medium|High|
-|Substance shape|Fixed|Not fixed|Not fixed|
-|Substance volume|Fixed|Fixed|Not fixed|
-|Substance [[density]]|High|Medium|Low|
-|2D diagram of particle arrangement|![table-solid-arrangement-ib-physics-revision-notes](https://cdn.savemyexams.com/cdn-cgi/image/f=auto,width=3840/https://cdn.savemyexams.com/uploads/2023/07/table-solid-arrangement-ib-physics-revision-notes.png)|![table-liquid-arrangement-ib-physics-revision-notes](https://cdn.savemyexams.com/cdn-cgi/image/f=auto,width=3840/https://cdn.savemyexams.com/uploads/2023/07/table-liquid-arrangement-ib-physics-revision-notes.png)|![table-gas-arrangement-ib-physics-revision-notes](https://cdn.savemyexams.com/cdn-cgi/image/f=auto,width=3840/https://cdn.savemyexams.com/uploads/2023/07/table-gas-arrangement-ib-physics-revision-notes.png)|
+|**State of [[Matter]]**| **[[Solid]]**                                                                                                                                                                     |**[[Liquid]]**|**[[Gas]]**|
+| ---------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
+|Particle arrangement| Fixed pattern (lattice structure)                                                                                                                                                 |Random|Random|
+|Space between particles| No space                                                                                                                                                                          |Some space|Large space|
+|Particle movement| Vibrates around a fixed position                                                                                                                                                  |Flows past each other|Moves around at different speeds|
+|Particle [[energy]]| Low                                                                                                                                                                               |Medium|High|
+|Substance shape| Fixed                                                                                                                                                                             |Not fixed|Not fixed|
+|Substance volume| Fixed                                                                                                                                                                             |Fixed|Not fixed|
+|Substance [[density]]| High                                                                                                                                                                              |Medium|Low|
+|2D diagram of particle arrangement| ![table-solid-arrangement-ib-![[media/table-solid-arrangement-ib-physics-revision-notes.png]]physics-revision-notes](media/table-solid-arrangement-ib-physics-revision-notes.png) |![table-liquid-arrangement-ib-physics-revision-notes](media/table-liquid-arrangement-ib-physics-revision-notes.png)|![table-gas-arrangement-ib-physics-revision-notes](media/table-gas-arrangement-ib-physics-revision-notes.png)|
 
 ---
 ## Changes of State

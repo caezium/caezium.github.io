@@ -7,11 +7,11 @@ Chemistry is the study of how **[[Matter]]** behaves and its properties.
 [[Matter]] is anything that has mass and takes up space.
 
 **[[Atoms]]** are building blocks of [[Matter]]. It's the smallest unit of an element with all properties of the element. 
-**[[Elements]]** - made of a unique kind of atom
-**Compounds** - made of two or more different kinds of [[Elements]] bonded together.
+**[[02_areas/CHEM/2/Element|element]]** - made of a unique kind of atom
+**Compounds** - made of two or more different kinds of [[02_areas/CHEM/2/Element|Element|elements]] bonded together.
 
 pure substances - same [[Atoms]]/molecules
-[[Mixture]] - [[Atoms]] and molecules are next to each other, but not bonded together
+[[02_areas/CHEM/2/Mixture]] - [[Atoms]] and molecules are next to each other, but not bonded together
 
 **vapor** - can be compressed to a liquid. unlike gas.
 
@@ -83,3 +83,17 @@ Sublimation -> solid to gas without turning to liquid, result of vapor pressure 
 heating curve stops after reach points because the energy we put in are used to break the intermolecular forces.
 
 
+
+### Phase Transition
+
+![[02_areas/CHEM/1/attachments/dbee8441aaafaeeed739cbb552d7fc25_MD5.png]]
+ *Vaporisation*: *evaporation* and *boiling*
+
+| *States* | *Shape*  | *Volume* | *Compress* | *Particles*                                                       |
+| -------- | -------- | -------- | ---------- | ----------------------------------------------------------------- |
+| Solid    | Fixed    | Fixed    | Cannot     | - closely packed <br>- vibrate about fixed positions              |
+| Liquid   | No Fixed | Fixed    | Cannot     | - less closely packed <br>- can move freely throughout the liquid |
+| Gas      | No Fixed | no Fixed | Can        | - far apart<br>- move about rapidly in any direction              |
+$$ T(E_k) = P\cdot V$$
+
+ $T$ = Temperature                          $P$ = Pressure                          $V$ = Volume

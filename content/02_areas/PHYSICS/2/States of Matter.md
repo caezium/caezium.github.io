@@ -26,7 +26,7 @@ distance between particles can be seen as potential [[energy]], the closer they 
 
 #### Water as a [[solid]], [[liquid]], and a [[gas]]
 
-![Water as a Solid, Liquid, and Gas, for IB Physics Revision Notes](https://cdn.savemyexams.com/cdn-cgi/image/f=auto,width=3840/https://cdn.savemyexams.com/uploads/2023/07/water-as-a-solid-liquid-and-gas-ib-physics-revision-notes.webp)
+![Water as a Solid, Liquid, and Gas, for IB Physics Revision Notes](media/Water_as_a_Solid,_Liquid,_and_Gas,_for_IB_Physics_Revision_Notes.png)
 
 _**Water has three states of [[matter]]; [[solid]] ice, [[liquid]] water and gaseous steam. The difference between each state is the arrangement of the particles**_
 
@@ -41,7 +41,7 @@ _**Water has three states of [[matter]]; [[solid]] ice, [[liquid]] water and gas
 
 #### Molecular arrangement in a [[solid]]
 
-![Molecular Arrangement in a Solid, for IB Physics Revision Notes](https://cdn.savemyexams.com/cdn-cgi/image/f=auto,width=3840/https://cdn.savemyexams.com/uploads/2023/07/3-1-1-diagram-2-solids.webp)
+![Molecular Arrangement in a Solid, for IB Physics Revision Notes](media/Molecular_Arrangement_in_a_Solid,_for_IB_Physics_Revision_Notes.png)
 
 _**In a [[solid]], particles are arranged in a fixed pattern, with no spaces between them, and are only able to vibrate about their fixed positions**_
 
@@ -61,7 +61,7 @@ _**In a [[solid]], particles are arranged in a fixed pattern, with no spaces bet
 
 #### Molecular arrangement in a liquid
 
-![Molecular Arrangement in a Liquid, for IB Physics Revision Notes](https://cdn.savemyexams.com/cdn-cgi/image/f=auto,width=3840/https://cdn.savemyexams.com/uploads/2023/07/3-1-1-diagram-2-liquids.webp)
+![Molecular Arrangement in a Liquid, for IB Physics Revision Notes](media/Molecular_Arrangement_in_a_Liquid,_for_IB_Physics_Revision_Notes.png)
 
 _**In a [[liquid]], particles are arranged randomly and are able to flow past one another**_
 - As a result of the arrangement and behaviour of their particles, liquids...
@@ -81,7 +81,7 @@ _**In a [[liquid]], particles are arranged randomly and are able to flow past on
     
 #### Molecular arrangement in a [[gas]]
 
-![Molecular Arrangement in a Gas, for IB Physics Revision Notes](https://cdn.savemyexams.com/cdn-cgi/image/f=auto,width=3840/https://cdn.savemyexams.com/uploads/2023/07/3-1-2-gas-density.webp)
+![Molecular Arrangement in a Gas, for IB Physics Revision Notes](media/Molecular_Arrangement_in_a_Gas,_for_IB_Physics_Revision_Notes.png)
 
 _**In a [[gas]], particles can move around freely in all directions (shown by the arrows)**_
 
@@ -91,6 +91,19 @@ _**In a [[gas]], particles can move around freely in all directions (shown by th
     - Can be compressed
     - Have the lowest densities (∼1000 times smaller than the densities of solids and liquids)
         
+
+## kinetic theory of gases
+> Molecules of a gas behave as identical (or all have the same mass)
+> Molecules of gas are hard, perfectly elastic spheres
+> The molecules are in continuous random motion
+> There are no forces of attraction or repulsion between the molecules
+> External forces (e.g. gravity) are ignored
+> Newton's laws apply
+> The volume of the molecules is negligible compared to the volume of the container
+> The molecules collide perfectly elastically with the walls of the container exerting a pressure upon them
+> The time of a collision is negligible compared to the time between collisions
+> There are a very large number of molecules
+
 
 ---
 ## Comparison Table
@@ -104,7 +117,7 @@ _**In a [[gas]], particles can move around freely in all directions (shown by th
 | Substance shape                    | Fixed                                                                                                                                                                                                               | Not fixed                                                                                                                                                                                                             | Not fixed                                                                                                                                                                                                       |
 | Substance volume                   | Fixed                                                                                                                                                                                                               | Fixed                                                                                                                                                                                                                 | Not fixed                                                                                                                                                                                                       |
 | Substance [[density]]                  | High                                                                                                                                                                                                                | Medium                                                                                                                                                                                                                | Low                                                                                                                                                                                                             |
-| 2D diagram of particle arrangement | ![table-solid-arrangement-ib-physics-revision-notes](https://cdn.savemyexams.com/cdn-cgi/image/f=auto,width=3840/https://cdn.savemyexams.com/uploads/2023/07/table-solid-arrangement-ib-physics-revision-notes.png) | ![table-liquid-arrangement-ib-physics-revision-notes](https://cdn.savemyexams.com/cdn-cgi/image/f=auto,width=3840/https://cdn.savemyexams.com/uploads/2023/07/table-liquid-arrangement-ib-physics-revision-notes.png) | ![table-gas-arrangement-ib-physics-revision-notes](https://cdn.savemyexams.com/cdn-cgi/image/f=auto,width=3840/https://cdn.savemyexams.com/uploads/2023/07/table-gas-arrangement-ib-physics-revision-notes.png) |
+| 2D diagram of particle arrangement | ![table-solid-arrangement-ib-physics-revision-notes](media/table-solid-arrangement-ib-physics-revision-notes.png) | ![table-liquid-arrangement-ib-physics-revision-notes](media/table-liquid-arrangement-ib-physics-revision-notes.png) | ![table-gas-arrangement-ib-physics-revision-notes](media/table-gas-arrangement-ib-physics-revision-notes.png) |
 
 ---
 ## Changes of State
@@ -131,7 +144,7 @@ _**In a [[gas]], particles can move around freely in all directions (shown by th
 
 ### Phase changes of water
 
-![changes-of-state-of-water-ib-physics-revision-notes](https://cdn.savemyexams.com/cdn-cgi/image/f=auto,width=3840/https://cdn.savemyexams.com/uploads/2023/07/changes-of-state-of-water-ib-physics-revision-notes.webp)
+![changes-of-state-of-water-ib-physics-revision-notes](media/changes-of-state-of-water-ib-physics-revision-notes.png)
 
 - Each substance has its own melting (or freezing) and boiling points
     - For example, the freezing point of water is 0 °C and its boiling point is 100 °C

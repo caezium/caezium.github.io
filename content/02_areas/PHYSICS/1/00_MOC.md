@@ -15,9 +15,9 @@ draft: false
     - Use [[liquid]] **displacement** to measure volumes for **irregular** shaped objects
 - **Time [[Measurement]]**:
     - clocks, stopwatches, or ticker timers.
-- **[[Significant Figures]]**:
+- **[[02_areas/PHYSICS/00_General/Significant Figures]]**:
     - instrument **measurements d.p.** for accuracy.
-    - calculation **2 or 3 [[significant figures]]**
+    - calculation **2 or 3 [[02_areas/PHYSICS/00_General/Significant Figures]]**
 	    - non-zero digits
 	    - zeros between non-zero digits
 	    - *zeros contain information on how much the number is rounded.*

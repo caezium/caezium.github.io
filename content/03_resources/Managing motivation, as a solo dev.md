@@ -7,7 +7,7 @@ One of the biggest sticking points of being a solo dev is maintaining motivation
 
 I’ve always known that I’m more extrinsically than intrinsically motivated, so I have a couple systems that help to give me bursts of external motivation. For example, the Money Bots, which pop up every time someone subscribes.
 
-![](https://mbuffett.com/motivation/money_bots.png)
+![](media/money_bots.png)
 
 I’m a push notification ascetic, but these pop up right on my home screen. It’s a small burst of motivation every time. There’s a bit of a hedonic treadmill effect; initially a single new subscriber was a massive hit of dopamine/energy, and that’s reduced over time, but they still fuel me.
 
@@ -49,7 +49,7 @@ I really mean doing nothing; I’ll just sit in front of my screen for a few min
 
 This is a two-for-one, I can both update my users, and motivate myself by looking back on progress. I often reach the end of the month, and find myself thinking “did I even get anything done?”, but then you can write your update for the month, and see that you did get a lot done.
 
-![](https://mbuffett.com/motivation/update.png)
+![](media/update.png)
 
 Obviously this cuts both ways though, if you really didn’t get much done you’ll see that too, but facing the truth that you’re not getting enough done can be motivating too.
 

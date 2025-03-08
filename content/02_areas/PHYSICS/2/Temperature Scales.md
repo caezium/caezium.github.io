@@ -24,7 +24,7 @@ _**θ**_ **/ °C = T / K − 273**
 
 ### Conversion chart between [[temperature]] scales in Kelvin and Celsius
 
-![Converting between Temperature Scales in Celsius and Kelvin, for IB Physics Revision Notes](https://cdn.savemyexams.com/cdn-cgi/image/f=auto,width=3840/https://cdn.savemyexams.com/uploads/2023/07/converting-between-temperature-scales-in-celsius-and-kelvin-ib-physics-revision-notes.webp)
+![Converting between Temperature Scales in Celsius and Kelvin, for IB Physics Revision Notes](media/Converting_between_Temperature_Scales_in_Celsius_and_Kelvin,_for_IB_Physics_Revision_Notes.png)
 
 - The divisions on both scales are equal, which means
     **A change in a [[temperature]] of 1 K is equal to a change in [[temperature]] of 1 °C**
@@ -48,7 +48,7 @@ $$E_{k} = \frac{3}{2}k_{B}T$$
 
 ##### Relationship between absolute [[temperature]] and average random kinetic [[energy]] of molecules
 
-![Graph of Absolute Temperature against Kinetic Energy of Molecules, for IB Physics Revision Notes](https://cdn.savemyexams.com/cdn-cgi/image/f=auto,width=3840/https://cdn.savemyexams.com/uploads/2023/07/absolute-temperature-kinetic-energy-of-molecules-graph-ib-physics-revision-notes.webp)
+![Graph of Absolute Temperature against Kinetic Energy of Molecules, for IB Physics Revision Notes](media/Graph_of_Absolute_Temperature_against_Kinetic_Energy_of_Molecules,_for_IB_Physics_Revision_Notes.png)
 
 
 ---
@@ -64,7 +64,7 @@ $$E_{k} = \frac{3}{2}k_{B}T$$
 
 ##### Thermal [[02_areas/PHYSICS/1/Equilibrium|equilibrium]] and the direction of [[energy]] flow
 
-![Two Regions in Thermal Equilibrium, for IB Physics Revision Notes](https://cdn.savemyexams.com/cdn-cgi/image/f=auto,width=3840/https://cdn.savemyexams.com/uploads/2023/07/two-regions-in-thermal-equilibrium-ib-physics-revision-notes.webp)
+![Two Regions in Thermal Equilibrium, for IB Physics Revision Notes](media/Two_Regions_in_Thermal_Equilibrium,_for_IB_Physics_Revision_Notes.png)
 
 _**Two regions of different temperatures will eventually reach thermal [[02_areas/PHYSICS/1/Equilibrium|equilibrium]]**_
 - The two regions need to be in **thermal contact** for this to occur
@@ -73,7 +73,7 @@ _**Two regions of different temperatures will eventually reach thermal [[02_area
 
 ##### Graph showing water and ice reaching thermal [[02_areas/PHYSICS/1/Equilibrium|equilibrium]]
 
-![2-1-6-thermal-equilibrium-graph-ib-2025-physics](https://cdn.savemyexams.com/cdn-cgi/image/f=auto,width=3840/https://cdn.savemyexams.com/uploads/2023/07/2-1-6-thermal-equilibrium-graph-ib-2025-physics.png)
+![2-1-6-thermal-equilibrium-graph-ib-2025-physics](media/2-1-6-thermal-equilibrium-graph-ib-2025-physics.png)
 
 _**The final [[temperature]] of the water depends on the initial [[temperature]] difference between the water and ice**_
 - An example of this is ice in room [[temperature]] water

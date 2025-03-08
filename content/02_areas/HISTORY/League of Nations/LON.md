@@ -20,7 +20,7 @@ On 10th January 1920, the League of Nations began its peacemaking efforts. From 
 
 Despite some early success in the 1920s, the **League failed to keep world peace**. **On 1st September 1939, Hitler invaded Poland**, which triggered the beginning of the Second World War. Historians debate about the extent to which the League of Nations could have prevented the Second World War. Some historians state that the League of Nations was **doomed to fail** due to worldwide events like the **[[Great Depression]]**. Other historians argue that the League **should have done more to prevent Hitler’s aggressive** **foreign policy**. World leaders learnt from the failure of the League when creating the United Nations in 1945.
 #### Causes and Consequences of the League of Nations
-![A flow diagram showing the causes and the consequences of the League of Nations](https://cdn.savemyexams.com/cdn-cgi/image/f=auto,width=3840/https://cdn.savemyexams.com/uploads/2024/02/league-of-nations-multi-flow-diagram-1.png)
+![A flow diagram showing the causes and the consequences of the League of Nations](media/A_flow_diagram_showing_the_causes_and_the_consequences_of_the_League_of_Nations.png)
 
 # The LON body
 - [[The Council]]

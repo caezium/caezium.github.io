@@ -10,7 +10,7 @@ time - clock, stopwatch, ticker timer
 ![[Physical properties quantities and measurement-20241102165241383.png]]
 ###### the time took to run one lap is 50 seconds.
 
-2 or 3 [[Significant Figures]]
+2 or 3 [[02_areas/PHYSICS/00_General/Significant Figures]]
 #### to avoid parallax error
 - reading need to be done at *eye level*
 - eye must be *perpendicular* to the scale

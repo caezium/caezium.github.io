@@ -11,7 +11,7 @@
 
 #### What is internal [[energy]]?
 
-![Internal Energy of Particles, for IB Physics Revision Notes](https://cdn.savemyexams.com/cdn-cgi/image/f=auto,width=3840/https://cdn.savemyexams.com/uploads/2023/07/internal-energy-of-particles-ib-physics-revision-notes.webp)
+![Internal Energy of Particles, for IB Physics Revision Notes](media/Internal_Energy_of_Particles,_for_IB_Physics_Revision_Notes.png)
 
 _**Kinetic [[energy]] and potential [[energy]] are the two [[energy]] stores that make up internal [[energy]]**_
 

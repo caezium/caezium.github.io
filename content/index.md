@@ -8,7 +8,7 @@ title: Welcome, this is not a file cabinet
 
 Welcome internet traveller, how did you find your way here?
 
-This isn't really a public file cabinet. I don't have much to offer you, but I'm glad you're here.
+This isn't really a public cabinet. I don't have much to offer you, but I'm glad you're here.
 
 This is a cabinet full of my thoughts, my ideas, my projects, my work, my life.
 

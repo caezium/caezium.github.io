@@ -36,7 +36,7 @@ money is a **store of value**, it can be stored and used at some time in the fut
 - **Good money** has a number of **essential characteristics** - and modern currency fulfils them all 
     
 
-![Diagram showing the characteristics of money: Durability, Acceptability, Portability, Divisibility, Uniformity, and Scarcity connected to a central box labeled "The Characteristics of Money."](https://cdn.savemyexams.com/cdn-cgi/image/f=auto,width=3840/https://cdn.savemyexams.com/uploads/2024/06/51349_3-1-1-cie-igcse-economics-the-characteristics-of-money.png)
+![Diagram showing the characteristics of money: Durability, Acceptability, Portability, Divisibility, Uniformity, and Scarcity connected to a central box labeled "The Characteristics of Money."](media/Diagram_showing_the_characteristics_of_money!_Durability,_Acceptability,_Portability,_Divisibility,_.png)
 
 #### The six characteristics of good money
 

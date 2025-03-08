@@ -4,7 +4,7 @@ draft: false
 ## The Dawes Plan, 1925
 #### Diagram of the Dawes Plan
 
-![A diagram illustrating how the Dawes Plan economically connected Britain, France and Germany to the USA](https://cdn.savemyexams.com/cdn-cgi/image/f=auto,width=3840/https://cdn.savemyexams.com/uploads/2024/02/dawes-plan-flow-diagram.png)
+![A diagram illustrating how the Dawes Plan economically connected Britain, France and Germany to the USA](media/A_diagram_illustrating_how_the_Dawes_Plan_economically_connected_Britain,_France_and_Germany_to_the_.png)
 
 _**A diagram illustrating how the Dawes Plan economically connected Britain, France and Germany to the USA**_
 

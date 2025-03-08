@@ -5,7 +5,7 @@ Government intervention to address market failure
 they can indirect taxation, subsidies, regulations, privatization, nationalization, 
 [[public goods]] [[merit and demerit goods]] [[externalities]]
 [[Privatization and Nationalization]]
-![Flowchart illustrating reasons for government intervention in markets: correct market failure, support firms, promote equity, collect government revenue, support poorer households.](https://cdn.savemyexams.com/cdn-cgi/image/f=auto,width=3840/https://cdn.savemyexams.com/uploads/2024/06/44729_1-4-1-cie-igcse-economics-reasons-for-government-intervention.png)
+![Flowchart illustrating reasons for government intervention in markets: correct market failure, support firms, promote equity, collect government revenue, support poorer households.](media/Flowchart_illustrating_reasons_for_government_intervention_in_markets!_correct_market_failure,_suppo.png)
 
 _**A diagram showing several reasons for government intervention in mixed economic systems**_  
 
@@ -77,7 +77,7 @@ _**A diagram showing several reasons for government intervention in mixed econom
 ## Maximum Prices
 - A **maximum price** is set by the government **below** the existing **free market equilibrium price** and sellers cannot legally sell the good/service at a higher price 
 - Governments will often use **maximum prices** in order to help **consumers.** Sometimes they are used for **long periods** of time e.g. housing rental markets. Other times they are **short-term solutions** to unusual price increases e.g. petrol 
-![Supply and demand graph showing excess demand. "S" and "D" curves intersect at equilibrium price (Pe) and quantity (Qe). Maximum price (Pmax) leads to shortage between Qs and Qd.](https://cdn.savemyexams.com/cdn-cgi/image/f=auto,width=3840/https://cdn.savemyexams.com/uploads/2024/06/5901_1-4-1-cie-igcse-economics-government-intervention---maximum-price.png)
+![Supply and demand graph showing excess demand. "S" and "D" curves intersect at equilibrium price (Pe) and quantity (Qe). Maximum price (Pmax) leads to shortage between Qs and Qd.](media/Supply_and_demand_graph_showing_excess_demand._!S!_and_!D!_curves_intersect_at_equilibrium_price_(Pe.png)
 _**The maximum price (Pmax) sits below the free market price (Pe) & creates a condition of excess demand (shortage)**_
 
 ### Diagram analysis
@@ -99,7 +99,7 @@ _**The maximum price (Pmax) sits below the free market price (Pe) & creates a co
 - A **minimum price** is set by the government **above** the existing **free market equilibrium price** and sellers cannot legally sell the good/service **at a lower price** 
 - Governments will often use **minimum prices** in order to **help producers** or to**decrease consumption of a demerit good** e.g. alcohol 
 
-![Graph showing excess supply with price on the y-axis and quantity on the x-axis. Supply (S) and demand (D) intersect at equilibrium price (Pe) and quantity (Qe).](https://cdn.savemyexams.com/cdn-cgi/image/f=auto,width=3840/https://cdn.savemyexams.com/uploads/2024/06/36455_1-4-1-cie-igcse-economics-government-intervention---minimum-price.pngie)
+![Graph showing excess supply with price on the y-axis and quantity on the x-axis. Supply (S) and demand (D) intersect at equilibrium price (Pe) and quantity (Qe).](media/Graph_showing_excess_supply_with_price_on_the_y-axis_and_quantity_on_the_x-axis._Supply_(S)_and_dema.png)
 
 _**The imposition of a minimum price (Pmin) above the free market price (Pe) creates a condition of excess supply (surplus)**_
 
@@ -123,7 +123,7 @@ _**The imposition of a minimum price (Pmin) above the free market price (Pe) cre
     - It is set **above** the market rate
     - The minimum wage/hour varies **based on age**
 
-![A national minimum wage (NMW1) is imposed above the market wage rate (We) at W1](https://cdn.savemyexams.com/cdn-cgi/image/f=auto,width=3840/https://cdn.savemyexams.com/uploads/2024/06/49213_3-5-3--cie-igcse-economics-minimum-wage.png)
+![A national minimum wage (NMW1) is imposed above the market wage rate (We) at W1](media/A_national_minimum_wage_(NMW1)_is_imposed_above_the_market_wage_rate_(We)_at_W1.png)
 
 _**A national minimum wage (NMW1) is imposed above the market wage rate (We) at W1**_
 #### Diagram analysis
@@ -149,7 +149,7 @@ _**A national minimum wage (NMW1) is imposed above the market wage rate (We) at 
 - Indirect taxes are levied by the government on **producers.** This is why the supply curve shifts 
 - **Producers and consumers** each pay a share (**incidence**) of the tax        
 
-![The impact of an indirect tax is split between the consumer (A) & the producer (B)](https://cdn.savemyexams.com/cdn-cgi/image/f=auto,width=3840/https://cdn.savemyexams.com/uploads/2024/06/17563_1-2-9-cie-igcse-economics-indirect-tax-incidence.png)
+![The impact of an indirect tax is split between the consumer (A) & the producer (B)](media/The_impact_of_an_indirect_tax_is_split_between_the_consumer_(A)_&_the_producer_(B).png)
 _**The impact of an indirect tax is split between the consumer (A) & the producer (B)**_
 
 ### Diagram analysis
@@ -177,7 +177,7 @@ _**The impact of an indirect tax is split between the consumer (A) & the produce
 - The way a subsidy is shared between producers & consumers is determined by the **price elasticity of demand (PED)** of the product
     - Producers **keep some** of the subsidy & **pass the rest on** to the consumers in the form of lower prices
 
-![Supply and demand graph with subsidies illustrating benefits and costs. Area A shows consumer benefit, area B shows producer benefit, and A+B represents government subsidy cost.](https://cdn.savemyexams.com/cdn-cgi/image/f=auto,width=3840/https://cdn.savemyexams.com/uploads/2024/06/5374_1-2-9-cie-igcse-economics-subsidy.png)
+![Supply and demand graph with subsidies illustrating benefits and costs. Area A shows consumer benefit, area B shows producer benefit, and A+B represents government subsidy cost.](media/Supply_and_demand_graph_with_subsidies_illustrating_benefits_and_costs._Area_A_shows_consumer_benefi.png)
 _**A diagram which demonstrates the cost of a subsidy to the government (A+B) and the share received by the consumer (A) & producer (B)**_
 ### Diagram analysis
 - The original **equilibrium** is at **P****1****Q****1**

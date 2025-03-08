@@ -7,6 +7,12 @@ The Kinetic Particle Theory can be used to explain Diffusion.
 
 ![[IMG_4863.jpeg]]
 
+
+
+$\text{Diffusion\ rate} \cdot \text{molecular\ mass} = k$
+
+
+
 ### more temp also means faster rate of diffusion because particles move faster
 ### Effect of relative molecular mass on the rate of diffusion of gases.
 The rate at which a gas diffuses depends upon its relative molecular mass. 
