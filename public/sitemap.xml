@@ -1,907 +1,1339 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url>
+    <loc>https://caezium.github.io/public/00_maps-of-content/00_00</loc>
+    <lastmod>2025-03-08T15:59:41.198Z</lastmod>
+  </url><url>
     <loc>https://caezium.github.io/public/00_maps-of-content/Untitled</loc>
-    <lastmod>2025-03-05T15:36:00.461Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.198Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/01_projects/CSS/CSS-Cornell</loc>
-    <lastmod>2025-03-05T15:36:00.461Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.198Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/01_projects/CSS/CSS-QOL</loc>
-    <lastmod>2025-03-05T15:36:00.461Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.198Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/01_projects/CSS/CSS-stickynotes3.7</loc>
-    <lastmod>2025-03-05T15:36:00.461Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.198Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/01_projects/CSS/CSS-tasks</loc>
-    <lastmod>2025-03-05T15:36:00.461Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.198Z</lastmod>
   </url><url>
-    <loc>https://caezium.github.io/public/01_projects/custom-js</loc>
-    <lastmod>2025-03-05T15:36:00.466Z</lastmod>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/00_General/Lewis-Formulas</loc>
+    <lastmod>2025-03-08T15:59:41.210Z</lastmod>
   </url><url>
-    <loc>https://caezium.github.io/public/01_projects/robotics/Untitled</loc>
-    <lastmod>2025-03-05T15:36:00.466Z</lastmod>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/00_General/Periodic-Element/Actinium</loc>
+    <lastmod>2025-03-08T15:59:41.210Z</lastmod>
   </url><url>
-    <loc>https://caezium.github.io/public/01_projects/robotics/links</loc>
-    <lastmod>2025-03-05T15:36:00.467Z</lastmod>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/00_General/Periodic-Element/Aluminum</loc>
+    <lastmod>2025-03-08T15:59:41.210Z</lastmod>
   </url><url>
-    <loc>https://caezium.github.io/public/01_projects/robotics/website</loc>
-    <lastmod>2025-03-05T15:36:00.467Z</lastmod>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/00_General/Periodic-Element/Americium</loc>
+    <lastmod>2025-03-08T15:59:41.210Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/00_General/Periodic-Element/Antimony</loc>
+    <lastmod>2025-03-08T15:59:41.211Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/00_General/Periodic-Element/Argon</loc>
+    <lastmod>2025-03-08T15:59:41.211Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/00_General/Periodic-Element/Arsenic</loc>
+    <lastmod>2025-03-08T15:59:41.211Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/00_General/Periodic-Element/Astatine</loc>
+    <lastmod>2025-03-08T15:59:41.211Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/00_General/Periodic-Element/Barium</loc>
+    <lastmod>2025-03-08T15:59:41.211Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/00_General/Periodic-Element/Berkelium</loc>
+    <lastmod>2025-03-08T15:59:41.211Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/00_General/Periodic-Element/Beryllium</loc>
+    <lastmod>2025-03-08T15:59:41.211Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/00_General/Periodic-Element/Bismuth</loc>
+    <lastmod>2025-03-08T15:59:41.211Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/00_General/Periodic-Element/Bohrium</loc>
+    <lastmod>2025-03-08T15:59:41.211Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/00_General/Periodic-Element/Boron</loc>
+    <lastmod>2025-03-08T15:59:41.211Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/00_General/Periodic-Element/Bromine</loc>
+    <lastmod>2025-03-08T15:59:41.211Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/00_General/Periodic-Element/Cadmium</loc>
+    <lastmod>2025-03-08T15:59:41.211Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/00_General/Periodic-Element/Calcium</loc>
+    <lastmod>2025-03-08T15:59:41.211Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/00_General/Periodic-Element/Californium</loc>
+    <lastmod>2025-03-08T15:59:41.211Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/00_General/Periodic-Element/Carbon</loc>
+    <lastmod>2025-03-08T15:59:41.211Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/00_General/Periodic-Element/Cerium</loc>
+    <lastmod>2025-03-08T15:59:41.212Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/00_General/Periodic-Element/Cesium</loc>
+    <lastmod>2025-03-08T15:59:41.212Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/00_General/Periodic-Element/Chlorine</loc>
+    <lastmod>2025-03-08T15:59:41.212Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/00_General/Periodic-Element/Chromium</loc>
+    <lastmod>2025-03-08T15:59:41.212Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/00_General/Periodic-Element/Cobalt</loc>
+    <lastmod>2025-03-08T15:59:41.212Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/00_General/Periodic-Element/Copernicium</loc>
+    <lastmod>2025-03-08T15:59:41.212Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/00_General/Periodic-Element/Copper</loc>
+    <lastmod>2025-03-08T15:59:41.212Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/00_General/Periodic-Element/Curium</loc>
+    <lastmod>2025-03-08T15:59:41.212Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/00_General/Periodic-Element/Darmstadtium</loc>
+    <lastmod>2025-03-08T15:59:41.212Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/00_General/Periodic-Element/Dubnium</loc>
+    <lastmod>2025-03-08T15:59:41.212Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/00_General/Periodic-Element/Dysprosium</loc>
+    <lastmod>2025-03-08T15:59:41.212Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/00_General/Periodic-Element/Einsteinium</loc>
+    <lastmod>2025-03-08T15:59:41.212Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/00_General/Periodic-Element/Erbium</loc>
+    <lastmod>2025-03-08T15:59:41.212Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/00_General/Periodic-Element/Europium</loc>
+    <lastmod>2025-03-08T15:59:41.212Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/00_General/Periodic-Element/Fermium</loc>
+    <lastmod>2025-03-08T15:59:41.212Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/00_General/Periodic-Element/Flerovium</loc>
+    <lastmod>2025-03-08T15:59:41.212Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/00_General/Periodic-Element/Fluorine</loc>
+    <lastmod>2025-03-08T15:59:41.213Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/00_General/Periodic-Element/Francium</loc>
+    <lastmod>2025-03-08T15:59:41.213Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/00_General/Periodic-Element/Gadolinium</loc>
+    <lastmod>2025-03-08T15:59:41.213Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/00_General/Periodic-Element/Gallium</loc>
+    <lastmod>2025-03-08T15:59:41.213Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/00_General/Periodic-Element/Germanium</loc>
+    <lastmod>2025-03-08T15:59:41.213Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/00_General/Periodic-Element/Gold</loc>
+    <lastmod>2025-03-08T15:59:41.213Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/00_General/Periodic-Element/Hafnium</loc>
+    <lastmod>2025-03-08T15:59:41.213Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/00_General/Periodic-Element/Hassium</loc>
+    <lastmod>2025-03-08T15:59:41.213Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/00_General/Periodic-Element/Helium</loc>
+    <lastmod>2025-03-08T15:59:41.213Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/00_General/Periodic-Element/Holmium</loc>
+    <lastmod>2025-03-08T15:59:41.213Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/00_General/Periodic-Element/Hydrogen</loc>
+    <lastmod>2025-03-08T15:59:41.213Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/00_General/Periodic-Element/Indium</loc>
+    <lastmod>2025-03-08T15:59:41.213Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/00_General/Periodic-Element/Iodine</loc>
+    <lastmod>2025-03-08T15:59:41.213Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/00_General/Periodic-Element/Iridium</loc>
+    <lastmod>2025-03-08T15:59:41.214Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/00_General/Periodic-Element/Iron</loc>
+    <lastmod>2025-03-08T15:59:41.214Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/00_General/Periodic-Element/Krypton</loc>
+    <lastmod>2025-03-08T15:59:41.214Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/00_General/Periodic-Element/Lanthanum</loc>
+    <lastmod>2025-03-08T15:59:41.214Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/00_General/Periodic-Element/Lawrencium</loc>
+    <lastmod>2025-03-08T15:59:41.214Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/00_General/Periodic-Element/Lead</loc>
+    <lastmod>2025-03-08T15:59:41.214Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/00_General/Periodic-Element/Lithium</loc>
+    <lastmod>2025-03-08T15:59:41.214Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/00_General/Periodic-Element/Livermorium</loc>
+    <lastmod>2025-03-08T15:59:41.214Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/00_General/Periodic-Element/Lutetium</loc>
+    <lastmod>2025-03-08T15:59:41.214Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/00_General/Periodic-Element/Magnesium</loc>
+    <lastmod>2025-03-08T15:59:41.214Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/00_General/Periodic-Element/Manganese</loc>
+    <lastmod>2025-03-08T15:59:41.214Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/00_General/Periodic-Element/Meitnerium</loc>
+    <lastmod>2025-03-08T15:59:41.214Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/00_General/Periodic-Element/Mendelevium</loc>
+    <lastmod>2025-03-08T15:59:41.214Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/00_General/Periodic-Element/Mercury</loc>
+    <lastmod>2025-03-08T15:59:41.214Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/00_General/Periodic-Element/Molybdenum</loc>
+    <lastmod>2025-03-08T15:59:41.214Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/00_General/Periodic-Element/Moscovium</loc>
+    <lastmod>2025-03-08T15:59:41.214Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/00_General/Periodic-Element/Neodymium</loc>
+    <lastmod>2025-03-08T15:59:41.214Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/00_General/Periodic-Element/Neon</loc>
+    <lastmod>2025-03-08T15:59:41.214Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/00_General/Periodic-Element/Neptunium</loc>
+    <lastmod>2025-03-08T15:59:41.214Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/00_General/Periodic-Element/Nickel</loc>
+    <lastmod>2025-03-08T15:59:41.215Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/00_General/Periodic-Element/Nihonium</loc>
+    <lastmod>2025-03-08T15:59:41.215Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/00_General/Periodic-Element/Niobium</loc>
+    <lastmod>2025-03-08T15:59:41.215Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/00_General/Periodic-Element/Nitrogen</loc>
+    <lastmod>2025-03-08T15:59:41.215Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/00_General/Periodic-Element/Nobelium</loc>
+    <lastmod>2025-03-08T15:59:41.215Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/00_General/Periodic-Element/Oganesson</loc>
+    <lastmod>2025-03-08T15:59:41.215Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/00_General/Periodic-Element/Osmium</loc>
+    <lastmod>2025-03-08T15:59:41.215Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/00_General/Periodic-Element/Oxygen</loc>
+    <lastmod>2025-03-08T15:59:41.215Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/00_General/Periodic-Element/Palladium</loc>
+    <lastmod>2025-03-08T15:59:41.215Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/00_General/Periodic-Element/Phosphorus</loc>
+    <lastmod>2025-03-08T15:59:41.215Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/00_General/Periodic-Element/Platinum</loc>
+    <lastmod>2025-03-08T15:59:41.215Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/00_General/Periodic-Element/Plutonium</loc>
+    <lastmod>2025-03-08T15:59:41.215Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/00_General/Periodic-Element/Polonium</loc>
+    <lastmod>2025-03-08T15:59:41.215Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/00_General/Periodic-Element/Potassium</loc>
+    <lastmod>2025-03-08T15:59:41.215Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/00_General/Periodic-Element/Praseodymium</loc>
+    <lastmod>2025-03-08T15:59:41.215Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/00_General/Periodic-Element/Promethium</loc>
+    <lastmod>2025-03-08T15:59:41.215Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/00_General/Periodic-Element/Protactinium</loc>
+    <lastmod>2025-03-08T15:59:41.215Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/00_General/Periodic-Element/Radium</loc>
+    <lastmod>2025-03-08T15:59:41.215Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/00_General/Periodic-Element/Radon</loc>
+    <lastmod>2025-03-08T15:59:41.216Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/00_General/Periodic-Element/Rhenium</loc>
+    <lastmod>2025-03-08T15:59:41.216Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/00_General/Periodic-Element/Rhodium</loc>
+    <lastmod>2025-03-08T15:59:41.216Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/00_General/Periodic-Element/Roentgenium</loc>
+    <lastmod>2025-03-08T15:59:41.216Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/00_General/Periodic-Element/Rubidium</loc>
+    <lastmod>2025-03-08T15:59:41.216Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/00_General/Periodic-Element/Ruthenium</loc>
+    <lastmod>2025-03-08T15:59:41.216Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/00_General/Periodic-Element/Rutherfordium</loc>
+    <lastmod>2025-03-08T15:59:41.216Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/00_General/Periodic-Element/Samarium</loc>
+    <lastmod>2025-03-08T15:59:41.216Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/00_General/Periodic-Element/Scandium</loc>
+    <lastmod>2025-03-08T15:59:41.216Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/00_General/Periodic-Element/Seaborgium</loc>
+    <lastmod>2025-03-08T15:59:41.216Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/00_General/Periodic-Element/Selenium</loc>
+    <lastmod>2025-03-08T15:59:41.216Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/00_General/Periodic-Element/Silicon</loc>
+    <lastmod>2025-03-08T15:59:41.216Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/00_General/Periodic-Element/Silver</loc>
+    <lastmod>2025-03-08T15:59:41.216Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/00_General/Periodic-Element/Sodium</loc>
+    <lastmod>2025-03-08T15:59:41.216Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/00_General/Periodic-Element/Strontium</loc>
+    <lastmod>2025-03-08T15:59:41.216Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/00_General/Periodic-Element/Sulfur</loc>
+    <lastmod>2025-03-08T15:59:41.216Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/00_General/Periodic-Element/Tantalum</loc>
+    <lastmod>2025-03-08T15:59:41.216Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/00_General/Periodic-Element/Technetium</loc>
+    <lastmod>2025-03-08T15:59:41.217Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/00_General/Periodic-Element/Tellurium</loc>
+    <lastmod>2025-03-08T15:59:41.217Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/00_General/Periodic-Element/Tennessine</loc>
+    <lastmod>2025-03-08T15:59:41.217Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/00_General/Periodic-Element/Terbium</loc>
+    <lastmod>2025-03-08T15:59:41.217Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/00_General/Periodic-Element/Thallium</loc>
+    <lastmod>2025-03-08T15:59:41.217Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/00_General/Periodic-Element/Thorium</loc>
+    <lastmod>2025-03-08T15:59:41.217Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/00_General/Periodic-Element/Thulium</loc>
+    <lastmod>2025-03-08T15:59:41.217Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/00_General/Periodic-Element/Tin</loc>
+    <lastmod>2025-03-08T15:59:41.217Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/00_General/Periodic-Element/Titanium</loc>
+    <lastmod>2025-03-08T15:59:41.217Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/00_General/Periodic-Element/Uranium</loc>
+    <lastmod>2025-03-08T15:59:41.217Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/00_General/Periodic-Element/Vanadium</loc>
+    <lastmod>2025-03-08T15:59:41.217Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/00_General/Periodic-Element/Wolfram</loc>
+    <lastmod>2025-03-08T15:59:41.217Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/00_General/Periodic-Element/Xenon</loc>
+    <lastmod>2025-03-08T15:59:41.217Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/00_General/Periodic-Element/Ytterbium</loc>
+    <lastmod>2025-03-08T15:59:41.217Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/00_General/Periodic-Element/Yttrium</loc>
+    <lastmod>2025-03-08T15:59:41.217Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/00_General/Periodic-Element/Zinc</loc>
+    <lastmod>2025-03-08T15:59:41.218Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/00_General/Periodic-Element/Zirconium</loc>
+    <lastmod>2025-03-08T15:59:41.218Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/00_General/Periodic-Table</loc>
+    <lastmod>2025-03-08T15:59:41.218Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/00_General/apparatus</loc>
+    <lastmod>2025-03-08T15:59:41.218Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/CHEM/00_MOC</loc>
-    <lastmod>2025-03-05T15:36:00.469Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.218Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/1/00_MOC</loc>
+    <lastmod>2025-03-08T15:59:41.219Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/CHEM/1/Atoms</loc>
-    <lastmod>2025-03-05T15:36:00.469Z</lastmod>
-  </url><url>
-    <loc>https://caezium.github.io/public/02_areas/CHEM/1/Compound</loc>
-    <lastmod>2025-03-05T15:36:00.469Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.219Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/CHEM/1/Diffusion</loc>
-    <lastmod>2025-03-05T15:36:00.469Z</lastmod>
-  </url><url>
-    <loc>https://caezium.github.io/public/02_areas/CHEM/1/Elements</loc>
-    <lastmod>2025-03-05T15:36:00.469Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.219Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/CHEM/1/Gas</loc>
-    <lastmod>2025-03-05T15:36:00.469Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.219Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/CHEM/1/Kinetic-Particle-Theory</loc>
-    <lastmod>2025-03-05T15:36:00.469Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.219Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/CHEM/1/Liquid</loc>
-    <lastmod>2025-03-05T15:36:00.469Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.219Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/CHEM/1/Matter</loc>
-    <lastmod>2025-03-05T15:36:00.469Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.219Z</lastmod>
   </url><url>
-    <loc>https://caezium.github.io/public/02_areas/CHEM/1/Mixture</loc>
-    <lastmod>2025-03-05T15:36:00.469Z</lastmod>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/1/Molecule</loc>
+    <lastmod>2025-03-08T15:59:41.219Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/CHEM/1/Solid</loc>
-    <lastmod>2025-03-05T15:36:00.469Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.219Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/1/Solids,-Liquids,-and-Gases</loc>
+    <lastmod>2025-03-08T15:59:41.219Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/CHEM/1/States-of-Matter</loc>
-    <lastmod>2025-03-05T15:36:00.469Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.219Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/CHEM/1/Temperature-and-Pressure-on-Gas</loc>
-    <lastmod>2025-03-05T15:36:00.469Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.219Z</lastmod>
   </url><url>
-    <loc>https://caezium.github.io/public/02_areas/CHEM/1/Untitled</loc>
-    <lastmod>2025-03-05T15:36:00.469Z</lastmod>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/12/00_MOC</loc>
+    <lastmod>2025-03-08T15:59:41.220Z</lastmod>
   </url><url>
-    <loc>https://caezium.github.io/public/02_areas/CHEM/apparatus</loc>
-    <lastmod>2025-03-05T15:36:00.469Z</lastmod>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/12/Chromatography</loc>
+    <lastmod>2025-03-08T15:59:41.220Z</lastmod>
   </url><url>
-    <loc>https://caezium.github.io/public/02_areas/CHEM/periodic-table-of-elements</loc>
-    <lastmod>2025-03-05T15:36:00.473Z</lastmod>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/12/Separating-Mixtures</loc>
+    <lastmod>2025-03-08T15:59:41.221Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/12/Separation-and-Purification</loc>
+    <lastmod>2025-03-08T15:59:41.221Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/2/00_MOC</loc>
+    <lastmod>2025-03-08T15:59:41.225Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/2/Allotropes</loc>
+    <lastmod>2025-03-08T15:59:41.225Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/2/Atomic-Structure-and-the-Periodic-Table</loc>
+    <lastmod>2025-03-08T15:59:41.225Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/2/Atomic-Structure</loc>
+    <lastmod>2025-03-08T15:59:41.225Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/2/Compound</loc>
+    <lastmod>2025-03-08T15:59:41.225Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/2/Covalent-Bonding</loc>
+    <lastmod>2025-03-08T15:59:41.225Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/2/Element</loc>
+    <lastmod>2025-03-08T15:59:41.225Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/2/Elements,-Compounds,-and-Mixtures</loc>
+    <lastmod>2025-03-08T15:59:41.225Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/2/Giant-Covalent-Structures</loc>
+    <lastmod>2025-03-08T15:59:41.225Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/2/Ions-and-Ionic-Bonds</loc>
+    <lastmod>2025-03-08T15:59:41.225Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/2/Ions</loc>
+    <lastmod>2025-03-08T15:59:41.225Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/2/Isotopes</loc>
+    <lastmod>2025-03-08T15:59:41.226Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/2/Metallic-Bonding</loc>
+    <lastmod>2025-03-08T15:59:41.226Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/2/Mixture</loc>
+    <lastmod>2025-03-08T15:59:41.226Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/2/Relative-Atomic-Mass</loc>
+    <lastmod>2025-03-08T15:59:41.226Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/2/Simple-Molecules-and-Covalent-Bonds</loc>
+    <lastmod>2025-03-08T15:59:41.226Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/2/Simple-Molecules</loc>
+    <lastmod>2025-03-08T15:59:41.226Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/3/00_MOC</loc>
+    <lastmod>2025-03-08T15:59:41.232Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/CHEM/7/00_MOC</loc>
+    <lastmod>2025-03-08T15:59:41.233Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/CHINESE/00_MOC</loc>
-    <lastmod>2025-03-05T15:36:00.473Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.240Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/CHINESE/Book-report---%E4%B8%89%E4%BD%93</loc>
-    <lastmod>2025-03-05T15:36:00.473Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.240Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/CHINESE/Untitled-2</loc>
+    <lastmod>2025-03-08T15:59:41.240Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/CHINESE/Untitled</loc>
-    <lastmod>2025-03-05T15:36:00.473Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.240Z</lastmod>
   </url><url>
-    <loc>https://caezium.github.io/public/02_areas/CHINESE/next-wednesday-test</loc>
-    <lastmod>2025-03-05T15:36:00.473Z</lastmod>
+    <loc>https://caezium.github.io/public/02_areas/CHINESE/Wednesday-Test-Revision</loc>
+    <lastmod>2025-03-08T15:59:41.240Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/CHINESE/ye</loc>
-    <lastmod>2025-03-05T15:36:00.473Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.246Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/CHINESE/%E4%BA%BA%E4%B9%8B%E5%88%9D%EF%BC%8C%E6%80%A7%E6%9C%AC%E6%81%B6</loc>
-    <lastmod>2025-03-05T15:36:00.473Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.246Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/CHINESE/%E5%8F%B2%E8%AE%B0</loc>
+    <lastmod>2025-03-08T15:59:41.246Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/COMP-SCIENCE/00_MOC</loc>
-    <lastmod>2025-03-05T15:36:00.473Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.246Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/COMP-SCIENCE/1/00_MOC</loc>
-    <lastmod>2025-03-05T15:36:00.473Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.246Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/COMP-SCIENCE/1/Binary-Addition</loc>
-    <lastmod>2025-03-05T15:36:00.473Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.246Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/COMP-SCIENCE/1/Binary-Shifts</loc>
-    <lastmod>2025-03-05T15:36:00.473Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.246Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/COMP-SCIENCE/1/Binary</loc>
-    <lastmod>2025-03-05T15:36:00.473Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.247Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/COMP-SCIENCE/1/Hexadecimal</loc>
-    <lastmod>2025-03-05T15:36:00.473Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.247Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/COMP-SCIENCE/4/00_MOC</loc>
-    <lastmod>2025-03-05T15:36:00.477Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.250Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/COMP-SCIENCE/4/Application-Software</loc>
-    <lastmod>2025-03-05T15:36:00.477Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.250Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/COMP-SCIENCE/4/Command-Line-Interface-and-Graphical-User-Interface</loc>
-    <lastmod>2025-03-05T15:36:00.477Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.250Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/COMP-SCIENCE/4/Extension-Activities</loc>
-    <lastmod>2025-03-05T15:36:00.477Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.250Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/COMP-SCIENCE/4/Integrated-Development-Environment--and--Run-time-Environment</loc>
-    <lastmod>2025-03-05T15:36:00.477Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.250Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/COMP-SCIENCE/4/Operating-Systems-and-Interrupts</loc>
-    <lastmod>2025-03-05T15:36:00.479Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.250Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/COMP-SCIENCE/4/Programming-Languages</loc>
-    <lastmod>2025-03-05T15:36:00.479Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.251Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/COMP-SCIENCE/4/System-Software</loc>
-    <lastmod>2025-03-05T15:36:00.479Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.251Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/COMP-SCIENCE/4/Tools-and-Facilities-in-IDEs</loc>
-    <lastmod>2025-03-05T15:36:00.479Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.251Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/COMP-SCIENCE/4/Translators,-Compilers--and--Interpreters</loc>
-    <lastmod>2025-03-05T15:36:00.479Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.251Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/COMP-SCIENCE/4/Utility-Software</loc>
-    <lastmod>2025-03-05T15:36:00.479Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.251Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/COMP-SCIENCE/4/defragmentation</loc>
-    <lastmod>2025-03-05T15:36:00.483Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.258Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/COMP-SCIENCE/4/hardware</loc>
-    <lastmod>2025-03-05T15:36:00.483Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.258Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/COMP-SCIENCE/4/software</loc>
-    <lastmod>2025-03-05T15:36:00.483Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.258Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/COMP-SCIENCE/7/00_MOC</loc>
-    <lastmod>2025-03-05T15:36:00.483Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.258Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/COMP-SCIENCE/7/01_Main</loc>
-    <lastmod>2025-03-05T15:36:00.483Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.258Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/COMP-SCIENCE/7/Algorithm-design-and-practice</loc>
-    <lastmod>2025-03-05T15:36:00.483Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.258Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/COMP-SCIENCE/7/Bubble-Sort</loc>
-    <lastmod>2025-03-05T15:36:00.483Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.258Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/COMP-SCIENCE/7/Files</loc>
-    <lastmod>2025-03-05T15:36:00.484Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.258Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/COMP-SCIENCE/7/Flowcharts</loc>
-    <lastmod>2025-03-05T15:36:00.484Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.259Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/COMP-SCIENCE/7/Linear-Search</loc>
-    <lastmod>2025-03-05T15:36:00.484Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.259Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/COMP-SCIENCE/7/Sub-Systems-and-Structured-Diagrams</loc>
-    <lastmod>2025-03-05T15:36:00.484Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.259Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/COMP-SCIENCE/7/Test-Data</loc>
-    <lastmod>2025-03-05T15:36:00.484Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.259Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/COMP-SCIENCE/7/Totalling-and-counting</loc>
-    <lastmod>2025-03-05T15:36:00.484Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.259Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/COMP-SCIENCE/7/Trace-Tables</loc>
-    <lastmod>2025-03-05T15:36:00.484Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.259Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/COMP-SCIENCE/7/Validation-and-Verification</loc>
-    <lastmod>2025-03-05T15:36:00.484Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.259Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/COMP-SCIENCE/7/programming-development-life-cycle</loc>
-    <lastmod>2025-03-05T15:36:00.517Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.331Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/COMP-SCIENCE/Data-Representation</loc>
-    <lastmod>2025-03-05T15:36:00.517Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.331Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/COMP-SCIENCE/Hardware</loc>
-    <lastmod>2025-03-05T15:36:00.517Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.331Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/COMP-SCIENCE/Input-and-Output-Devices</loc>
-    <lastmod>2025-03-05T15:36:00.517Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.332Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/COMP-SCIENCE/PSEUDOCODE/00_MOC</loc>
-    <lastmod>2025-03-05T15:36:00.517Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.332Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/COMP-SCIENCE/PSEUDOCODE/01_MAINPSEUDOCODE</loc>
-    <lastmod>2025-03-05T15:36:00.517Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.332Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/COMP-SCIENCE/PSEUDOCODE/Basic-Data-Types</loc>
-    <lastmod>2025-03-05T15:36:00.517Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.332Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/COMP-SCIENCE/PSEUDOCODE/Data-Types---Sequencing</loc>
-    <lastmod>2025-03-05T15:36:00.517Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.332Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/COMP-SCIENCE/PSEUDOCODE/HW</loc>
-    <lastmod>2025-03-05T15:36:00.517Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.332Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/COMP-SCIENCE/PSEUDOCODE/ITERATION</loc>
-    <lastmod>2025-03-05T15:36:00.517Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.332Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/COMP-SCIENCE/PSEUDOCODE/Library-Routines</loc>
-    <lastmod>2025-03-05T15:36:00.517Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.332Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/COMP-SCIENCE/PSEUDOCODE/Maintainable-Programs</loc>
-    <lastmod>2025-03-05T15:36:00.517Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.332Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/COMP-SCIENCE/PSEUDOCODE/One-dimensional-arrays</loc>
-    <lastmod>2025-03-05T15:36:00.519Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.332Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/COMP-SCIENCE/PSEUDOCODE/SELECTION</loc>
-    <lastmod>2025-03-05T15:36:00.519Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.332Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/COMP-SCIENCE/PSEUDOCODE/Sequence,-Selection,-and-Iteration</loc>
-    <lastmod>2025-03-05T15:36:00.519Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.332Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/COMP-SCIENCE/PSEUDOCODE/String-handling</loc>
-    <lastmod>2025-03-05T15:36:00.519Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.332Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/COMP-SCIENCE/PSEUDOCODE/Subroutine---procedures-and-functions</loc>
-    <lastmod>2025-03-05T15:36:00.519Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.332Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/COMP-SCIENCE/PSEUDOCODE/Two-Dimensional-Arrays</loc>
-    <lastmod>2025-03-05T15:36:00.519Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.332Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/COMP-SCIENCE/PSEUDOCODE/Variables-and-Constants</loc>
-    <lastmod>2025-03-05T15:36:00.519Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.333Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/COMP-SCIENCE/PSEUDOCODE/basic-data-display-and-gathering-stuff</loc>
-    <lastmod>2025-03-05T15:36:00.519Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.333Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/COMP-SCIENCE/PSEUDOCODE/nested-statements</loc>
-    <lastmod>2025-03-05T15:36:00.519Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.333Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/COMP-SCIENCE/PSEUDOCODE/totaling-and-counting</loc>
-    <lastmod>2025-03-05T15:36:00.519Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.333Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/COMP-SCIENCE/PSEUDOCODE/variable-scope</loc>
-    <lastmod>2025-03-05T15:36:00.519Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.333Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/COMP-SCIENCE/Python/Python-Exercises</loc>
-    <lastmod>2025-03-05T15:36:00.519Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.333Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/COMP-SCIENCE/Python/chess</loc>
-    <lastmod>2025-03-05T15:36:00.519Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.333Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/COMP-SCIENCE/Storage-Devices</loc>
-    <lastmod>2025-03-05T15:36:00.519Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.333Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/ECON/00_MOC</loc>
-    <lastmod>2025-03-05T15:36:00.519Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.333Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/ECON/1/Dialysis-Machine-Allocation-Dilemma</loc>
-    <lastmod>2025-03-05T15:36:00.519Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.334Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/ECON/1/Goods</loc>
-    <lastmod>2025-03-05T15:36:00.519Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.334Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/ECON/1/The-Basic-Economic-Problem</loc>
-    <lastmod>2025-03-05T15:36:00.519Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.334Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/ECON/10/Price-Changes</loc>
-    <lastmod>2025-03-05T15:36:00.519Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.334Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/ECON/11/PED-and-Total-Revenue</loc>
-    <lastmod>2025-03-05T15:36:00.522Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.336Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/ECON/11/Price-Elasticity-of-Demand</loc>
-    <lastmod>2025-03-05T15:36:00.522Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.336Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/ECON/11/Video-Project</loc>
-    <lastmod>2025-03-05T15:36:00.522Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.336Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/ECON/11/video-project-video</loc>
-    <lastmod>2025-03-05T15:36:00.523Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.338Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/ECON/12/Price-Elasticity-of-Supply</loc>
-    <lastmod>2025-03-05T15:36:00.523Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.338Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/ECON/13/Market-Economic-System</loc>
-    <lastmod>2025-03-05T15:36:00.523Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.339Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/ECON/14/Causes-and-Consequences-of-Market-Failure</loc>
-    <lastmod>2025-03-05T15:36:00.523Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.340Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/ECON/14/Market-Failure-Defined</loc>
-    <lastmod>2025-03-05T15:36:00.523Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.340Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/ECON/14/Market-Failure</loc>
-    <lastmod>2025-03-05T15:36:00.523Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.340Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/ECON/15/Maximum-and-minimum-prices</loc>
-    <lastmod>2025-03-05T15:36:00.525Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.340Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/ECON/15/Mixed-Economic-System</loc>
-    <lastmod>2025-03-05T15:36:00.525Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.340Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/ECON/15/Privatization-and-Nationalization</loc>
-    <lastmod>2025-03-05T15:36:00.525Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.340Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/ECON/15/econproject</loc>
-    <lastmod>2025-03-05T15:36:00.525Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.341Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/ECON/15/externalities</loc>
-    <lastmod>2025-03-05T15:36:00.525Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.341Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/ECON/15/merit-and-demerit-goods</loc>
-    <lastmod>2025-03-05T15:36:00.525Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.341Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/ECON/15/public-goods</loc>
-    <lastmod>2025-03-05T15:36:00.525Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.341Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/ECON/16/Banking</loc>
-    <lastmod>2025-03-05T15:36:00.526Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.341Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/ECON/16/Money</loc>
-    <lastmod>2025-03-05T15:36:00.526Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.341Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/ECON/17/Spending</loc>
-    <lastmod>2025-03-05T15:36:00.526Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.341Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/ECON/2/Capital</loc>
-    <lastmod>2025-03-05T15:36:00.526Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.342Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/ECON/2/Enterprise</loc>
-    <lastmod>2025-03-05T15:36:00.526Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.342Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/ECON/2/Factors-of-Production</loc>
-    <lastmod>2025-03-05T15:36:00.526Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.342Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/ECON/2/Labor</loc>
-    <lastmod>2025-03-05T15:36:00.526Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.342Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/ECON/2/Land</loc>
-    <lastmod>2025-03-05T15:36:00.526Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.342Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/ECON/2/Mobility-of-Factors-of-Production</loc>
-    <lastmod>2025-03-05T15:36:00.526Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.342Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/ECON/2/Quantity-and-Quality-of-the-factors-of-production</loc>
-    <lastmod>2025-03-05T15:36:00.526Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.342Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/ECON/3/Opportunity-Cost</loc>
-    <lastmod>2025-03-05T15:36:00.526Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.342Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/ECON/4/Production-Possibility-Curve</loc>
-    <lastmod>2025-03-05T15:36:00.526Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.343Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/ECON/5/macroeconomics</loc>
-    <lastmod>2025-03-05T15:36:00.526Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.343Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/ECON/5/microeconomics-and-macroeconomics</loc>
-    <lastmod>2025-03-05T15:36:00.526Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.343Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/ECON/5/microeconomics</loc>
-    <lastmod>2025-03-05T15:36:00.526Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.343Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/ECON/6/00_Free-Market-Project</loc>
-    <lastmod>2025-03-05T15:36:00.526Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.343Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/ECON/6/Market-Economic-System-bad</loc>
-    <lastmod>2025-03-05T15:36:00.526Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.343Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/ECON/6/Market-Failure-Defined-prev</loc>
-    <lastmod>2025-03-05T15:36:00.526Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.343Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/ECON/6/Market-System</loc>
-    <lastmod>2025-03-05T15:36:00.526Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.343Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/ECON/6/Mixed-Economic-System</loc>
-    <lastmod>2025-03-05T15:36:00.526Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.344Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/ECON/6/Planned-Economic-system</loc>
-    <lastmod>2025-03-05T15:36:00.526Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.344Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/ECON/6/Price-Mechanism</loc>
-    <lastmod>2025-03-05T15:36:00.526Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.344Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/ECON/6/Resource-allocation</loc>
-    <lastmod>2025-03-05T15:36:00.526Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.344Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/ECON/7/Demand</loc>
-    <lastmod>2025-03-05T15:36:00.528Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.345Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/ECON/7/Individual-and-Market-Demand</loc>
-    <lastmod>2025-03-05T15:36:00.528Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.345Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/ECON/8/Individual-and-Market-Supply</loc>
-    <lastmod>2025-03-05T15:36:00.529Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.346Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/ECON/8/Supply</loc>
-    <lastmod>2025-03-05T15:36:00.529Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.347Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/ECON/9/Disequilibrium</loc>
-    <lastmod>2025-03-05T15:36:00.529Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.347Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/ECON/9/Equilibrium</loc>
-    <lastmod>2025-03-05T15:36:00.529Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.347Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/ECON/9/Price-Determination</loc>
-    <lastmod>2025-03-05T15:36:00.529Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.347Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/ECON/econ</loc>
-    <lastmod>2025-03-05T15:36:00.532Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.352Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/ENGLISH/00_MOC</loc>
-    <lastmod>2025-03-05T15:36:00.532Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.352Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/ENGLISH/AQA/00_MOC</loc>
-    <lastmod>2025-03-05T15:36:00.532Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.352Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/ENGLISH/Poetry/AQA-IGCSE-English-Poetry-Practice-Questions</loc>
-    <lastmod>2025-03-05T15:36:00.532Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.352Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/ENGLISH/Poetry/Below-the-green-corrie</loc>
-    <lastmod>2025-03-05T15:36:00.532Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.352Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/ENGLISH/Poetry/Examine-how-the-poet-presents-power-and-unpredictability-of-nature-in-Wind-and-Storm-on-the-Island</loc>
-    <lastmod>2025-03-05T15:36:00.532Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.352Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/ENGLISH/Poetry/The-Road-Not-Taken</loc>
-    <lastmod>2025-03-05T15:36:00.532Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.352Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/ENGLISH/Poetry/at-castle-boterel</loc>
-    <lastmod>2025-03-05T15:36:00.532Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.352Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/ENGLISH/Poetry/potential-questions</loc>
-    <lastmod>2025-03-05T15:36:00.532Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.352Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/ENGLISH/SLAM-poetry</loc>
-    <lastmod>2025-03-05T15:36:00.532Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.353Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/ENGLISH/Writing/to-Argue/Tourism-Footprints</loc>
-    <lastmod>2025-03-05T15:36:00.533Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.353Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/ENGLISH/Writing/to-Argue/Tourism-is-harmful-to-the-environment-and-local-people.-Argue.</loc>
-    <lastmod>2025-03-05T15:36:00.533Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.353Z</lastmod>
   </url><url>
-    <loc>https://caezium.github.io/public/02_areas/ENGLISH/Writing/to-Imagine/Feedback</loc>
-    <lastmod>2025-03-05T15:36:00.533Z</lastmod>
+    <loc>https://caezium.github.io/public/02_areas/ENGLISH/Writing/to-Imagine/Alamont-and-Bergmann/Feedback</loc>
+    <lastmod>2025-03-08T15:59:41.353Z</lastmod>
   </url><url>
-    <loc>https://caezium.github.io/public/02_areas/ENGLISH/Writing/to-Imagine/Revised</loc>
-    <lastmod>2025-03-05T15:36:00.533Z</lastmod>
+    <loc>https://caezium.github.io/public/02_areas/ENGLISH/Writing/to-Imagine/Alamont-and-Bergmann/Revised</loc>
+    <lastmod>2025-03-08T15:59:41.353Z</lastmod>
   </url><url>
-    <loc>https://caezium.github.io/public/02_areas/ENGLISH/Writing/to-Imagine/Welcome-First</loc>
-    <lastmod>2025-03-05T15:36:00.533Z</lastmod>
+    <loc>https://caezium.github.io/public/02_areas/ENGLISH/Writing/to-Imagine/Alamont-and-Bergmann/Untitled</loc>
+    <lastmod>2025-03-08T15:59:41.353Z</lastmod>
   </url><url>
-    <loc>https://caezium.github.io/public/02_areas/ENGLISH/Writing/to-Imagine/Welcome-Second-Draft</loc>
-    <lastmod>2025-03-05T15:36:00.533Z</lastmod>
+    <loc>https://caezium.github.io/public/02_areas/ENGLISH/Writing/to-Imagine/Alamont-and-Bergmann/Welcome-First</loc>
+    <lastmod>2025-03-08T15:59:41.353Z</lastmod>
   </url><url>
-    <loc>https://caezium.github.io/public/02_areas/ENGLISH/Writing/to-Imagine/Welcome-Third-Draft</loc>
-    <lastmod>2025-03-05T15:36:00.533Z</lastmod>
+    <loc>https://caezium.github.io/public/02_areas/ENGLISH/Writing/to-Imagine/Alamont-and-Bergmann/Welcome-Second-Draft</loc>
+    <lastmod>2025-03-08T15:59:41.353Z</lastmod>
   </url><url>
-    <loc>https://caezium.github.io/public/02_areas/ENGLISH/Writing/to-Imagine/Welcome</loc>
-    <lastmod>2025-03-05T15:36:00.533Z</lastmod>
+    <loc>https://caezium.github.io/public/02_areas/ENGLISH/Writing/to-Imagine/Alamont-and-Bergmann/Welcome-Third-Draft</loc>
+    <lastmod>2025-03-08T15:59:41.354Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/ENGLISH/Writing/to-Imagine/Alamont-and-Bergmann/Welcome</loc>
+    <lastmod>2025-03-08T15:59:41.354Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/ENGLISH/anInspectorCalls/How-does-Priestley-build-a-sense-of-mystery-in-the-play%E2%80%99s-opening-scenes</loc>
-    <lastmod>2025-03-05T15:36:00.535Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.354Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/ENGLISH/anInspectorCalls/How-does-Priestley-introduce-the-theme-of-responsibility-in-the-early</loc>
-    <lastmod>2025-03-05T15:36:00.535Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.354Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/ENGLISH/anInspectorCalls/How-does-Priestley-present-the-Birling-family-dynamics-in-the-opening-scenes</loc>
-    <lastmod>2025-03-05T15:36:00.535Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.354Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/ENGLISH/anInspectorCalls/How-does-Priestley-present-the-theme-of-generational-conflict-between-Sheila-and-her-parents-in-the-early-scenes</loc>
-    <lastmod>2025-03-05T15:36:00.535Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.354Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/ENGLISH/anInspectorCalls/How-does-Priestley-use-dramatic-irony-to-present-Mr.-Birling%E2%80%99s-views-at-the-start-of-the-play</loc>
-    <lastmod>2025-03-05T15:36:00.535Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.354Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/ENGLISH/anInspectorCalls/How-is-the-theme-of-social-class-introduced-in-the-opening-scenes-of-the-play</loc>
-    <lastmod>2025-03-05T15:36:00.535Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.354Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/ENGLISH/anInspectorCalls/In-what-ways-does-Priestley-explore-the-theme-of-gender-roles-in-the-early-part-of-the-play</loc>
-    <lastmod>2025-03-05T15:36:00.535Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.355Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/ENGLISH/anInspectorCalls/Untitled</loc>
-    <lastmod>2025-03-05T15:36:00.535Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.355Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/ENGLISH/anInspectorCalls/What-are-the-initial-impressions-of-the-Inspector-when-he-first-arrives,-and-how-does-Priestley-create-tension</loc>
-    <lastmod>2025-03-05T15:36:00.535Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.355Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/ENGLISH/anInspectorCalls/What-do-we-learn-about-the-relationship-between-Sheila-and-Gerald-early-in-the-play</loc>
-    <lastmod>2025-03-05T15:36:00.535Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.355Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/ENGLISH/anInspectorCalls/What-initial-clues-does-Priestley-provide-about-the-Inspector%E2%80%99s-role-in-the-opening-of-the-play</loc>
-    <lastmod>2025-03-05T15:36:00.535Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.355Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/ENGLISH/anInspectorCalls/What-role-does-Sheila-play-in-the-early-tension-between-the-characters-before-the-Inspector%E2%80%99s-arrival</loc>
-    <lastmod>2025-03-05T15:36:00.536Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.355Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/ENGLISH/anInspectorCalls/how-does-Priestley-present-Mrs-Birlings-attitude-towards-Eva-Smith-early-parts</loc>
-    <lastmod>2025-03-05T15:36:00.536Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.355Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/ENGLISH/anInspectorCalls/how-does-Priestley-present-Sheila's-change-throughout-the-play</loc>
-    <lastmod>2025-03-05T15:36:00.536Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.355Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/ENGLISH/anInspectorCalls/how-does-Priestley-present-the-character-of-Mr.-Birling-in-the-early-parts-of-the-play</loc>
-    <lastmod>2025-03-05T15:36:00.536Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.355Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/ENGLISH/anInspectorCalls/how-is-Gerald-presented-in-early-parts</loc>
-    <lastmod>2025-03-05T15:36:00.536Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.356Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/ENGLISH/anInspectorCalls/last-moments-of-act-2-importance</loc>
-    <lastmod>2025-03-05T15:36:00.536Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.356Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/ENGLISH/anInspectorCalls/mrs-birling-presented</loc>
-    <lastmod>2025-03-05T15:36:00.536Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.356Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/ENGLISH/anInspectorCalls/potential-questions</loc>
-    <lastmod>2025-03-05T15:36:00.536Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.356Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/ENGLISH/anInspectorCalls/starting-with-this-extract,-explore-how-Priestley-presents-Gerald's-attitude-to-women.</loc>
-    <lastmod>2025-03-05T15:36:00.536Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.356Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/ENGLISH/anInspectorCalls/what-do-we-learn-about-eric's-character-in-early-parts-of-the-play</loc>
-    <lastmod>2025-03-05T15:36:00.536Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.356Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/ENGLISH/anInspectorCalls/what-does-the-opening-parts-of-the-play-reveal-about-the-birlings-dynamic</loc>
-    <lastmod>2025-03-05T15:36:00.536Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.356Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/HISTORY/00_MOC</loc>
-    <lastmod>2025-03-05T15:36:00.536Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.356Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/HISTORY/FOR---Appeasement</loc>
-    <lastmod>2025-03-05T15:36:00.536Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.356Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/HISTORY/Hitler's-foreign-policy-and-WW2/00_MOC</loc>
-    <lastmod>2025-03-05T15:36:00.536Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.356Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/HISTORY/Hitler's-foreign-policy-and-WW2/Appeasement</loc>
-    <lastmod>2025-03-05T15:36:00.536Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.356Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/HISTORY/Hitler's-foreign-policy-and-WW2/Consequence-of-the-failures-of-the-LON</loc>
-    <lastmod>2025-03-05T15:36:00.536Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.357Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/HISTORY/Hitler's-foreign-policy-and-WW2/Response-to-the-TOV</loc>
-    <lastmod>2025-03-05T15:36:00.536Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.357Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/HISTORY/Hitler's-foreign-policy-and-WW2/Spanish-civil-war</loc>
-    <lastmod>2025-03-05T15:36:00.536Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.357Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/HISTORY/Hitler's-foreign-policy-and-WW2/Steps-into-WW2</loc>
-    <lastmod>2025-03-05T15:36:00.536Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.357Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/HISTORY/League-of-Nations/00_MOC</loc>
-    <lastmod>2025-03-05T15:36:00.539Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.359Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/HISTORY/League-of-Nations/;ilsdjfa</loc>
-    <lastmod>2025-03-05T15:36:00.539Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.359Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/HISTORY/League-of-Nations/Abyssinia-Crisis</loc>
-    <lastmod>2025-03-05T15:36:00.539Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.359Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/HISTORY/League-of-Nations/Great-Depression</loc>
-    <lastmod>2025-03-05T15:36:00.539Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.359Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/HISTORY/League-of-Nations/Health-Committee</loc>
-    <lastmod>2025-03-05T15:36:00.539Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.359Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/HISTORY/League-of-Nations/International-Labor-Organization</loc>
-    <lastmod>2025-03-05T15:36:00.539Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.359Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/HISTORY/League-of-Nations/LON-brief-timeline</loc>
-    <lastmod>2025-03-05T15:36:00.539Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.359Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/HISTORY/League-of-Nations/LON-in-the-1920s</loc>
-    <lastmod>2025-03-05T15:36:00.539Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.359Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/HISTORY/League-of-Nations/LON-in-the-1930s</loc>
-    <lastmod>2025-03-05T15:36:00.539Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.359Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/HISTORY/League-of-Nations/LON</loc>
-    <lastmod>2025-03-05T15:36:00.539Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.360Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/HISTORY/League-of-Nations/Manchurian-Crisis</loc>
-    <lastmod>2025-03-05T15:36:00.539Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.360Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/HISTORY/League-of-Nations/Refugees-Committee</loc>
-    <lastmod>2025-03-05T15:36:00.539Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.360Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/HISTORY/League-of-Nations/Slavery-Commission</loc>
-    <lastmod>2025-03-05T15:36:00.539Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.360Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/HISTORY/League-of-Nations/The-Assembly</loc>
-    <lastmod>2025-03-05T15:36:00.539Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.360Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/HISTORY/League-of-Nations/The-Council</loc>
-    <lastmod>2025-03-05T15:36:00.539Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.360Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/HISTORY/League-of-Nations/The-Dawes-Plan</loc>
-    <lastmod>2025-03-05T15:36:00.539Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.360Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/HISTORY/League-of-Nations/The-Locarno-Treaty</loc>
-    <lastmod>2025-03-05T15:36:00.539Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.360Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/HISTORY/League-of-Nations/The-Mandates-Commission</loc>
-    <lastmod>2025-03-05T15:36:00.539Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.360Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/HISTORY/League-of-Nations/The-Permanent-Court-of-International-Justice</loc>
-    <lastmod>2025-03-05T15:36:00.539Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.360Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/HISTORY/League-of-Nations/The-Rapallo-Treaty</loc>
-    <lastmod>2025-03-05T15:36:00.539Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.360Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/HISTORY/League-of-Nations/The-Secretariat</loc>
-    <lastmod>2025-03-05T15:36:00.539Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.360Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/HISTORY/League-of-Nations/The-Washington-Naval-Agreement</loc>
-    <lastmod>2025-03-05T15:36:00.539Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.360Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/HISTORY/League-of-Nations/The-World-Disarmament-Conference</loc>
-    <lastmod>2025-03-05T15:36:00.539Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.361Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/HISTORY/League-of-Nations/The-Young-Plan</loc>
-    <lastmod>2025-03-05T15:36:00.539Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.361Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/HISTORY/League-of-Nations/potential-questions</loc>
-    <lastmod>2025-03-05T15:36:00.569Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.406Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/HISTORY/Speech-Opposing-the-Marshall-Plan</loc>
-    <lastmod>2025-03-05T15:36:00.569Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.406Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/HISTORY/TOV-reaction</loc>
-    <lastmod>2025-03-05T15:36:00.569Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.406Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/HISTORY/The-Cold-War/Does-source-A-make-source-B-surprising</loc>
-    <lastmod>2025-03-05T15:36:00.569Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.406Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/HISTORY/The-Cold-War/Why-was-this-cartoon-published-in-1947</loc>
-    <lastmod>2025-03-05T15:36:00.569Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.406Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/HISTORY/The-Economic-and-Political-Consequences-of-the-Treaty-of-Versailles</loc>
-    <lastmod>2025-03-05T15:36:00.572Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.411Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/HISTORY/paper-contents</loc>
-    <lastmod>2025-03-05T15:36:00.572Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.411Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/John-Locke</loc>
+    <lastmod>2025-03-08T15:59:41.411Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/MATHS/Construction-of-Triangles</loc>
-    <lastmod>2025-03-05T15:36:00.572Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.411Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/MATHS/Construction</loc>
-    <lastmod>2025-03-05T15:36:00.572Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.411Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/MATHS/Discrete--and--Continuous-Data</loc>
-    <lastmod>2025-03-05T15:36:00.572Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.411Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/MATHS/EOS</loc>
-    <lastmod>2025-03-05T15:36:00.572Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.411Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/MATHS/Significant-Figures</loc>
+    <lastmod>2025-03-08T15:59:41.411Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/MATHS/Similar-Areas--and--Volume</loc>
-    <lastmod>2025-03-05T15:36:00.572Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.411Z</lastmod>
+  </url><url>
+    <loc>https://caezium.github.io/public/02_areas/MATHS/Untitled</loc>
+    <lastmod>2025-03-08T15:59:41.412Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/PHYSICS/00_General/All-Constants,-Units--and--Formulae</loc>
-    <lastmod>2025-03-05T15:36:00.572Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.412Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/PHYSICS/00_General/Drawing-a-graph</loc>
-    <lastmod>2025-03-05T15:36:00.572Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.412Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/PHYSICS/00_General/Mousetrap-Car-Project</loc>
-    <lastmod>2025-03-05T15:36:00.572Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.412Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/PHYSICS/00_General/SI-Unit-System</loc>
-    <lastmod>2025-03-05T15:36:00.572Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.412Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/PHYSICS/00_General/Scientific-notation</loc>
-    <lastmod>2025-03-05T15:36:00.572Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.412Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/PHYSICS/00_General/Significant-Figures</loc>
-    <lastmod>2025-03-05T15:36:00.572Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.412Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/PHYSICS/00_MOC</loc>
-    <lastmod>2025-03-05T15:36:00.572Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.412Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/PHYSICS/1/00_MOC</loc>
-    <lastmod>2025-03-05T15:36:00.572Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.412Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/PHYSICS/1/Acceleration</loc>
-    <lastmod>2025-03-05T15:36:00.572Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.412Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/PHYSICS/1/Center-of-Gravity</loc>
-    <lastmod>2025-03-05T15:36:00.572Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.413Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/PHYSICS/1/Circular-Motion</loc>
-    <lastmod>2025-03-05T15:36:00.572Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.413Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/PHYSICS/1/Conservation-of-Momentum</loc>
-    <lastmod>2025-03-05T15:36:00.572Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.413Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/PHYSICS/1/Density</loc>
-    <lastmod>2025-03-05T15:36:00.572Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.413Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/PHYSICS/1/Effects-of-Forces</loc>
-    <lastmod>2025-03-05T15:36:00.572Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.413Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/PHYSICS/1/Elastic</loc>
-    <lastmod>2025-03-05T15:36:00.572Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.413Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/PHYSICS/1/Energy,-Work,--and--Power</loc>
-    <lastmod>2025-03-05T15:36:00.572Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.413Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/PHYSICS/1/Energy</loc>
-    <lastmod>2025-03-05T15:36:00.573Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.413Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/PHYSICS/1/Equilibrium</loc>
-    <lastmod>2025-03-05T15:36:00.573Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.413Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/PHYSICS/1/Forces</loc>
-    <lastmod>2025-03-05T15:36:00.573Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.413Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/PHYSICS/1/Friction</loc>
-    <lastmod>2025-03-05T15:36:00.573Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.413Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/PHYSICS/1/Hooke's-Law</loc>
-    <lastmod>2025-03-05T15:36:00.573Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.413Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/PHYSICS/1/Ideal-Gas-Law-basics</loc>
-    <lastmod>2025-03-05T15:36:00.573Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.413Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/PHYSICS/1/Impulse</loc>
-    <lastmod>2025-03-05T15:36:00.573Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.413Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/PHYSICS/1/Mass-and-Weight</loc>
-    <lastmod>2025-03-05T15:36:00.573Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.413Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/PHYSICS/1/Mass</loc>
-    <lastmod>2025-03-05T15:36:00.573Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.414Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/PHYSICS/1/Measurement</loc>
-    <lastmod>2025-03-05T15:36:00.573Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.414Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/PHYSICS/1/Moments</loc>
-    <lastmod>2025-03-05T15:36:00.573Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.414Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/PHYSICS/1/Momentum</loc>
-    <lastmod>2025-03-05T15:36:00.573Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.414Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/PHYSICS/1/Motion</loc>
-    <lastmod>2025-03-05T15:36:00.573Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.414Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/PHYSICS/1/Newton's-Three-Laws-of-Motion</loc>
-    <lastmod>2025-03-05T15:36:00.575Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.414Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/PHYSICS/1/Physical-properties-quantities-and-measurement</loc>
-    <lastmod>2025-03-05T15:36:00.575Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.414Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/PHYSICS/1/Power</loc>
-    <lastmod>2025-03-05T15:36:00.575Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.414Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/PHYSICS/1/Pressure</loc>
-    <lastmod>2025-03-05T15:36:00.575Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.414Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/PHYSICS/1/Speed</loc>
-    <lastmod>2025-03-05T15:36:00.575Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.414Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/PHYSICS/1/Thermodynamic-temperature</loc>
-    <lastmod>2025-03-05T15:36:00.575Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.414Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/PHYSICS/1/Velocity</loc>
-    <lastmod>2025-03-05T15:36:00.575Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.414Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/PHYSICS/1/Weight</loc>
-    <lastmod>2025-03-05T15:36:00.575Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.414Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/PHYSICS/1/Work</loc>
-    <lastmod>2025-03-05T15:36:00.575Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.414Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/PHYSICS/1/vectors</loc>
-    <lastmod>2025-03-05T15:36:00.627Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.500Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/PHYSICS/2/00_MOC</loc>
-    <lastmod>2025-03-05T15:36:00.628Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.500Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/PHYSICS/2/Brownian-Motion</loc>
-    <lastmod>2025-03-05T15:36:00.628Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.500Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/PHYSICS/2/Heating-Curve</loc>
-    <lastmod>2025-03-05T15:36:00.628Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.500Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/PHYSICS/2/Internal-Energy</loc>
-    <lastmod>2025-03-05T15:36:00.628Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.500Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/PHYSICS/2/Kinetic-Particle-Model-of-Matter</loc>
-    <lastmod>2025-03-05T15:36:00.628Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.501Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/PHYSICS/2/Specific-Heat-Capacity</loc>
-    <lastmod>2025-03-05T15:36:00.628Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.501Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/PHYSICS/2/Specific-Latent-Heat</loc>
-    <lastmod>2025-03-05T15:36:00.628Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.501Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/PHYSICS/2/States-of-Matter</loc>
-    <lastmod>2025-03-05T15:36:00.628Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.501Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/PHYSICS/2/Temperature-Scales</loc>
-    <lastmod>2025-03-05T15:36:00.628Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.501Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/PHYSICS/2/Temperature</loc>
-    <lastmod>2025-03-05T15:36:00.628Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.501Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/PHYSICS/2/Thermal-Capacity</loc>
-    <lastmod>2025-03-05T15:36:00.628Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.501Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/PHYSICS/2/Thermal-Expansion</loc>
-    <lastmod>2025-03-05T15:36:00.628Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.501Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/PHYSICS/2/Thermal-Properties-and-Temperature</loc>
-    <lastmod>2025-03-05T15:36:00.628Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.501Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/02_areas/PHYSICS/Practical/practical-planning-questions</loc>
-    <lastmod>2025-03-05T15:36:00.638Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.506Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/03_resources/Managing-motivation,-as-a-solo-dev</loc>
-    <lastmod>2025-03-05T15:36:00.697Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.565Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/03_resources/Programming-Advice</loc>
-    <lastmod>2025-03-05T15:36:00.697Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.565Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/03_resources/Software-Engineer's-Resume-Advice</loc>
-    <lastmod>2025-03-05T15:36:00.697Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.565Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/03_resources/active-listening</loc>
-    <lastmod>2025-03-05T15:36:00.697Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.566Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/03_resources/cs/The-Internet</loc>
-    <lastmod>2025-03-05T15:36:00.762Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.634Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/03_resources/cs/query-string</loc>
-    <lastmod>2025-03-05T15:36:00.763Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.634Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/03_resources/marketing-and-business-tactics</loc>
-    <lastmod>2025-03-05T15:36:00.763Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.634Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/04_permanent/Dimension_C-137</loc>
-    <lastmod>2025-03-05T15:36:00.763Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.634Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/04_permanent/Value-of-Statistical-Life</loc>
-    <lastmod>2025-03-05T15:36:00.763Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.634Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/04_permanent/caesium-137</loc>
-    <lastmod>2025-03-05T15:36:00.769Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.640Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/05_fleeting/doublespeak</loc>
-    <lastmod>2025-03-05T15:36:00.821Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.763Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/05_fleeting/doublethink</loc>
-    <lastmod>2025-03-05T15:36:00.821Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.763Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/99_META/!CSS!</loc>
-    <lastmod>2025-03-05T15:36:00.825Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.779Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/99_META/!HOW-TO-MARKDOWN!</loc>
-    <lastmod>2025-03-05T15:36:00.825Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.779Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/99_META/Evergreen</loc>
-    <lastmod>2025-03-05T15:36:00.825Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.779Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/99_META/LaTeX</loc>
-    <lastmod>2025-03-05T15:36:00.825Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.779Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/99_META/Obsidian-Organization-System</loc>
-    <lastmod>2025-03-05T15:36:00.825Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.783Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/99_META/Obsidian-Settings-and-Plugins</loc>
-    <lastmod>2025-03-05T15:36:00.825Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.783Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/99_META/Zettelkasten</loc>
-    <lastmod>2025-03-05T15:36:00.825Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.783Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/99_META/git-check-ignored</loc>
-    <lastmod>2025-03-05T15:36:00.825Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.784Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/99_META/github-access-token-expiration-date</loc>
-    <lastmod>2025-03-05T15:36:00.825Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.784Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/99_META/quartz-default-darklight-thing</loc>
-    <lastmod>2025-03-05T15:36:00.825Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.784Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/Untitled</loc>
-    <lastmod>2025-03-05T15:36:00.825Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.786Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public//</loc>
-    <lastmod>2025-03-05T15:36:00.825Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.787Z</lastmod>
   </url><url>
     <loc>https://caezium.github.io/public/unlinked</loc>
-    <lastmod>2025-03-05T15:36:00.826Z</lastmod>
+    <lastmod>2025-03-08T15:59:41.799Z</lastmod>
   </url></urlset>
