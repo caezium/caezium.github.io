@@ -1,6 +1,6 @@
 ### Homogeneous or hetergeneous
-- A **homogeneous** mixture has uniform composition and properties throughout
-- A **heterogeneous** mixture has non-uniform composition, so its properties are not the same throughout
+- A **homogeneous** [[02_areas/CHEM/2/Mixture|mixture]] has uniform composition and properties throughout
+- A **heterogeneous** [[02_areas/CHEM/2/Mixture|mixture]] has non-uniform composition, so its properties are not the same throughout
 - It is often possible to see the separate components in a **heterogeneous** **mixture**, but not in a **homogeneous mixture**
 
 ### [[02_areas/CHEM/2/Element|Element]]

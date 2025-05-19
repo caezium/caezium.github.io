@@ -85,7 +85,7 @@ $$ p_1 V_1 = p_2 V_2 $$
 
 
 The ideal gas law (**PV = nRT**) relates the macroscopic properties of ideal gases. An ideal gas is a gas in which the particles (a) do not attract or repel one another and (b) take up no space (have no volume).
-
+![[02_areas/PHYSICS/1/attachments/Pasted image 20250317102836.png]]
 
 ---
 ## continued

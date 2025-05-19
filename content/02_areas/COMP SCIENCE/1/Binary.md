@@ -4,12 +4,12 @@ The components that process data in a computer are made up of very small **logic
 Digital data is discrete data that has only two values, **1 and 0.**
 
 #### binary - base two number system
-1 represents on/true
-0 represents off/false
+**1 represents on/true**
+**0 represents off/false**
 
 a computer contains millions and millions of these tiny switches, which can be turned on and off.
 
-increments of the powers of 2
+**increments of the powers of 2**
 
 128 64 32 16 8 4 2 1 
 0 0 0 0  0 0 0 0
@@ -26,6 +26,11 @@ an alternative method is to divide by 2 and get the remainder to modulus 2
 
 ##### 8 bits is 1 byte, 4 bits is 1 nibble
 ###### things like Mb => megabit, is different to MB => megabyte, factor of 8
+
+
+
+
+---
 
 Recall
 software is a collection of instructions, programs, and data that enable the computer to accomplish a specific task

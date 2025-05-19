@@ -1,3 +1,8 @@
+Answers need to be like
+A logical left shift moves all the binary digits to the left, and right-most empty spaces due to the left shift are filled in with zeros.
+
+
+
 #### What is a logical binary shift?
 - A logical binary shift is how a computer system performs **basic multiplication and division** on non-negative values (0 and positive numbers)
 - Binary digits are **moved left** or **right** a set number of times
@@ -148,7 +153,38 @@ FA97h
 
 
 
-
 Review learning
 WWW: converted them not so slow
 EBI: faster and more accurate, remember multiples of 16 for faster binary and hexadecimal to denary
+
+
+
+
+---
+recall
+binary is a base-two system, can be seen as true or false, on and off, can be read by a computer. overflow will occur if there is not enough spaces dedicated to the binary value after an operation
+
+
+
+## task 1
+11101100 -> 1011 0000 
+no overflow -> 0011 1011 0000
+
+## task 2
+A logical binary shift is shifting all the binary digits of a binary value to the right or the left by one place. Because binary is in base-two, moving a digit to the place to its left will multiply it by two, so a logical binary shift to the left will multiply the whole number by 2, more shifts will multiply it more in powers of 2s. A shift to the right then will divide it by 2. Overflow can occur when shifting to the left is there is not enough space. Shifting to the right cannot represent decimal numbers so you will end up with 0 at the end.
+
+
+## task 3
+a logical binary shift with 8-bit binary numbers might result in a loss of precision due to overflow from a logical shift to the left. A logical binary shift to the right may result in a loss of accuracy because you cannot represent decimals.
+
+## plenary
+00110100 = 52
+1101 0000
+
+multiplied the binary value by 4.
+
+
+
+review learning
+www: understood logical binary shifts and loss of precision and loss of accuracy
+ebi: find out how to multiply binary with non multiples of 2

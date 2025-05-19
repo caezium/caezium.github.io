@@ -4,7 +4,7 @@ draft: false
 # scalars and vectors
 scalars - magnitude only
 - ex. [[mass]], energy, volume
-[[vectors]] - both magnitude and direction
+[[02_areas/PHYSICS/1/vectors]] - both magnitude and direction
 - ex. [[velocity]], force, [[momentum]], [[acceleration]], [[weight]]
 
 

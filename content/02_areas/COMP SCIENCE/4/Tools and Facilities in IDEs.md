@@ -5,6 +5,9 @@
     - **Error diagnostics**
     - **Run-time environment**
     - **Translators**
+
+^ PURPOSE of an IDE
+
 #### Editor
 ![ytHHel1c_replit1](media/ytHHel1c_replit1.png)
 

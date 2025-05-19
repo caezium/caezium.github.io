@@ -1,8 +1,8 @@
-### proton 1+
-### neutron 0
-### electron 1-
+### [[02_areas/CHEM/2/Proton|proton]] 1+
+### [[02_areas/CHEM/2/Neutron|neutron]] 0
+### [[02_areas/CHEM/2/Electron|electron]] 1-
 
-| Name     | Charge | Mass             | Location        | Role                       |
+| Name     | Charge | [[02_areas/PHYSICS/1/Mass\|Mass]]             | Location        | Role                       |
 | -------- | ------ | ---------------- | --------------- | -------------------------- |
 | Proton   | +1     | 1                | Inside Nucleus  | Determine the identity     |
 | Neutron  | 0      | 1                | Inside Nucleus  | Hold together the nucleus  |

@@ -8,5 +8,5 @@ pick one out of two sections
 	7-8 section Chapter 4-6
 
 # **P2**
-chapter 1
+chapter 1 source
 -which means chapter 1 not in P1

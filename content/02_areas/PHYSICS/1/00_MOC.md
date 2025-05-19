@@ -21,9 +21,9 @@ draft: false
 	    - non-zero digits
 	    - zeros between non-zero digits
 	    - *zeros contain information on how much the number is rounded.*
-- **Scalars vs. [[Vectors]]**:
+- **Scalars vs. [[02_areas/PHYSICS/1/vectors]]**:
     - Scalars: *Magnitude only* (e.g., [[mass]], [[energy]]).
-    - [[Vectors]]: *Magnitude and direction* (e.g., [[velocity]], force).
+    - [[02_areas/PHYSICS/1/vectors]]: *Magnitude and direction* (e.g., [[velocity]], force).
     - [[Speed]] measures distance; [[velocity]] measures displacement.
 
 ---

@@ -155,7 +155,7 @@ Nuclear fission in the sun -> [[energy]] -> radiation to Earth
 		- Expensive.
 	7. Biofuels.
 		- Made from plant & animal [[matter]].
-		- Large [[land]] area needed for plant growth.
+		- Large [[02_areas/ECON/01The Basic Economic Problem/2/Land]] area needed for plant growth.
 
 ---
 

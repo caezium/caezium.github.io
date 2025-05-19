@@ -1,0 +1,1 @@
+https://www.blitznotes.org/ib/economics

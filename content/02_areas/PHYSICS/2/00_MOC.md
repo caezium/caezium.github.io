@@ -128,3 +128,23 @@ $$Q = mL$$
 #### Components
 1. **Kinetic [[energy]]** → [[temperature]] change ($\uparrow$ KE = $\uparrow$ temp)
 2. **Potential energy** → state changes (no temp change)
+
+
+
+[[evaporation]]
+
+#### [[Cooling Effect of Evaporation]]
+
+
+
+---
+
+#### 2.3 Transfer of Thermal Energy
+![[02_areas/PHYSICS/2/attachments/image.png]]
+![[02_areas/PHYSICS/2/attachments/image-1.png]]
+
+
+[[02_areas/PHYSICS/2/Conduction|Conduction]]
+[[Convection]]
+[[Radiation]]
+[[Consequences of Thermal Energy Transfer]]

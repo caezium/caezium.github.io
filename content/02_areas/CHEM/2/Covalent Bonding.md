@@ -1,8 +1,8 @@
 
-> [!def] **pairs** of electrons are **shared** between atoms
+> [!def] **pairs** of electrons are **shared** between [[02_areas/CHEM/1/Atoms|atoms]]
 > 
 - **Covalent** bonding occurs between two **non-metals**
-- A covalent bond involves the **electrostatic** **attraction** between nuclei of two atoms and the electrons of their outer shells
+- A covalent bond involves the **electrostatic** **attraction** between nuclei of two [[02_areas/CHEM/1/Atoms|atoms]] and the electrons of their outer shells
 - **No** **electrons** are **transferred** but only **shared** in this type of bonding
 - When a covalent bond is formed, two **atomic orbitals** overlap and a **molecular orbital** is formed
 - Covalent bonding happens because the electrons are more stable when attracted to two nuclei than when attracted to only one
@@ -31,7 +31,7 @@ $H_{2} \ O_{2} \ Cl_{2}$ - *single bond*
 | -------------------------------------- | -------------------------------------- | -------------------------------------- | -------------------------------- |
 | Metals and non-metals                  | Non-metals                             | Non-metals                             | Metals                           |
 | Loss and gain of electrons by atoms    | Share pairs of electrons between atoms | Share pairs of electrons between atoms | Outer electrons free to move     |
-| + and - ions formed attract each other | Small groups of atoms held together    | Billions of atoms are held together    | Billions of positive metal ions  |
+| + and - ions formed attract each other | Small groups of [[02_areas/CHEM/1/Atoms\|atoms]] held together    | Billions of [[02_areas/CHEM/1/Atoms\|atoms]] are held together    | Billions of positive metal [[02_areas/CHEM/2/Ions\|ions]]  |
 | Ionic lattice structure                | A molecular structure                  | Giant covalent lattice structure       | Giant metallic lattice structure |
 | Conduct when *melten*                  | Don't conduct                          | Don't conduct                          | *good* conductivity              |
 | High melting point                     | Low melting point                      | High melting point                     | High melting point               |

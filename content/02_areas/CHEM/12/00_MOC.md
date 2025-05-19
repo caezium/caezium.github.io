@@ -2,12 +2,12 @@
 ## Experimental Techniques and Chemical Analysis
 
 ---
-#### 12.1 Experimental Design
+#### 12.1 [[Experimental Design]]
 ![[02_areas/CHEM/12/attachments/cb4f70e91793277f7396df0e1e6a2903_MD5.jpeg]]
 
 
 ---
-#### 12.2 Acid-base Titrations
+#### 12.2 [[Acid-base Titrations]]
 ![[02_areas/CHEM/12/attachments/68dff0edc233f2d265be61d348d8145e_MD5.jpeg]]
 
 ---

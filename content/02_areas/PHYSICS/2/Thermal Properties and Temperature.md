@@ -70,7 +70,7 @@ _**The high [[specific heat capacity]] of water means it heats up and cools down
 > this is a quantity that changes with [[mass]]. The more [[mass]] a substance has, the more [[energy]] is needed to raise its [[temperature]] by 1$\degree$C
 
 $E = C\Delta T$
-[[capital]] **C= [[Thermal capacity]]**
+[[02_areas/ECON/01The Basic Economic Problem/2/Capital]] **C= [[Thermal capacity]]**
 
 
 

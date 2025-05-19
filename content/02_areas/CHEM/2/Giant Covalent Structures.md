@@ -1,7 +1,15 @@
+- Giant covalent structures are **solids** with **high melting points**
+- They have a huge number of non-metal [[02_areas/CHEM/1/Atoms|atoms]] bonded to other non-metal [[02_areas/CHEM/1/Atoms|atoms]] via strong covalent bonds
+- These structures can also be called **giant lattices** and have a fixed ratio of [[02_areas/CHEM/1/Atoms|atoms]] in the overall structure
+
+- Three examples include diamond, graphite and C60 fullerene
+- All giant covalent structures have **high melting points** because
+    - There are strong covalent bonds between [[02_areas/CHEM/1/Atoms|atoms]]
+    - These require lots of [[02_areas/PHYSICS/1/Energy|energy]] to overcome
 
 - **Covalent bonds** are bonds between nonmetals in which electrons are **shared** between the atoms
-- In some cases, it is not possible to satisfy the bonding capacity of a substance in the form of a molecule; the bonds between atoms continue indefinitely, and a large lattice is formed. There are no individual molecules and covalent bonding exists between all adjacent atoms
-- Such substances are called **giant covalent substances**, and the most important examples are C and SiO$_{2}$
+- In some cases, it is not possible to satisfy the bonding capacity of a substance in the form of a molecule; the bonds between atoms continue indefinitely, and a large lattice is formed. There are no individual molecules and [[02_areas/CHEM/2/Covalent Bonding|covalent bonding]] exists between all adjacent [[02_areas/CHEM/1/Atoms|atoms]]
+- Such substances are called **giant covalent substances**, and the most important examples are [[02_areas/CHEM/00_General/Periodic Element/Carbon|C]] and SiO$_{2}$
 - Graphite, diamond, buckminsterfullerene and graphene are **allotropes** of carbon
 
 
@@ -37,7 +45,7 @@
 ### **Properties**
 
 1. Each carbon atom is joined with **three other carbon atoms**
-2. **High Melting and Boiling Points** - Strong covalent bonds within the layers (but the layers are attracted to each other by weak intermolecular forces)
+2. **High Melting and Boiling Points** - Strong covalent bonds within the layers (but the layers are attracted to each other by weak intermolecular [[02_areas/PHYSICS/1/Forces|forces]])
 3. Contains **Delocalised/Free Moving Electrons**
 4. It can be scratched easily
 5. Opaque/Black

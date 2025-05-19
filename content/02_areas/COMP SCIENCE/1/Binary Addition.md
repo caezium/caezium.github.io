@@ -1,7 +1,14 @@
-To add binary, 1 + 1 =10, you carry the one over to the next digit.
+**To add binary, 1 + 1 =10, you carry the one over to the next digit.**
 
 #### Overflow error
 ![[Binary Addition-20250304103242180.png]]
+
+
+
+
+
+
+
 
 
 ---

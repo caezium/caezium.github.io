@@ -2,7 +2,7 @@
 [[02_areas/CHEM/1/00_MOC|00_MOC]]
 
 ## Atoms, Elements, and Compounds
-[[02_areas/CHEM/00_MOC|00_MOC]]
+[[02_areas/CHEM/2/00_MOC|00_MOC]]
 
 ## Stoichiometry
 [[02_areas/CHEM/3/00_MOC|00_MOC]]

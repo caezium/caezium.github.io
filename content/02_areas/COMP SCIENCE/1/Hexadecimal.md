@@ -1,9 +1,9 @@
-every nibble, 4 bits, of binary can be represented with one digit of hexadecimal.
+**every nibble, 4 bits, of binary can be represented with one digit of hexadecimal.**
 
-Hexadecimal is used because it is easier for a human to read rather than binary. Binary can be very long, ex. you are finding differences between two long strings.
-- hexadecimal is a shorter way of representing binary, takes less space
-- easier to read, write, and understand
-- is easier to debug and locate errors in data
+Hexadecimal is used because it is **easier for a human to read** rather than binary. Binary can be very long, ex. you are finding differences between two long strings.
+- hexadecimal is a shorter way of representing binary, takes **less space**
+- **easier** to read, write, and understand
+- is easier to debug and **locate errors in data**
 
 ##### Some uses of hexadecimal
 - **error code**
@@ -26,11 +26,16 @@ Hexadecimal is used because it is easier for a human to read rather than binary.
 	- IPv4 has been improved upon by the adoption of IPv6. IPv6 address is a 128-bit number broken down into 16-bit chunks, represented by a hexadecimal number. ex. a8fb:7a88:fff0:0fff:3d21:2085:66fb:f0fa
 
 #### conversion
-to convert you can take each binary nibble and turn that into a hex digit then do it in order then concat them together
+to convert you can **take each binary nibble and turn that into a hex digit** then do it in order then concat them together
 or you can do the division and remainder way
 
 #### hex - 16
 
+
+
+
+
+---
 
 
 Recall

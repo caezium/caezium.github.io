@@ -15,3 +15,7 @@ RF value
 - higher solubility -> travel further
 
 ![[02_areas/CHEM/12/attachments/6d7a51546a6756d9eeedc8d8cc89fb76_MD5.png]]
+
+
+Retardation Factor RF
+![[02_areas/CHEM/12/attachments/3077bdb3fd8073972930acf51fa9a823_MD5.jpeg]]

@@ -28,10 +28,10 @@ measure **multiple times so it's more accurate** because repeating helps **reduc
 
 
 ---
-# scalars and [[vectors]]
+# scalars and [[02_areas/PHYSICS/1/vectors]]
 **scalars - magnitude only**
 - ex. [[mass]], energy, volume
-**[[vectors]] - both magnitude and direction**
+**[[02_areas/PHYSICS/1/vectors]] - both magnitude and direction**
 - ex. [[velocity]], force, [[momentum]], [[acceleration]], [[weight]]
 
 
@@ -60,7 +60,7 @@ measure **multiple times so it's more accurate** because repeating helps **reduc
 *[[Speed]]* is a measure of the **distance** travelled by an object per unit time, **regardless of the direction**
 
 *[[Velocity]]* is a measure of the **displacement** of an object per unit time, **including the direction**
-### Adding [[vectors]]
+### Adding [[02_areas/PHYSICS/1/vectors]]
 ![[IMG_5041.jpeg|507]]
 
 

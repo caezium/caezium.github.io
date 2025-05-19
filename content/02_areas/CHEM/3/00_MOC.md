@@ -11,7 +11,7 @@
 
 
 ---
-#### 3.3 The Mole and the Avogadro Constant
+#### 3.3 [[The Mole and the Avogadro Constant]]
 ![[02_areas/CHEM/3/attachments/09a77c0fe5e0a0318034f5be1d195938_MD5.jpeg]]
 
 

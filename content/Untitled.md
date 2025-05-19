@@ -63,7 +63,7 @@ remove space after headers when edit or preview mode
 
 #todo 
 
-[[cabinet/not a file cabinet/Untitled]][^1]
+[[Untitled]][^1]
 https://www.obsidian.md
 *----------------------------------------------------------------
 WOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
