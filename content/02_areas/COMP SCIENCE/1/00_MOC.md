@@ -1,0 +1,11 @@
+[[02_areas/COMP SCIENCE/1/Binary|Binary]]
+- [[02_areas/COMP SCIENCE/1/Binary Addition|Binary Addition]]
+- [[02_areas/COMP SCIENCE/1/Binary Shifts|Binary Shifts]]
+- [[02_areas/COMP SCIENCE/1/Two's complement|Two's complement]]
+[[02_areas/COMP SCIENCE/1/Hexadecimal|Hexadecimal]]
+Representation
+- [[02_areas/COMP SCIENCE/1/Character Representation|Character Representation]]
+- [[02_areas/COMP SCIENCE/1/Image Representation|Image Representation]]
+- [[02_areas/COMP SCIENCE/1/Sound Representation|Sound Representation]]
+[[02_areas/COMP SCIENCE/1/Data Storage|Data Storage]]
+[[02_areas/COMP SCIENCE/1/Compression|Compression]]

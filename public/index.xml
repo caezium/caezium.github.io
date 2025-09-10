@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>🗄️ Not A File Cabinet</title>
+      <link>https://caezium.github.io/public</link>
+      <description>Last 10 notes on 🗄️ Not A File Cabinet</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>Welcome, this is not a file cabinet</title>
+    <link>https://caezium.github.io/public//</link>
+    <guid>https://caezium.github.io/public//</guid>
+    <description>Welcome, this is not a file cabinet Welcome internet traveller, how did you find your way here? This isn’t really a public cabinet. I don’t have much to offer you, but I’m glad you’re here.</description>
+    <pubDate>Wed, 10 Sep 2025 07:10:06 GMT</pubDate>
+  </item><item>
+    <title>00_MOC</title>
+    <link>https://caezium.github.io/public/02_areas/PHYSICS/6/00_MOC</link>
+    <guid>https://caezium.github.io/public/02_areas/PHYSICS/6/00_MOC</guid>
+    <description>...</description>
+    <pubDate>Wed, 10 Sep 2025 07:10:06 GMT</pubDate>
+  </item><item>
+    <title>Momentum</title>
+    <link>https://caezium.github.io/public/02_areas/PHYSICS/1/Momentum</link>
+    <guid>https://caezium.github.io/public/02_areas/PHYSICS/1/Momentum</guid>
+    <description> Def An object with Mass that is in Motion has momentum momentum = mass \cdot velocity p = mv This means that an object at rest (i.e. v = 0) has no momentum Momentum keeps an object moving in the same direction It is difficult to change the direction of an object that has a large momentum Conservation of Momentum Def In a closed system, the total momentum before an event is equal to the total momentum after the event Impulse When an external resultant force acts on an object for a very short time and changes the object’s Motion, we call this Impulse Impulse is the product of the force applied and the time for which it acts I = F\Delta t so I = \Delta p = \Delta mv = mv-mu Force and Momentum Newton’s second law is defined as F=ma Momentum is given by p = mv combining these two gives F=\frac{\Delta p}{\Delta t} therefore, force can also be defined as the rate of change of momentum on an object Worked Examples .</description>
+    <pubDate>Wed, 10 Sep 2025 07:10:06 GMT</pubDate>
+  </item><item>
+    <title>review</title>
+    <link>https://caezium.github.io/public/02_areas/MATHS/review</link>
+    <guid>https://caezium.github.io/public/02_areas/MATHS/review</guid>
+    <description>chain rule use b^2 -4ac to prove stuff eg exist or not .</description>
+    <pubDate>Wed, 10 Sep 2025 07:10:06 GMT</pubDate>
+  </item><item>
+    <title>00_MOC</title>
+    <link>https://caezium.github.io/public/02_areas/PHYSICS/00_MOC</link>
+    <guid>https://caezium.github.io/public/02_areas/PHYSICS/00_MOC</guid>
+    <description>General All Constants, Units &amp; Formulae Drawing a graph Mousetrap Car Project Scientific notation SI Unit System Significant Figures Motion, Force, ampersand Energy 00_MOC ...</description>
+    <pubDate>Wed, 10 Sep 2025 07:10:06 GMT</pubDate>
+  </item><item>
+    <title>paper contents</title>
+    <link>https://caezium.github.io/public/02_areas/HISTORY/paper-contents</link>
+    <guid>https://caezium.github.io/public/02_areas/HISTORY/paper-contents</guid>
+    <description>P1 MCQ pick one out of two sections 5-6 section Chapter 2-3 7-8 section Chapter 4-6 P2 chapter 1 source -which means chapter 1 not in P1 TOV source exam question summer2013 summer 2021 ...</description>
+    <pubDate>Wed, 10 Sep 2025 07:10:06 GMT</pubDate>
+  </item><item>
+    <title>econ exam reminders</title>
+    <link>https://caezium.github.io/public/02_areas/ECON/econ-exam-reminders</link>
+    <guid>https://caezium.github.io/public/02_areas/ECON/econ-exam-reminders</guid>
+    <description>2 SIGNIFICANT FIGURES no use same/same thing as opposite possible of happening when discussing 8 point q 8 points are not required, depends on the overall ‘level’ of analysis however, ...</description>
+    <pubDate>Wed, 10 Sep 2025 07:10:06 GMT</pubDate>
+  </item><item>
+    <title>LON in the 1920s</title>
+    <link>https://caezium.github.io/public/02_areas/HISTORY/02League-of-Nations/LON-in-the-1920s</link>
+    <guid>https://caezium.github.io/public/02_areas/HISTORY/02League-of-Nations/LON-in-the-1920s</guid>
+    <description>The LON was successful in some ways in the 1920s, stopping small wars and improving lives. However, it failed to get disarmament, and persuade more powerful countries to stop fighting.</description>
+    <pubDate>Wed, 10 Sep 2025 07:10:06 GMT</pubDate>
+  </item><item>
+    <title>LON</title>
+    <link>https://caezium.github.io/public/02_areas/HISTORY/02League-of-Nations/LON</link>
+    <guid>https://caezium.github.io/public/02_areas/HISTORY/02League-of-Nations/LON</guid>
+    <description>AIMS discourage aggression encourage international cooperation encourage disarmament improve working and living conditions COLLECTIVE SECURITY an aggressor against any one ...</description>
+    <pubDate>Wed, 10 Sep 2025 07:10:06 GMT</pubDate>
+  </item><item>
+    <title>Input and Output Devices</title>
+    <link>https://caezium.github.io/public/02_areas/COMP-SCIENCE/Input-and-Output-Devices</link>
+    <guid>https://caezium.github.io/public/02_areas/COMP-SCIENCE/Input-and-Output-Devices</guid>
+    <description>...</description>
+    <pubDate>Wed, 10 Sep 2025 07:10:06 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>

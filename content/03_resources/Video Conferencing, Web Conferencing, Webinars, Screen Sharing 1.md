@@ -1,0 +1,1051 @@
+---
+title: "Video Conferencing, Web Conferencing, Webinars, Screen Sharing"
+source: "https://zoom.us/rec/play/qumuRWBhbSYp8S_3ewfuK2SbDznZ1fvhvdJ_oFW_-k6znMto2TCa3743d-grKwmH2GBVXOCwcjIOxnI4.mnNJHHGteiEEXWh5?eagerLoadZvaPages=&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fzoom.us%2Frec%2Fshare%2FERtudH2ZrlQV0DiupTTzozKXQKchuo2lPSEhe8r6YfV41A5eOv_RYMoXCoLq-H95.eZqFxOAdgyhpCKHQ"
+author:
+  - "[[Zoom]]"
+published:
+created: 2025-07-19
+description: "Zoom is the leader in modern enterprise video communications, with an easy, reliable cloud platform for video and audio conferencing, chat, and webinars across mobile, desktop, and room systems. Zoom Rooms is the original software-based conference room solution used around the world in board, conference, huddle, and training rooms, as well as executive offices and classrooms. Founded in 2011, Zoom helps businesses and organizations bring their teams together in a frictionless environment to get more done. Zoom is a publicly traded company headquartered in San Jose, CA."
+tags:
+  - "clippings"
+---
+## Summary
+Shlomo's lecture series covered statistical and machine learning topics, beginning with a detailed explanation of Bayesian methods contrasted with classical statistics, emphasizing their theoretical underpinnings and practical application for point and interval estimation. He then transitioned to supervised machine learning, defining its core concepts, distinguishing it from unsupervised and reinforcement learning, and discussing its applications in classification and regression. The lecture provided practical demonstrations using Python's scikit-learn library, covering algorithms like Gaussian Naive Bayes, Linear Regression (including polynomial), Support Vector Machines (SVM) with different kernels, and Random Forests. Shlomo emphasized data visualization, model evaluation through metrics like classification reports and confusion matrices, and parameter tuning (e.g., Grid Search). Real-world examples like face recognition and digit classification were used to illustrate these concepts. The lecture concluded by assigning homework related to probability simulations and applying the discussed classification algorithms to external datasets.
+
+## Key Points
+- **Bayesian vs. Classical Statistics:**
+    - Classical probability: limiting relative frequency.
+    - Bayesian probability: degree of belief, updated with data.
+    - Bayesian inference uses prior distribution and likelihood to derive a posterior distribution for estimation.
+- **Machine Learning Fundamentals:**
+    - Definition: Computer algorithms that improve automatically through experience (more data).
+    - **Supervised Learning:** Computer is presented with labeled examples (e.g., dog/cat images with labels) to learn a general mapping rule.
+    - **Unsupervised Learning:** Computer finds patterns in unlabeled data (e.g., clustering, dimensionality reduction).
+    - **Reinforcement Learning:** Agent learns to perform in an environment (not covered in depth).
+    - ML objectives: Classify data and make predictions.
+    - Connection to Optimization: ML tasks often formulated as minimizing a loss function.
+- **Python and Scikit-learn:**
+    - `pip install scikit-learn` for ML algorithms.
+    - `seaborn` for visualization.
+    - Scikit-learn provides datasets (e.g., Iris, Digits, LFW Faces) and algorithms.
+    - General workflow: `model = AlgoType()`, `model.fit(data, labels)`, `model.predict(newData)`.
+- **Supervised Learning Algorithms Demonstrated:**
+    - **Gaussian Naive Bayes:** Assumes data for each class comes from a simple Gaussian distribution; fast and simple, suitable for high-dimensional data.
+    - **Linear Regression:** Fits a straight line to data points; extendable to polynomial regression (basis functions).
+    - **Support Vector Machines (SVM):** Finds the hyperplane with the maximum margin between classes.
+        - `SVC` (Support Vector Classifier) with `linear` or `rbf` (radial basis function) kernels.
+        - Parameters `C` and `gamma` for tuning.
+    - **Random Forest:** An ensemble of randomized decision trees.
+        - Fast training and prediction, can be parallelized.
+        - Provides probabilistic classification based on multiple trees' votes.
+- **Model Evaluation:**
+    - **Train-Test Split:** Divide data into training and testing sets to evaluate generalization performance.
+    - **Grid Search:** Optimize algorithm parameters by testing combinations over a defined grid.
+    - **Classification Report:** Shows precision, recall, f1-score, and support for each class.
+    - **Confusion Matrix:** Visualizes correct and incorrect predictions for each class, highlighting specific error types.
+- **Homework Assignments:**
+    - Simulate the Birthday Problem and Central Limit Theorem (from previous lecture).
+    - Apply Gaussian Naive Bayes, SVM, and Random Forest on a Kaggle dataset, showing error metrics like confusion matrix and accuracy.
+
+
+
+Shlomo continued his lecture on statistics, focusing on the Bayesian method and contrasting it with the classical approach. He explained that Bayesian probability represents a degree of belief rather than a limiting frequency, and demonstrated how to construct a posterior distribution by updating a prior distribution with observed data. Shlomo showed that Bayesian point estimation involves finding the mean of the posterior distribution, and interval estimation can be achieved by determining the values that capture the desired probability mass. He concluded by illustrating how to calculate confidence intervals using a normal distribution transformation, noting that the results align with those from the classical approach.
+Shlomo introduces the Gaussian naive Bayes classification method and demonstrates its implementation using Python. He explains that this method assumes data for each label comes from a simple Gaussian distribution with no covariance between dimensions. Shlomo shows how to create and visualize sample data using the make_blobs function, controlling parameters like standard deviation to illustrate how the algorithm performs under different conditions. He emphasizes the importance of understanding the data and its visualization before applying machine learning algorithms.
+
+Shlomo demonstrated several machine learning algorithms, starting with a Gaussian clustering example that showed how clusters can overlap when their standard deviations increase. He then explained linear regression by creating a simple code that fits a line to random points, and finally demonstrated polynomial regression by showing how increasing the degree of the polynomial can improve the fit to non-linear data. Throughout the presentation, Shlomo emphasized the common structure of machine learning models, which typically involve defining the model type, fitting the model to data, and using the model to make predictions.
+
+
+Shlomo demonstrated the use of the Support Vector Machine (SVM) algorithm for separating two classes of data, adjusting the noise level to create easier or harder classification problems. He emphasized the simplicity and effectiveness of SVM for projects and recommended it as a method for the course's final presentation. Shlomo also introduced the concept of Principal Component Analysis (PCA) for reducing the dimensionality of high-dimensional data, such as images, to make classification more manageable. He explained the use of pipelines to combine PCA and SVM for face recognition and planned to cover PCA's implementation and details in the next session.
+
+Shlomo presented on machine learning algorithms, focusing on PCA for dimensionality reduction and random forests for classification. He demonstrated how reducing dimensions from 150 to 25 affected model accuracy, noting that more errors occurred with fewer dimensions. Shlomo then introduced random forests, explaining how they use multiple decision trees to improve classification accuracy and provide probabilistic results. He ran experiments on the digits dataset, showing how accuracy improved from 69% with a single decision tree to 98% with 500 trees. Shlomo assigned two homework tasks: one involving Gaussian SVM and random forest classification on a chosen Kaggle dataset, due the following Saturday, and another simulating the birthday problem and Central Limit Theorem from the previous lecture.
+
+
+
+---
+
+https://zoom.us/rec/play/qumuRWBhbSYp8S_3ewfuK2SbDznZ1fvhvdJ_oFW_-k6znMto2TCa3743d-grKwmH2GBVXOCwcjIOxnI4.mnNJHHGteiEEXWh5?eagerLoadZvaPages=&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fzoom.us%2Frec%2Fshare%2FERtudH2ZrlQV0DiupTTzozKXQKchuo2lPSEhe8r6YfV41A5eOv_RYMoXCoLq-H95.eZqFxOAdgyhpCKHQ
+# Original Content
+
+[Accessibility Overview](https://explore.zoom.us/en/accessibility)
+
+<video src="https://ssrweb.zoom.us/v2/replay02/2025/07/13/570016E2-24D5-466D-9BAD-BAC081398257/GMT20250713-115244_Recording_1920x1080.mp4?response-content-type=video%2Fmp4&amp;response-cache-control=max-age%3D0%2Cs-maxage%3D86400&amp;data=ba89b7a4df6f0b14f6c49cce8fafe06ecf7a69d8d0c89f91def92d21f26953e0&amp;s001=yes&amp;cid=aw1&amp;fid=hlXPfizQ8Bz9HoLTvqPeDftdwiF9yfWOZRjax3xOveaf0UHNFpIObd-mIhvlAgIXUZVWXb9unmJDUoUB.qt12lsyHKg-QViGx&amp;s002=IYYtCyKNj_11YoBHufX011kFcPXjQtpLVV0FIjymqYU-yJ6i_-mlC8nhHQ.DGTTxWJ-VuRPZO7w&amp;tid=v=2.0;clid=aw1;rid=WEB_2fdd9aea890596b59505d3c1b975621f&amp;Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vc3Nyd2ViLnpvb20udXMvdjIvcmVwbGF5MDIvMjAyNS8wNy8xMy81NzAwMTZFMi0yNEQ1LTQ2NkQtOUJBRC1CQUMwODEzOTgyNTcvR01UMjAyNTA3MTMtMTE1MjQ0X1JlY29yZGluZ18xOTIweDEwODAubXA0P3Jlc3BvbnNlLWNvbnRlbnQtdHlwZT12aWRlbyUyRm1wNCZyZXNwb25zZS1jYWNoZS1jb250cm9sPW1heC1hZ2UlM0QwJTJDcy1tYXhhZ2UlM0Q4NjQwMCZkYXRhPWJhODliN2E0ZGY2ZjBiMTRmNmM0OWNjZThmYWZlMDZlY2Y3YTY5ZDhkMGM4OWY5MWRlZjkyZDIxZjI2OTUzZTAmczAwMT15ZXMmY2lkPWF3MSZmaWQ9aGxYUGZpelE4Qno5SG9MVHZxUGVEZnRkd2lGOXlmV09aUmpheDN4T3ZlYWYwVUhORnBJT2JkLW1JaHZsQWdJWFVaVldYYjl1bm1KRFVvVUIucXQxMmxzeUhLZy1RVmlHeCZzMDAyPUlZWXRDeUtOal8xMVlvQkh1ZlgwMTFrRmNQWGpRdHBMVlYwRklqeW1xWVUteUo2aV8tbWxDOG5oSFEuREdUVHhXSi1WdVJQWk83dyZ0aWQ9dj0yLjA7Y2xpZD1hdzE7cmlkPVdFQl8yZmRkOWFlYTg5MDU5NmI1OTUwNWQzYzFiOTc1NjIxZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc1MjkzOTE0Nn19fV19&amp;Signature=pjI8aSsOGpKSXYsa8FpNfUMNvdv-9DG7dhxBlhc19QK~2~8NxOIBg4xgrLovKL9fElrHH1HR8BNxd9s~2srXMUcqOs6R1fEjwOVHAT1iBaF~7AIfzIXpNZ6PbxQKDmzdDvW~01fkrjnFSJMamXMUL7hbqFezuA1MXQpkBQNV~jDeYQqnaoI78LQGiGMD7hW7wMjGMrwJ~-e3YqQWqbaUMqkcSr0c1fLe-cjWdF5O7plP3XmxcWYdYepat7cdbCQm1mZkOFYcYGYSNj2cXcpqOsHFBRGIOLrpEReJECKInXCAwsfsx3K0Ho8OwNI5rPVNbqiuwpq7gxcWuTMKrZbZ2A__&amp;Key-Pair-Id=K1YYCGW8V4AHXW"></video>
+
+00:00:00 / 01:38:07
+
+## Audio Transcript
+
+## Chat Messages
+
+- 00:06:38
+	Can you hear me?
+- Can you hear me?
+- 00:06:54
+	Yes!
+- 00:06:55
+	Okay, thanks.
+- Okay, Hi, everyone. And welcome to our second lecture from data, science and application.
+- Last time, I think, I stopped about here
+- talking about the birthday problem and the
+- central limit theorem. I will give you this as homework for
+- doing next time or next week.
+- And again you can discuss these homework with the Ta. To make sure you understand everything, and you know what to do.
+- I would like to go and talk about specific thing in statistics.
+- And I would just say that in general we have
+- in statistics we understand population from analyzing a sample which is much smaller. This is the essence of everything.
+- Sometimes we need to estimate a single parameter.
+- like average height or temperature, or whatever it is.
+- Sometimes we want a confidence set that is an interval that captures
+- most of the data. Okay? And what I'd like to do now is to go and discuss
+- specific thing in statistic, which is called the Bayesian method, because we're gonna be doing Bayesian estimation
+- Bayesian method for some stuff we will see in a moment.
+- and I would like to contrast the Bayesian method with the classical approach.
+- So when I talked about probability last time, I interpret, probability is having to do with frequency how likely the event is.
+- and so on.
+- So probability refers to a limiting relative frequency.
+- and when we do statistical procedure, we would like them to have
+- long run frequency property. For example.
+- a 95% confidence interval should trap the true value of the parameter
+- with a limiting frequency of at least 95%.
+- Bayesian approach is different probability.
+- It's really a degree of belief, not a limiting frequency.
+- And in the next couple of slides I would like to show you the essence of what happens with the Bayesian approach.
+- how we work with it, although practically it gives the same result as the frequencies approach
+- people. You know, I know a lot of people who prefer to think about things using the Bayesian approach.
+- What we do in Bayesian approach we make inference
+- by 1st constructing a probability distribution for whatever we are doing. Okay. So we will do it with some example. And you will see
+- this page summarizes the essence of the method.
+- We begin by choosing a probability density. This is our choice. Okay, you do whatever you want here.
+- Uniform distribution. Gaussian, whichever you want to do this is prior called a prior distribution.
+- It reflects your belief about how the parameter theta.
+- let's say the height of people is distributed in the population, and this is before you see any data.
+- In addition to this, you also choose a statistical model
+- which expresses what is the probability to observe the value. X.
+- Given that data has some, you know, value.
+- Now comes the interesting part. You observe data x 1 up to Xm.
+- and the idea is that using this data, you want to update your original belief, the prior
+- and what you get is called posterior, it is the probability to get theta.
+- the probability for theta given all this data that you have just observed. Okay, so now we're gonna derive a forward for it
+- in case of a single variable. So when I talk about this expression.
+- it really becomes probability of theta given X.
+- This is conditional probability, which we talked last time.
+- and it is the probability of Theta and X divided by probability of X,
+- and we can rewrite, write at the top the the numerator, as a product
+- of the other conditional probability. X, given theta, which is our model
+- times, P of Theta, which is our our prior.
+- And then we use the rule of total probability for the denominator.
+- Okay, now, in this formula, everything is known. It uses stuff that we already assumed.
+- Okay, now, this is the case for a single data point. If I have many observations.
+- 1st of all, think about the statistical model.
+- What is really F of X. What is the probability to observe? x. 1 x. 2 up to xn.
+- Given theta.
+- If these observation are iid.
+- meaning independent and identically distributed, it is just the product of each one of these. Xi separately.
+- Okay.
+- And this is called the likelihood function, this. L,
+- so what you get out generalizing this formula, now
+- you see that F of Theta, given all these X's
+- is really this product we just defined above
+- the line above times F of Theta, which is the prior and then divided by some normalization constant. Okay?
+- And what really it comes up to is that the prior
+- is really proportional to our sorry. The posterior.
+- This one which we are trying to find
+- is really the original one. We started with F of 10, which is our belief times this likelihood function.
+- And let's see how we do point estimation with this.
+- We are going to use this thing we just described the posterior to make estimation.
+- The point. Estimation, like the mean value, is just going to be the mean of this distribution.
+- meaning the summation of theta times F of theta given X.
+- If I want to do an interval estimation
+- such that the interval obey, that the probability to be inside this interval
+- is one minus Alpha. Think about Alpha is 0 point 0 5.
+- It really amounts to summing up all the probabilities between some 2 numbers A and B,
+- and these 2 numbers, and we are going to define the interval for us.
+- How are we going to choose? Nb, we're gonna find an a
+- such that the left tail of the distribution is alpha over 2,
+- and similarly the right tail of the distribution is alpha over 2,
+- and this would lead to the equation above
+- that the probability to be inside the interval is the complement of these 2, which is one minus alpha. Okay, so this is the essence.
+- Everything comes from the posterior in this approach.
+- And this is an example here. How we do inter estimation. Look, how are we going to find Cnd.
+- okay, I want to find. See? An interval such that the probability to be in this interval
+- is 0 point 9 5.
+- So I'm gonna do what we said in the previous page.
+- I'm going to find the parameter C such that probability to be less than C
+- given X. Given the observed data
+- is 0 point 0 25. That's alpha over 2
+- and bigger than D is also Alpha overturned. Now how exactly do I find it?
+- Read this line, probability of Theta less than C given X.
+- Now I do transformation of the variables. It's the probability of theta minus theta bar, the mean divided by Tau, which is the standard deviation.
+- So I, I construct this variable here.
+- this transform variable because it is
+- a normal 0 1 variable. But since I did transformation on the left side
+- of this inequality. I also have to do the same transformation on the right.
+- So now I call it capital Z, which is normal 0 1. And I need to solve now
+- this inequality or this equation, I need to find C from this. Okay.
+- now, we know about the pro, the
+- normal distribution, that if Z is less than about negative 2, I get my desired 0 point 0 2 5.
+- So this means that this quantity here C minus Theta bar over Tau should be negative. 2. Roughly.
+- equivalently. It says that C is the mean minus 2 standard deviations.
+- and similarly the other one. And this is the same kind of result you obtain also in the other approach.
+- Having said that, I want to move now to our
+- main topic for today, which is machine learning supervised machine learning.
+- So first, st machine learning
+- is the study of computer algorithms that improve automatically through experience. What does it really mean?
+- Experience mean? You show the computer more examples.
+- the more example you saw it
+- the better it's gonna do. Let's say we're trying to identify
+- object. It will identify them better. Okay, the more that they will sold.
+- We distinguish supervised learning from unsupervised learning in supervised learning. The computer is presented with examples.
+- And what we want the computer to say about them. For example.
+- I saw the computer images of, let's say, some animals, dogs, and cats.
+- I show it an image of a dog. And I said, dog, cat, cat, and I do many, many examples like this.
+- of all kind of dogs and all kind of cats.
+- And I would like. So it's like teaching a child. Right? So this is a dog. It's a cat.
+- So you hope that the algorithm is going to learn a general rule
+- that maps the input. This is the image to the output, which is just dog or cat, 2 labels.
+- This is one task that we're going to do today. Actually.
+- next time we are going to do unsupervised learning.
+- In this case, we are showing examples of dogs and cats, let's say.
+- but we do not tell the machine that they are dogs and cats. We hope the machine is going to figure out by itself
+- that there are 2 kinds of objects here. It may not know to call them dogs and cat.
+- but it will figure out that they are really not. All the same. There are 2 groups here
+- another field in machine learning is called reinforcement learning.
+- This is actually a very exciting field. It's just that it's too complicated to do. In our short course.
+- it requires also much more math.
+- And this is about building an agent that is gonna perform in an environment.
+- It can be an agent that can play games like atari games or chess, or go whichever you want.
+- or an agent that is driving your car automatically. You don't do anything. You just tell it go to the supermarket, and it's gonna do it for you.
+- And this is a very interesting thing, and I'm I'm just mentioning it
+- so you can go ahead and read about it. But we are going to focus only on the 1st 2 today, the 1st next time the second.
+- So in Tom Mitchell book. He's at Carnegie Mellon. He defines. What does it mean for a computer
+- program to learn from experience? E.
+- What does it mean to to learn something. If you have to measure somehow how we learn how it learns
+- with respect to some class of tasks
+- and performance, measure, how exactly you measure success if the performance
+- is improved with experience, meaning the more data you give it in general, the better it's gonna do.
+- There is a limit, of course.
+- how much things can be improved because even humans cannot do some jobs perfectly
+- like, let's say I'm trying to recognize handwritten characters.
+- Some people have sloppy handwriting. So it's hard for me to figure out some characters and others.
+- and this is, you know, inherent in
+- modern day machine learning. There are 2 objectives, the most important one, I would say, is to classify data.
+- The other one is to make predictions. So
+- some people think about AI and Ml, as
+- in the left picture where everything in machine learning is part of AI.
+- Other people think about it like this. For us, it doesn't really matter. We're gonna solve problems, specific roles.
+- Machine learning relates to other fields. Also, okay, like data, mining is one of them.
+- So data mining is a field that evolved from statistics
+- after some technological advances that led to the creation of huge amount of data
+- in the past. Statistic was about small data like it was in medicine, biology.
+- And then machine people invented machine in different areas like material science, biology, medicine. And suddenly there was a huge amount of data. And the techniques of statistics were not appropriate.
+- So people created new techniques. And it all came into
+- what data mining is. Okay, so
+- data, mining and machine learning employ same similar method. There are some overlap
+- machine learning is focused on predictions based on known properties, data mining. It's about discovery of unknown properties.
+- Machine learning also relates to optimization. Essentially.
+- every task that you're gonna do
+- is really formulated as a minimization problem
+- minimizing some function which is called a loss function over our training data loss functions.
+- Our specific company. We're gonna learn today and next time.
+- And they express the discrepancy between what the model predicts
+- compared to the actual thing. So let's say, I should just show the machine an image of a dog.
+- the machine said, it's a cat that there is an error here.
+- Okay, loss function. Those functions are gonna measure this error for us
+- in the purpose of training a machine learning a machine algorithm
+- is to try to make this loss function minimized. So there will be the best
+- match between model prediction and the real stuff.
+- Machine learning also has some connection to statistics. Statistics
+- draw inference from a sample. Machine learning find some generalizable patterns.
+- Okay? So there are some overlap between things. But
+- there are also differences which are very important.
+- We're gonna use python, of course, for doing our machine learning. And there is a special package called S. Kit. Learn
+- that you need to install.
+- In particular, we're gonna talk about some vocabulary in machine learning some concepts in machine learning. So if you go and talk to people
+- in the field, you actually would be able to converse with them.
+- We're gonna use a special. The module from python called Sk, learn.
+- And we're gonna talk about some of the most important approaches.
+- And I will try to develop our intuition of how how they work. And I'll do it by pictures. Okay, as many as much as possible.
+- Today I'll do what is called supervised machine learning.
+- We teach a machine like we teach a child, we show them examples, and we tell them, what are these examples.
+- and then when you show them a new animal, let's say, ask, what is this? And the kid usually would figure it out.
+- Now, I just wanna mention that machines needs much more data than humans
+- to learn what is, what is a dog? What's a cat? And all that? Okay? In other words.
+- probably the way we teach machine is not how a brain of a child works.
+- But nevertheless, it's all problem. So we are happy.
+- Some applications. Okay, of machine learning.
+- Probably the most important one is classification. So what is it
+- you are trying to teach a machine to classify object? In other words.
+- you're gonna show the machine object from several types, several classes. Let's say several.
+- Let's say I'm showing a machine handwritten characters, let's say in English.
+- so it has to recognize A, BCD, etc.
+- So it's not so simple, because if it's printed, a has just one form or 2 folds.
+- But if it's handwritten, there are so many people and so many variability
+- in the way things are written. Okay?
+- So in classification, that's what we try to do. Teach a machine to distinguish between things.
+- So how we are going to do it. We give the machine labeled points point, meaning the data.
+- Let's say the handwritten character. And the label is, let's say, this is A, A, BC, or the digit, 0 1, 2, etc.
+- So graphically, I'm gonna show a picture like this. This is a space
+- it says, here, maybe you cannot read feature one feature 2.
+- So that may come in very high dimension.
+- Okay, so if you take a TV image, for example, high definition, TV image.
+- It's roughly 2 million pixels.
+- Each pixel is 3 colors. So it's 6 million dimensional object. It's huge.
+- So we don't draw a picture of a 6 million dimensional object.
+- This will be just the knowledge itself.
+- When I want to distinguish things or understand them.
+- What I do is I extract some features from the data.
+- How do we do that? We're gonna learn next time.
+- But let's say I did extract some features, let's say 2 features.
+- and I'm plotting them as dots in 2 dimensions.
+- So each one of these dots, let's say it's an animal.
+- and all the blue ones are dogs, and all the red ones are cats.
+- and, as you can see in the space of these 2 features.
+- there is a nice separation between those 2 sets, the blue and the red.
+- You want to teach a machine to figure out those 2 sets.
+- One way to think about it is to ask it. Can you
+- separate the space by straight line.
+- so that each set will be on one side of it.
+- We're going to learn how to do these things. This is just visualizing
+- what we mean by classification, or one of those things we mean by classification.
+- Another problem is call regression. So those of you who know statistics. They know this stuff.
+- but I'll present it here in a visual way, as follows.
+- imagine we are given this data.
+- as you can see, the dots are colored, not by 2 colors, but actually infinitely many colors going from yellow to purple.
+- We can ask the machine, can you
+- paint the whole space such that if I give you a new point. I ask you what should be this color? You can tell me. The answer for this problem is shown graphically in the picture here.
+- as you can see that everything was painted. We see yellow to purple.
+- and you can see some kind of slanted diagonals here
+- which you could also identify in the original picture. So the algorithm seems to have done a good job
+- in this. In this case.
+- let's go to other kind of problems
+- clustering. So this now belongs to unsupervised learning the previous 2, where oops
+- these were supervised. Okay, so here we give data to a machine.
+- There are clusters in this data.
+- And we wish that the machine actually will identify the clusters.
+- Why is this important? You may ask. Well, I'll give you one example.
+- Imagine there is a new disease globally. Okay, like pandemic of some sort.
+- Annie seems that people don't respond to the same drugs the same way. Okay, so
+- it may be that some people respond better to drug a other to drug B and so forth.
+- A picture like this that may identify
+- grouping in people based on the response to the drugs we give them may be very important.
+- It may tell me, for example, give this group drug a while, give this other group drug B, etcetera.
+- So using machine learning unsupervised machine learning
+- can be very useful in many areas in technology, in science, in medicine, for example, okay?
+- And this is why, we're gonna study some of these things. Here is a
+- graphical representation of the result of an algorithm.
+- They took the data and actually figured out those clusters.
+- and we can see that it actually did what we would do ourselves
+- if somebody asks us to color them. Okay.
+- So when machines seem to be doing what we would do. We are happy.
+- sometimes we they do better than we do. By the way, another example, dimensionality reduction.
+- Looking at this data, which is in 2 dimension. We also observe.
+- there is one dimensional data, not 2 dimensional. It's actually going along some curve.
+- And here is an result of an algorithm that actually figured it out. It identified it as a 1 dimensional curve
+- and it colored, based on, you know, the distance from one edge to the other. Okay.
+- we're gonna talk about this thing damage and it reduction.
+- I think next time, okay, now, we're gonna start doing some real stuff
+- we're gonna use. 1st of all, you need to install the python package that does all this machine learning stuff.
+- And this is the command for doing it. Pip. Install. You don't have to do the minus u, but sk clear
+- for visualization. I sometimes use seaborne. So use this as well.
+- Now as Kit learn. Come with data as well as with
+- algorithm. So if I go here and I type, sk, learn.
+- You see, I see different things here. You can browse this.
+- I can see data. So 1st of all, you see, classification, these are class of problems, clustering regression, all kind of things here.
+- I can look at data sets. Okay?
+- So sk, learn has all these data set iris diabetes, digits, etc.
+- We can use the digits from time time to time.
+- There are also something which are called real world data set
+- from here. We're gonna use this one, which is about faces of people. Okay.
+- so this is just to show you some examples.
+- So asked, learning is is not about great data set. It's just for educational purposes.
+- So don't use data sets from sk learn when I give you an assignment.
+- Go somewhere else.
+- Where do you go? Don't know if I said it last time or not.
+- Go to Kayl.
+- Maybe I already show you this last time.
+- So this thing has more than about half a million
+- data sets. Okay, see the number here, 500,000.
+- So this is everything that you may want to use
+- when it comes to askit. Learn, you have to import the data set
+- and then load them. You know, as this example shows.
+- If I take the Iris data set, for example, so Iris data set involve
+- 3 classes of flowers of the Irish family.
+- And it's a small data set. It's only 150 records.
+- And each flower is being
+- described by 4 numbers. Okay, which are lengths and width of some part of the flower.
+- and the pictures here shows Xi versus Xj on the off diagonal
+- and the color represent the class. Okay, so I'm going to increase this a little bit.
+- so we can see better the picture oops here.
+- So why am I showing you this picture?
+- If in one of these images there is a nice separation of the cloud of the colors.
+- It means that we can use this image to do classification. We just find the good separating line.
+- and maybe the one shown here
+- x 3 versus x. 1 is an example. Okay, you see, the blue is nicely separated, and even the red and the green don't have really significant overlap. Okay, so this just to give you some intuition about the data set
+- and the fact that this Iris data set is not really complicated.
+- The pictures on the diagonal show us
+- histograms of x 1 x 2 x 3, etcetera. Okay.
+- for the 3 classes in different colors. Histograms of the values. Okay, okay, so this is just
+- again, last time we talked about visualization. And this is it. Okay? Here, for example, using Seaborne, you can say, do for me pair plots of all the stuff you have in the data
+- here, it's only for dimension. So it's
+- 4 by 4 picture. It's not so bad, but if I had a hundred looking at a hundred by 100 would be a bit difficult.
+- So I talked about this thing in the beginning today.
+- And I will just continue. The reason why we do that
+- is that we start with a method called
+- naive base classification. Okay, so this will be our simplest method.
+- And now, in case there is not one algorithm, there are several algorithms.
+- So these models are very fast and simple.
+- and they're suitable even for very high dimensional data.
+- And the reason why they're so fast, it's because
+- they have only few parameters to tune.
+- So let's say, we are trying to figure out the label to dog.
+- and we look at some feature f feature, maybe maybe the shape of the eyes or the nose, or whatever
+- some feature. What we want to do is figure out the probability.
+- The the label is L given. The feature is what you observe. F,
+- using the base formula, we have this. Okay, this is from last lecture.
+- So the probability of F given L,
+- meaning the probability of feature giving the label giving what the animal is. These things are. Usually, we know. The thing which may not know is FP. Of F. What's the probability for a given feature?
+- So we can actually do comparison. If I have 2 labels.
+- I can divide the 2 and actually get rid of this P. Of F.
+- Now let's do some coding. Okay, set. It's no problem.
+- So what is this 1st example?
+- The Gaussian naive base is a method in which we assume
+- the the data, for each label comes from a simple Gaussian distribution.
+- Simple Gaussian distribution, meaning it has a mean and variance.
+- Standard aviation is is something, and the histogram, I mean, the distribution looks symmetric. It's like circles. Okay?
+- In other words, there is no covariance between dimensions.
+- So the idea is that this method we're gonna fit to each one of the classes, a Gaussian.
+- and then, if we get a new point, we check the 2 Gaussians and see which one is bigger on this point. And this will be our classification method.
+- Let's do it in python. Now, okay.
+- so I'm gonna give you today several codes about classification.
+- So what do we need to do?
+- Numpy. We already learned last time
+- we did as well. Seaboard. I don't know if I use it here or not, but that's not a big deal. This one is important.
+- When I teach you some new method, I will actually generate data
+- that I can control. So you will see what I mean by control.
+- and so that I show you example where things work well and don't work. Well, okay, usually, when you apply the algorithm, you take it from Kegel, let's say.
+- I also have to import the Gaussian name base in order to use it.
+- Step one. I create the data and see, this is the function called make blobs.
+- I'm gonna create 100 points in 2 dimensions
+- with 2 center meaning 2 classes.
+- And I'm gonna control the standard deviation. So you will see, I play with this parameter.
+- and you will see the effect of it on the data
+- making the problem easier or more difficult for the algorithm.
+- The 1st thing that I do. I use a scatter plot. So these X's now
+- they are pointing to dimension.
+- I'm gonna Plot X versus y.
+- and I'm going to give it. A color based on the label based on Y
+- S has to is a parameter giving size to the dots.
+- So I'm gonna start running it.
+- And we'll see what happens first.st It's gonna show us the 2 clusters.
+- As you can see. My laptop is not such a great machine. It takes time to run. This
+- simple thing
+- think the 1st time it takes is the Oh.
+- hello, yeah. Here it comes.
+- So what do we see here? 2 clusters, blue and red, very nicely separated right
+- now, we're gonna put Gaussian on each one of them.
+- and then we're going to cover the space random points in the space
+- so we can get a sense of what? How does the classifier work? And here it is.
+- You see, the big dots are the data, the little dots.
+- our model prediction for different places in the space.
+- And you see nicely separation. And this is not a difficult case.
+- I'm gonna make the run now more difficult by making the 2 clusters run into each other.
+- So now I will. I essentially did big, larger standard deviation.
+- which means that each cluster will spread more. And you see.
+- actually, I'm not sure if you can separate these or not. But you see already a problem right?
+- And here it comes. Maybe it's on the border of. Maybe there is a blue point in the
+- red area or not. So we're gonna make it even worse. Okay, I'm gonna make it
+- 2.5 year.
+- So it's gonna definitely overlap.
+- And then I cannot do perfect separation. There is a limit
+- to how, as you can see, there are red points
+- in the blue area, blue points in the red area. And you see, this is what happens. I cannot do a perfect separation.
+- Okay, this is our 1st example, a very simple algorithm
+- which just uses, you know, simple Gaussians to approximate things.
+- Now, I want to emphasize that every algorithm has an assumption. Okay.
+- the data is this and that, and we're gonna fit it with some shape.
+- Now, it was about the Gaussian.
+- This algorithm is very easy to use again, think about this as a template.
+- the actual code. For just let's just let's look at something here.
+- I want to actually discuss some things.
+- I define the model type.
+- Okay, model is Gaussian a base?
+- Then I'm fitting the model. So you see, you don't have to know, even in details.
+- what are the parameters model. Dot fit will do an optimization and give you the parameters you need.
+- And then there is model. Dot predict
+- you give the model any data you wish, and it's gonna tell you whether it should be red, I mean, or blue, right?
+- And I also predicted, you know, model prediction on some point here.
+- And and just write it as zeros and one.
+- So what I want to say here is this.
+- all our codes today are going to look like model is something.
+- Then we give it the data model dot fit.
+- This is just plotting after that. And then model dot predict to evaluate the model on some data.
+- this data may be new data or the old data depending on the situation. We are running. Okay. So essentially, with 3 commands.
+- each one of our models is gonna run. Thanks to
+- this wonderful package that somebody wrote for us.
+- Okay, let's continue.
+- later with the ta, maybe linear regression.
+- So first, st what is the problem?
+- It's actually shown here. Imagine you have dots
+- like, you see in this picture clearly, our eyes immediately
+- make sense that this is a linear
+- points that are spread along some linear function.
+- We would like to find this function.
+- So I'm going to open a code called lean regress.
+- And let's look at it.
+- See? Now, I'm going to import linear regression. Okay? So what's linear regression? It's going to create a function. Y equals to a X plus B
+- A is the slope. B is the intercept. Okay.
+- Now, you could have done this by yourself if you don't a little bit
+- about optimization. But we are doing it here now, as you know, he's just using the python code
+- step number one. I create some random points, 50 points between 0 and 10.
+- Step number 2.
+- I define the function. I want to try to recover 2 x minus 3.
+- But if I just did this, the point will be exactly on a straight line. I want to add some noise to it.
+- Okay, so I'm going to start running this so that you see the data
+- I'm going to try to fit.
+- It's essentially 2 x minus 3. Here is the graph. Okay?
+- And it spread somehow. And I'm trying to fit a straight line through.
+- And how do I do it? I say again, you see, the structure model is something. It's linear regression this time.
+- Fit, intercept true meaning. Give me both the A and the B,
+- so model is something, then model dot fit with the data that we have. Okay?
+- And then I can do model, dot predict. Okay, now.
+- there is something here that X, that was given here was a list. Okay, our models look for
+- data in a form that each row is one data point. Okay?
+- And so you actually expand the list into a 2 dimensional array. By this command you can actually try to print X and print this and see the difference between them. Okay.
+- and let's close this.
+- And this is what the algorithm created.
+- We now put 1,000 points between 0 and 10.
+- I will show you that it's not really a straight line. I mean, these are really points.
+- I'm gonna zoom, zoom.
+- See, these are really discrete points. Okay?
+- And the algorithm is found what we would think intuitively, it looks good
+- to be more accurate about the prediction.
+- Model slope was 2.0 5 instead of 2,
+- and the intercept was minus 2.9 9 instead of 3. So it looks like it's doing a good job.
+- If I put bigger noise, things may look, you know, a bit
+- more with larger errors. Okay? And this is very, very simple. The linear regression.
+- Well, what if our data looks like this? Linear regression is not going to do much? Okay?
+- And now we need something, some generalization. So if before
+- our function involved only a constant and a linear function, a 1 x.
+- we can say, let's add more powers.
+- We can have 2. We can have up to 3, etc.
+- And we can try to fit
+- polynomials to this. Okay, in principle, we can try to fit. Not just polynomial, but some arbitrary, you know, functions. Okay, basis functions.
+- Let's look at this code. Now.
+- this is called poly poly regress. Okay?
+- And I'm gonna just play with one parameter here.
+- I'll 1st make the degree one there is a parameter here that I want to play with.
+- I'll play with degree one. I know it's not gonna be good, but I would like to visualize it.
+- So we generate the point. We put a straight line. It looks pretty lousy, right?
+- So I'm gonna do now. Quadratic, meaning degrees, too.
+- And I'm going to run this. And
+- this looks now pretty nice, right?
+- So even degree. 2, you know, may be sufficient in many cases.
+- I mean, I can do degree force if it's gonna look better. I don't think it will.
+- It seems that 2 was good enough.
+- Yeah, you don't see much difference.
+- What if I do 20 instead?
+- I want to show you some effect here
+- that is undesirable, and you don't want to go too high with polynomial degree.
+- You see the Wiggles in the red line now on the right and on the left.
+- They are, because the data seems to have some kind of imperfection there.
+- If I use more data, probably these would be removed. Okay?
+- Or if I use less data, this will change. So this
+- is something which we would call overfitting
+- the models. Try to be too specific for this data.
+- And this is something which we do not want to happen in our models.
+- Okay? So I don't want to talk more about this. Let's do to some
+- very powerful method called support vector machines.
+- So I'll 1st explain the intuition behind it in a picture. Okay?
+- And then we're going to make a call that will run it.
+- Look at the picture here on the right.
+- we have red points. We have yellow points, and they're nicely separated.
+- I can put all kind of lines that separate them. Okay?
+- So there is not a single solution
+- in math. It's not so good. Or when you write algorithm, it's not so good to formulate things
+- when you have too many solutions, you want to find, maybe the best of them.
+- The sense of what is the best is what this picture shows.
+- It's about the margin. So you see, with each one of these lines there is a width that I can associate.
+- and the width is such that if I make it bigger. It's gonna over over on over the points.
+- And what I want to see. 1st of all, I see the different lines
+- have different margins. Okay, different widths.
+- And what I want to find is the one that has the maximum weights.
+- This would be the solution. Okay, so I I try to find the line, you know such that it separates the 2 sets
+- in the biggest possible way.
+- Let's do it in Python. Now, this code is called Svm.
+- So 1st of all, there is a function here that I'll I'll minimize. So it doesn't bother us.
+- Let's see about imports. Make blobs. We know they make blobs. We did it already with
+- Svm, we're gonna use. Okay, we're gonna import. Svc.
+- Svc stands for support vector classifier.
+- All the rest we know there is a function here. It's gonna plot
+- the thing which you saw in the picture.
+- those dotted lines as well as the solid line. Okay, cool.
+- We'll forget we are not gonna read this here. You can read about it later.
+- First, st I'm going to create data.
+- So let's run this and see the data.
+- Here is my data this time. It's green and yellow.
+- And because I use C map to be summer, you know, you can choose anything you want here, probably winter and 0 number.
+- Okay, now, I'm gonna use the classifier. How do I do it?
+- Model is something this time. It's Svc.
+- and the kernel is linear. So this means
+- that I'm trying to separate the 2 sets with a straight line.
+- We're gonna see later that we may want to separate it differently.
+- I have specified the model.
+- And now I do model dot fit. I'm gonna find the parameters of this model
+- meaning I'm gonna find the actual line. So this model dot fit command in different model. It is doing something else.
+- But we don't care about it. It's doing what it's supposed to do. We get a model at the end.
+- And then I'm gonna do model dot predict? Okay?
+- So
+- I'm gonna plot.
+- The result, essentially. So let's run this.
+- Okay, it's already showing us the point.
+- And now it's going to show us
+- the separating line. And you see, there is a width here which is positive. Okay.
+- I'm gonna give the model a bigger challenge
+- by making the cluster standard reaction bigger. Let's say 1.5.
+- So I think now, the 2 sets are gonna overlap.
+- and there is no way to separate them perfectly. Let's see what the model is going to do now.
+- as you can see, there are top on top of each other.
+- Some green points went into the yellow region and vice versa.
+- And here is what the model is gonna do. It's running longer now, because it's trying to do something.
+- And, as you can see, the width is 0. Actually.
+- it couldn't find a width that completely separated 2 sets.
+- There is actually overlap. And there are some yellow points in the green area and vice versa.
+- But this is the best. It actually minimize the violation. Okay?
+- And you see now what what this algorithm is doing. Okay, so this is our simple implementation of Sbn.
+- this plot function. You know, you can read it just to to plot these dotted lines and the other one. But even if you didn't plot it, the model is there.
+- You can use it to do model dot predict anything you wish.
+- So, for example, you can put random points in the space
+- and do model dot, predict, and it will color.
+- you know the top with reddish color and and other ones.
+- What if our data look like this?
+- There is no way to separate them by a straight line?
+- So we have to do something more general.
+- And what is more, general, we can do now. Circular lines, okay, not exactly circles, but closed lines. Instead.
+- When one set is inside the other.
+- It makes sense to do it like that.
+- Let's look at the important part of the code. 1st of all, you see, instead of make blobs.
+- I have another function make circles. This allows me to generate points
+- that are, you know, one is inside, one cluster is inside another one.
+- The rest is the same.
+- So I'm creating circles.
+- And I control the noise somehow. Okay, we can play with the noise level later to see what we get.
+- Then I'm doing the model. See? This time I didn't call it model. I call it Clf. It's any name you wish to use. You can use
+- whatever name you use here, you have to use it here when you do the 5th command.
+- Now, you see, the kernel is called Rbf. Rbf. Stands for radial basis functions. These are like these closed curves
+- that are gonna separate.
+- The Svc has 2 important parameter. One is called c, 1 is Gamma.
+- And again, you can go online to read about them. Okay, go through the code.
+- go to that site and see what they mean.
+- I've defined what is my model.
+- And then I'm fitting the model with my data.
+- After I've done it, I want to see what's the result.
+- So 1st I'm plotting my points, you see, X,
+- and C is YY is the original label.
+- C map is autumn. So this gives our some colors
+- and let's and then I'm gonna show the the
+- you know the separating things. So let's let's run this.
+- Okay. Here it comes. You see.
+- I have 2 sets. They are not really exactly circles inside each other. But we have found the algorithm is found
+- a nice way to separate them.
+- I'm gonna play a little bit with the noise level.
+- So I actually make it 1st smaller
+- because it was big from a previous class.
+- And now I make it smaller. And you see, it's almost circles right? Very big separation of the 2 classes.
+- And this code, it's randomly generating the point. And if I run the same thing again.
+- it's gonna look different. Okay, see, this is different than the previous one.
+- So you know, sometimes you want to see different. Sometimes you want to see the same. It all depends on what you do.
+- Here is another one which is different, but for the same parameters.
+- So now I'm going to increase this to 0 point 3, maybe 0 point 25.
+- And I'm going to have, you know, harder problem to do.
+- Oops.
+- You see, the model is begin to do all kind of nonsense stuff. Okay, there is no good separation here. I'm going to write again
+- on a
+- and run run it again so that we can see that there are problems. Now.
+- The noise level is too high. This, actually, it made it still. But I run it again, and it will not. So you know, if I want to make really difficult.
+- I'm gonna put 3 here. And this time the modem actually cannot do the job.
+- The clusters are not really separated.
+- You see, it begins to create islands and all kind of stuff like this. Okay.
+- so let's put it back to one so that you can run it and see nice results.
+- So all. What it take to do was this, rbf, okay, you can play with C and see what it will do.
+- Okay, I'll let you actually do that yourself, oops. Wrong window.
+- Okay? And here is our, you know, example in the in the lecture.
+- So this I just wanna emphasize that Svn is a very good algorithm.
+- So when you do your project for presentation at the end of this course.
+- I really recommend that you try Svm as one of the methods
+- you can do the naive base. As you can see, the model. It's implementing stuff is really simple. It's 2 lines of code.
+- Maybe one more line to do model dot predict, you know.
+- but anything we do here. The the packages are already so well
+- written that it's just a matter of writing 2 lines of code
+- to actually run one model or another.
+- Okay, now we come to our most difficult examples. Okay.
+- and this is face recognition. I'm gonna open the code for it.
+- And I'm gonna describe it in details.
+- It's called faces. Svm, so
+- okay, so let's see, what do I need to do? We're gonna do Svc like before
+- we're gonna do also a couple of other things. One of them is called Pca
+- Pca is a data reduction algorithm that we are going to learn the details of it next time.
+- Why do we need to do it?
+- So here the images are.
+- you know, maybe almost 3,000 pixels each image. So it's kind of 3,000 dimensional, almost.
+- which is pretty high.
+- And it's a common practice when you have something that big or even, you know, bigger. Of course, you want to reduce dimensionality so that the classification problem becomes more manageable. Okay.
+- you probably don't need all the 3,000 dimensions to figure out
+- who is whom in your pictures okay? And Pci was is gonna get, let us do that. Okay, so we'll
+- see how it is implemented and what it means we see next time
+- make pipelines. So this one is a function that
+- we use for doing complex algorithms. So we 1st do Pca and then Sbc.
+- okay, that's the pipeline. Okay, we have 2 things here. The Svc is the classifier.
+- But before we do it, we actually reduce the data with Pca
+- fw, this is the function that grabs the data for us. Okay, we saw it in the the website
+- of a scale learner.
+- We have another thing which we haven't used before. This is called train test split.
+- So now we get real data.
+- and we don't want to do training and testing on the same data. So we're gonna split the data into 2 parts.
+- One part we use for training.
+- We can attune the model on this data.
+- Then we're gonna show them all the new data
+- and ask it. What do you think it is? Who is this person? Okay, this is a more serious
+- way to evaluate model than just giving it the same data.
+- We're going to look at errors and performance in 2 different ways.
+- One is called Cross-classification Report, which will show us
+- for each class what was the precision?
+- Another thing we're going to show is something called a confusion matrix.
+- We're gonna show for each class
+- how many times it was actually predicted it right, and how many times it predicted it on some other class for each one of the possible classes.
+- Our algorithm, which is Sbc.
+- Here's some parameters. We don't know what values they should be for a difficult problem. You want to tune these parameters.
+- So this would mean that we need to optimize over the parameters of our algorithm.
+- So we're gonna do something called grid search
+- meaning we're gonna put the lattice on the parameter space. And we're gonna try all possible combination over some lattice
+- and see which model gives the best result. Okay, so this is just introduction
+- to what exactly we're gonna do.
+- Now let's try to do it.
+- Fetch the data.
+- Sklm, give us this function, fetch and the Lfw people.
+- and it's gonna give it as a dictionary with all this data.
+- and you can do print faces to see all the keys of the dictionary.
+- But I'm not gonna do it now. You can try it later.
+- After doing it, you see that you have target names, meaning the names of the people.
+- You have images which are the images of them.
+- And what I do here I print images, dot shape
+- just to see how big is my data.
+- Then what do I do? I create a small array of images 3 by 5,
+- and I'm going to show the image of each one of the 1st 15 faces, and
+- with each one of them I'm gonna set
+- a label which is the target name. Okay for this image.
+- So let me begin by running this.
+- and we are going to see some of the faces and how complex they are.
+- So I'm gonna increase the size of this. So we can
+- have a better way of seeing the labels just a second. Yes.
+- okay. Now we can see better. Right?
+- What I want you to take from this in this little snap
+- snapshot of the images is that this Guy George Bush appears many, many times with different facial expressions.
+- and you know, maybe you can identify the same person in all of them.
+- But I think this shows you how complex the problem is
+- like here, for example, in picture number.
+- or from the left, the last row.
+- You see, he's laughing above it on the 1st row. He's just maybe puzzled. But you know, it's
+- it's really difficult problem to try to do
+- so. Where is the code? Here it is. So until now we ran. We reached this point.
+- Now I'm gonna read a few more lines, and then we're gonna let the code run. And they see whenever I'm doing plot of something, the code stops there. And until I I remove this picture.
+- I mean, I don't continue. So let's first.st It's actually good for teaching.
+- And let's see where we are.
+- We showed the pictures. Okay. Now we come to do the actual modeling.
+- So first, st we have to define what is the Pca. That we want to do.
+- and number of components is the important parameter
+- it tells me. Something I forgot to
+- see. I printed some stuff here, and I want to look at it.
+- Here it is. These are the names of the people which is not so important.
+- What is important is the shape of the data.
+- So I have 1,348 pictures.
+- Each. One of them is 62 by 47 pixels.
+- It's not exactly 3,000. It's less. But you know.
+- okay, so this is my data.
+- Okay. Now, what I do now is, I take this data and I do, Pca.
+- And I'm reducing it to a hundred 50 dimensions. Okay, we'll see next time what? Exactly it's doing here.
+- What does it mean?
+- I take an image.
+- I do some calculation on it.
+- Can I produce a vector of size? 150?
+- And I do it to all the images now, now, instead of
+- sitting in a thousand 3,000 dimensional space.
+- I'm in a hundred 50 dimensional space where each dot represent an image in the real real space.
+- What I hope to do is to do classification on this reduced space.
+- And we're gonna try 150. We're gonna try, then, 25. We're gonna try to understand. You know what we can do.
+- So Pca is gonna reduce dimensionality. Then we do Svc with Sbc, we do Rbf and
+- make pipeline is the thing I mentioned before you 1st do, Pca. And then you do. Svc, okay, and this is your model.
+- Now.
+- we haven't run the model yet.
+- Next, we take the data and split it. Okay.
+- so test train train test, split, you look at the data which is faces no data.
+- You look at the target, which is faces the target. And you see, I want to create train version and test version for it as well as to the labels. Okay?
+- So I splitted the data.
+- Now, this Svc that we mentioned before.
+- Yes, let's go to online documentation.
+- And
+- okay, so sk, learn.
+- Svc, I want to see the a little bit about
+- the parameters.
+- I probably need to do a different one.
+- Okay, see, this is the Sk. Learn. Svm, okay. Svc, and
+- you see, there are parameters. C is one of them. The default is one.
+- There is another parameter called gamma. Okay, there is also some default, and there are more parameters kernel.
+- where you can do linear, which we did first.st
+- Then we did. Rba. But there are more of them. Okay, so you can read here if you want to know more about it. Okay, there are really a lot of parameters. I usually don't do more than what I show you
+- in this.
+- So any disco. Yeah, okay, so
+- so what we are going to do now, we're going to define a parameter space for C and Gamma
+- C is gonna run between one we will be 1, 5, 1050.
+- Gamma will be these numbers that you see on the right here.
+- and what we're going to do now we're going to run the model for each pair of combinations of C and Gamma.
+- And we're gonna see which one does the best.
+- And this will be our model.
+- And you see, when I do grid dot feed.
+- I can ask, what is the best parameters? Okay?
+- And it will tell me actually.
+- and my model is, gonna be grid best estimator.
+- so it will pick the estimator corresponding to the best combination of C and gamma.
+- Now, if your C. Comes out to be 50. Maybe you want to increase C again to some higher value. Don't be on the boundaries of this thing. Okay, try to
+- get value so that they are inside your tropes.
+- because if it's really on the boundary, let's own 50, maybe better. Parameter is a hundred.
+- Okay? Now, once we have found the model we are going to do model dot predict on the test data. So let's close the image we saw before.
+- And let's wait and see what comes out. So now we're gonna we did model or predict.
+- And now we have a piece of code that is gonna visualize it. Okay.
+- so I'm waiting for it to come
+- again. This is this, I said, is the most
+- intense model we do in class for this course.
+- and we have to wait a little bit to get the results.
+- Now, once it's
+- the other thing, once it's plotted for us, we're gonna look at it and see some stuff. But this is a classification report.
+- It compared the test value and the fit value.
+- like, what is the real labels.
+- and what is the model predicted labor? You see why fit is model dot predict.
+- and it's gonna do a report for us. It's gonna see how many times it was done wrong, etcetera, etcetera, produce a report.
+- In addition, there is another piece of code which is about
+- a matrix that shows all kind of combinations of the error. So we're gonna see not only a summary of report
+- for the precision we're gonna see? For which classes there were errors.
+- And what were the errors? Okay? So we see, you know what was difficult in our problem.
+- which person was difficult to identify.
+- and what kind of errors we did with this person. So let me increase the size of this.
+- This is, you know, a sample of the first.st What is 4 times 6, 24 people. Okay, in the data.
+- red meaning, we did it wrong.
+- See the bottom red? It's actually should be George Bush. It says it's Tony Blair.
+- Okay, so these just give us some sense of the errors that were done with our model.
+- I'm going to close this, and we're gonna read the report. So the report is shown here.
+- I will increase the size of it
+- so that we can see it.
+- Okay?
+- So 1st of all, look at this this line. We didn't read before.
+- It says that C value is 5,
+- and gamma is 0 point 0 1. If I look at the range which I gave it.
+- so maybe we are in a good range.
+- 5 is not the minimum. It's not the Max. So it's good.
+- and 0 point 0 0 1 is not also. So this is good. We don't have to do
+- to extend the thing.
+- But now look at this, there is the parameter called precision.
+- This guy. What was its precision? It was 65%,
+- meaning 65%. It was done right. And it the 35 was done wrong.
+- And other people, I think, are better. Look at this guy, George Bush. 97% accurate. Okay, which is impressive.
+- Why is it printed twice?
+- I have to see whether I've done something wrong here.
+- Okay, let's look at the confusion matrix. I'm gonna read, white printed several times in a second. And what we see here is let me increase the size
+- and the y-axis. It's the predicted label on the X-axis. It's the true label.
+- So if things were only on the diagonal, it would mean that the the model is doing a perfect job.
+- But look at the number 10 here, which is in the second row, 4th position from the left.
+- The real person was George Bush, but 10 times it was predicted the scoring power. Okay.
+- so these pictures, confusion, matrix, it hold, shows us what kind of errors were made with our algorithm.
+- I really have no idea. 1st time I notice it that it's printing several times.
+- I'm going to open the code to see why it happened.
+- Hi, it may be a display call, okay, fine. In that case, I don't have to check.
+- And yeah, I've never seen this before.
+- Okay, let's see that we printed it only once.
+- Yeah, we printed this classification report once, but
+- there is some issue with the display. Maybe if I come down.
+- No, it's still there. Okay. So probably some bugs
+- in my Vs code. Okay, so what do we take from this?
+- So this is a difficult problem. Relatively.
+- we have managed to get accuracy, which is in the range of 80, some percent. Let's look at it again.
+- 82% overall.
+- And remember, the freedom we have in the algorithm is in few places, right?
+- We have decided to do dimensionality reduction, 2
+- 150 dimension. But maybe it's too much. So let's do 25, and let's rerun this
+- and see if the errors, if the accuracy is still good.
+- this is repeat itself. So we just close it.
+- And now it's doing the actual calculation.
+- It's 25 components. So it's faster to run than before. And
+- again we have to wait a little bit.
+- Next time, when I talk about Pca.
+- I will actually show you
+- some methods to figure out what should be this number. How did I know that
+- 25 is not enough? Okay, we'll we'll go and talk about this.
+- So you see that we have many more reds than before. Okay, maybe more than twice.
+- And if I look at the reports, let's see, there are more overall. There are more
+- You see. Now it's 64 it was, and
+- 82 or something like this before. Right?
+- Okay? So we still have to figure out
+- how to to determine the parameter here without actually running it again and again and again. Okay, because there each run may take a long time, and we want
+- to get a better sense of it. And next time, when we talk about Pca.
+- I will show you how to do.
+- How do we guess this?
+- Okay, I just spilled my cup of tea on the table. But it's okay.
+- Okay, next.
+- So this is the code and everything you can see here. Similar.
+- See, the results are not gonna be the same because it's choosing split of test and train in a random way.
+- Okay, next, our next algorithm is decision trees
+- decision trees are very intuitive way to classify data. Okay, so essentially, you ask a series of questions.
+- So let's take this example. We're trying to find what's the animal.
+- So we may ask the question.
+- is it bigger than one meter or less than one meter?
+- If it's bigger, does it have horns? Or you have this? So after a series of questions.
+- you come at the bottom to
+- the classes. They are sitting right here.
+- Okay. Now, mathematically, you think about it in the following way.
+- we have points in space some space here. I do it in 2 dimension
+- or visualization. But think about it is, you know, very, very high dimension, and
+- the asking of the series of questions
+- really amounts to chopping the space
+- by some form, by some line.
+- and separating one side from the rest.
+- So look at the top. The 1st picture here
+- I separated the yellow, most of the yellow from the rest.
+- Then I looked at the rest, and I separated the green from the rest.
+- and I keep doing it again and again and again.
+- So this is in essence. What a decision tree is.
+- We're gonna go to some improvement of this which is called Random Forest.
+- The Random forest model is essentially an ensemble of decision tree
+- but randomized. What do you mean by randomized? Let's go back to the picture.
+- This one I used here in this illustration, vertical and
+- horizontal lines. But when I look at the data, you see, it seems to
+- that some diagonally lines will do better better job.
+- So the randomness may be in the direction of the lines. Okay?
+- And in oops
+- in a random forest, we're gonna take randomized decision tree meaning decision tree with all kind of angles. For example.
+- the thing is, the training as well as prediction is very fast because
+- of the simplicity of the decision trees. We're gonna run a code in about about it. In a second
+- the task can be parallelized. So if you have a machine with Gpus, it can be done each
+- decision tree runs on a different gpu, and you can put 1,000 of them together, you know, in in and run really fast.
+- More important than this is that the multiple trees
+- allows you to give probabilistic classification. So let's say.
+- I get 99% of the trees. Say, it's class a 1%. Say, it's class B, I'm not gonna think twice. I'm gonna say, it's Class A,
+- but if it says 0 point 6 or 60% is class A and 40% in Class B,
+- maybe I shouldn't jump to a conclusion that it's really class A,
+- maybe I should give the result as a probabilistic, as it gives me.
+- And what? How do you get the probability? Essentially
+- check? What percentage of the trees gave you one class versus the other? Okay.
+- so this is actually a very useful information that can come out from this model.
+- The model is very fast. And let's actually do it. Okay, so I'm gonna take
+- the code which is called Random Forest.
+- I see it's not in this directory, so sometimes
+- I don't finish this in the in one lecture.
+- So I actually put it in a different folder.
+- And we're gonna go there.
+- Random forest.
+- So now we're gonna do random forest on
+- and data set of the digits. Okay, so let's see how it goes.
+- So what we have to do here, let's see numpy pipe load
+- low digits. This is a function that takes from sk, learn the digits.
+- So I should say that these digits are very crude. They are 8 by 8 pixels.
+- We're gonna do the same trends and test split as before.
+- import metrics like before we gonna do confusion matrix.
+- And we're gonna do the random classy or forest classifier
+- in the Random Force classifier. I can
+- say how many trees I want.
+- And this is the main parameter I am going to use
+- to study what is happening here.
+- I'm gonna load the data.
+- I'm gonna print some stuff just to get some sense of it. What are the keys in my data in in my dictionary?
+- What's the shape of them, and so on.
+- I'm gonna make a figure of
+- 8 by 8 figure of digits just to see how they look. Okay. And with each one of them. I'm gonna print the label also. So just I see.
+- you know that I recognize it.
+- Then I'll split the data.
+- Okay?
+- And
+- so then I do my model. My model is Random Forest Classifier number of estimator. Here I put 150. Let's put one.
+- If I run this code with number of estimator is one. I'm really doing a single decision tree.
+- So I want to do the purpose showing you that the single decision tree is really not enough.
+- So model is is specified. Then I do model dot fit and then model. Don't predict
+- the predict I do on the test data.
+- The feed on the train data with the train labels.
+- Then I want to do the classification report. This one takes
+- 2 things, the predicted and the test
+- and the real stuff. Okay, the known labels.
+- And it's gonna do statistics on these 2 sets and tell us the result.
+- And again, like before the confusion matrix again, you give it the same thing.
+- test and predict notice that they are not in the same order here and there.
+- and that's it. So let's run this.
+- I want to see some printout first.st
+- Okay, so let's look at this 1 1st
+- dictionary. You see, I have data. I have target.
+- I have images. So you know, I have everything I want right?
+- Almost 108, 1,800 images.
+- They are each of size 64. And this is the dimension.
+- They are actually shown up as single vectors of size 64.
+- But they're actually 8 by 8 pixels.
+- Here they are.
+- It doesn't look so nice because it's only 8 by 8. So maybe if I make it smaller
+- you can see the digits better. But
+- the labels printed with them are confusing the
+- the visualization, but I think you can see it's not great images, but you know.
+- probably you cannot tell every image what it is.
+- but in most of them you can.
+- We are going to talk about a different data set of images called mnist.
+- where each image is 28 by 28.
+- Let's continue.
+- We did a single tree, remember.
+- And here is the result. 0 was classified correctly, 95%, 8, only 69%
+- to also 68% overall. It's 0 point 8. Not so great. Okay?
+- And this is what a single decision tree is going to do for us.
+- We can run it again and again. But let's do more.
+- Okay, so where is my number of estimator? Now, I'm gonna move to 1010 trees.
+- And this thing run really fast, so we can play all kind of games here.
+- Okay, it printed the thing. It shows us the images.
+- And now it gives us the result with 10 trees.
+- You see, 0 was classified perfectly, which one is bad
+- overall. It's 95%. Okay. So this begins to look really good. Let's do more. Let's do 50 trees
+- because it runs really fast. You can actually experiment with it.
+- And if you do anything like this in a project.
+- don't show us the result for a single number.
+- Show us, for you know, several choices. So I have to close this for it to run.
+- Okay.
+- So now I'm doing 50 trees.
+- And this result, this is the same as before.
+- And the result gives me is 96%. Okay.
+- so I'm gonna do more. Okay? And maybe I'll do 150 and
+- 96 is already pretty good. Right?
+- We get now 98, with a hundred 50.
+- Okay, so 198 is probably
+- as good as it gets. Well, let's put put 500.
+- You see, we can afford big numbers here because the algorithm is fast.
+- So this will be the last thing I ran.
+- And here it comes.
+- It's still 98. Okay?
+- And you see, the confusion matrix tells us which kind of errors we made.
+- 5 was thought to be 9.
+- No, these are the 2 label.
+- Oh, yeah. 5 was predicted as 9. 1 time.
+- 2 was predicted as one.
+- 4 0. You know things like that.
+- So this confusion matrix tells us also, what kind of errors are we?
+- So this is a good place to stop. I'm gonna give you 2 assignments today. One
+- is about the stuff we learned last time.
+- and the other one is the lecture that you know we have here
+- and there. There is more in this lecture. I'll give a version that stops here, and I think
+- I'll just open the assignment here. So I can
+- make sure that it covers up to the red.
+- Yeah. No applied classification. Gaussian aim based Svm rental forest
+- pick a data set of your choice from kaggle
+- shows error like confusion, matrix, and accuracy. So you will get codes that do this almost.
+- But you have to to do it to to your own data. Okay.
+- and this is due next week on Saturday. Okay, so you have enough time to do it.
+- There is also assignment number one, which is about
+- what we learned last time, which is the probability stuff.
+- And there was something here which I, changing to
+- color white so you don't see it.
+- Simulate the birthday problem as the lecture one shows and simulate the Clt central limit theorem.
+- as shown on page 49 in the lecture. Okay.
+- So this is the homework for today. I will send you all the files I'll send to the Ta. And he's gonna send you.
+- and I hope you have enjoyed it. Next time we're gonna have more fun with unsupervised learning.
+- And after that we're gonna do
+- neural network that is deep learning, which is the most exciting part of this course thanks everyone for listening.
+- and I hope you enjoy stuff, and I will see you in about a week.
+- Okay, bye-bye.

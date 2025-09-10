@@ -1,0 +1,1 @@
+![[02_areas/MATHS/attachments/f0626ef9bec8bb5b2e1aa7349732e35a_MD5.jpeg]]

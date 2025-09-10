@@ -1,0 +1,1035 @@
+---
+title: "Video Conferencing, Web Conferencing, Webinars, Screen Sharing"
+source: "https://zoom.us/rec/play/3gwKQfBTYH2f6b4FNlNoFeBtA-F1qL4ai90wv7Cpa4O3CQvak5EPRdlV-Bq8LCoOR1Gknm2TOjc8lw.nXLgtvysuKGvKUXh?eagerLoadZvaPages=&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fzoom.us%2Frec%2Fshare%2FG6K5EOTI-er5-rqdjOP-eX0gwVeoRTne2BiQID8GpkvC31t12BtdMDj9oimZva4j.ZJBhpur0Ggn7brav"
+author:
+  - "[[Zoom]]"
+published:
+created: 2025-07-19
+description: "Zoom is the leader in modern enterprise video communications, with an easy, reliable cloud platform for video and audio conferencing, chat, and webinars across mobile, desktop, and room systems. Zoom Rooms is the original software-based conference room solution used around the world in board, conference, huddle, and training rooms, as well as executive offices and classrooms. Founded in 2011, Zoom helps businesses and organizations bring their teams together in a frictionless environment to get more done. Zoom is a publicly traded company headquartered in San Jose, CA."
+tags:
+  - "clippings"
+---
+## Summary
+The DS204 Professor Class (25Summer-Prof. Ta'asan) lecture covered foundational data science concepts. It began with data visualization using Python's Matplotlib, demonstrating various plotting techniques (X-Y graphs, multiple plots, histograms, 2D histograms) and emphasizing data preprocessing and feature extraction. The lecture then transitioned to probability theory, defining core concepts like experiments, outcomes, events, conditional probability, and Bayes' theorem. Practical applications of probability were illustrated through examples such as medical test reliability, spam filtering, and the Monty Hall problem. Basic combinatorics (permutations and combinations) were introduced as tools for probability calculations. The session concluded with an overview of random variables, the Central Limit Theorem, and its properties, along with homework assignments involving CLT simulation and the Birthday Problem.
+
+## Key Points
+-   **Data Visualization (Python/Matplotlib):**
+    -   Importance of visualization for data insight.
+    -   Techniques: Simple plots, multiple plots (subplot), histograms (with density, bins, transparency), 2D histograms, kernel density estimation.
+    -   Concept of feature extraction for visualizing high-dimensional data (e.g., digit classification).
+    -   Recommended resource: Kaggle.com for datasets.
+-   **Probability Fundamentals:**
+    -   Definitions: Experiment, Outcome, Event, Probability.
+    -   Set operations: Union, Intersection, Complement.
+    -   Conditional Probability: `P(A|B) = P(A ∩ B) / P(B)`.
+    -   Rule of Total Probability and Bayes' Theorem, with practical examples (medical test, spam filter, Monty Hall problem).
+-   **Combinatorics:**
+    -   Permutations (N factorial).
+    -   Combinations (N choose K formula).
+    -   Application to probability calculations (e.g., tournament problem).
+-   **Random Variables:**
+    -   Expressing outcomes numerically (discrete vs. continuous).
+    -   Calculating probabilities by counting (e.g., sum of two dice).
+-   **Central Limit Theorem (CLT):**
+    -   Describes the tendency of sample means to follow a normal distribution.
+    -   Introduced concepts of mean (Mu) and standard deviation (Sigma).
+    -   Properties of normal distribution (e.g., 68-95-99.7 rule).
+-   **Homework Assignments (for next week):**
+    -   Simulate the Central Limit Theorem in Python.
+    -   Solve the Birthday Problem (calculate probability for a given N, find N for 0.5 probability).
+
+
+
+
+Shlomo explained the importance of calculating conditional probabilities accurately, using a medical test example to demonstrate that intuition can be misleading. He showed that while the test had a 90% positive rate for those with the disease, the probability of actually having the disease given a positive test result was only 8%, highlighting the test's limited predictive power. Shlomo then introduced Bayes' theorem, explaining how it can be used to relate different conditional probabilities and emphasizing the need to consider both true positives and false positives when evaluating a test's effectiveness.
+
+
+Shlomo demonstrated how to build a spam filter using probability theory, showing that emails containing the word "free" have a 95% chance of being spam. He then explained the Monty Hall problem, using probability formulas to prove that players should always switch doors, as the probability of winning by switching is 2/3 compared to 1/3 for staying with the original choice.
+
+Shlomo discussed probability concepts and random variables, explaining how to calculate probabilities by counting outcomes for dice rolls and other scenarios. He introduced combinatorics, including permutations and combinations, and derived the formula for combinations using factorial notation. Shlomo also covered the concept of random variables and their applications in probability, using examples like weather outcomes and die rolls to illustrate different scenarios.
+
+
+---
+
+https://zoom.us/rec/play/3gwKQfBTYH2f6b4FNlNoFeBtA-F1qL4ai90wv7Cpa4O3CQvak5EPRdlV-Bq8LCoOR1Gknm2TOjc8lw.nXLgtvysuKGvKUXh?eagerLoadZvaPages=&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fzoom.us%2Frec%2Fshare%2FG6K5EOTI-er5-rqdjOP-eX0gwVeoRTne2BiQID8GpkvC31t12BtdMDj9oimZva4j.ZJBhpur0Ggn7brav
+# Original Content
+
+[Accessibility Overview](https://explore.zoom.us/en/accessibility)
+
+<video src="https://ssrweb.zoom.us/v2/replay02/2025/07/12/D1564C9A-7444-4EF8-8429-C45DA0778C72/GMT20250712-111254_Recording_1920x1080.mp4?response-content-type=video%2Fmp4&amp;response-cache-control=max-age%3D0%2Cs-maxage%3D86400&amp;data=ba89b7a4df6f0b14f6c49cce8fafe06ecf7a69d8d0c89f91def92d21f26953e0&amp;s001=yes&amp;cid=aw1&amp;fid=NaUbPwUp-vajd9nSGowPaI0nulRnBCwT1_ZwrDEFVFWILog9HyMUn8eqKd00nB6YW66KMNDO-8hSsA.P2PJDJgjPKNDlfFb&amp;s002=5UAEuDSO1cKx78YoEzzkNAoOZTFjvQtEhnktAs79oVY6xJj87zLg8CKKDA.IdYzOMFfKf8AMNcr&amp;tid=v=2.0;clid=aw1;rid=WEB_5339bc9607d70d530e812dc1083be4b6&amp;Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vc3Nyd2ViLnpvb20udXMvdjIvcmVwbGF5MDIvMjAyNS8wNy8xMi9EMTU2NEM5QS03NDQ0LTRFRjgtODQyOS1DNDVEQTA3NzhDNzIvR01UMjAyNTA3MTItMTExMjU0X1JlY29yZGluZ18xOTIweDEwODAubXA0P3Jlc3BvbnNlLWNvbnRlbnQtdHlwZT12aWRlbyUyRm1wNCZyZXNwb25zZS1jYWNoZS1jb250cm9sPW1heC1hZ2UlM0QwJTJDcy1tYXhhZ2UlM0Q4NjQwMCZkYXRhPWJhODliN2E0ZGY2ZjBiMTRmNmM0OWNjZThmYWZlMDZlY2Y3YTY5ZDhkMGM4OWY5MWRlZjkyZDIxZjI2OTUzZTAmczAwMT15ZXMmY2lkPWF3MSZmaWQ9TmFVYlB3VXAtdmFqZDluU0dvd1BhSTBudWxSbkJDd1QxX1p3ckRFRlZGV0lMb2c5SHlNVW44ZXFLZDAwbkI2WVc2NktNTkRPLThoU3NBLlAyUEpESmdqUEtORGxmRmImczAwMj01VUFFdURTTzFjS3g3OFlvRXp6a05Bb09aVEZqdlF0RWhua3RBczc5b1ZZNnhKajg3ekxnOENLS0RBLklkWXpPTUZmS2Y4QU1OY3ImdGlkPXY9Mi4wO2NsaWQ9YXcxO3JpZD1XRUJfNTMzOWJjOTYwN2Q3MGQ1MzBlODEyZGMxMDgzYmU0YjYiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTI5NDExMDh9fX1dfQ__&amp;Signature=hvUnnZGMwiypkmHBtx6B7kNxZN76Kb-JZaoE5DLhB4iUZbeN5OieMYXDfxuYcrdMzbpI1eIZIpzq3IV-voa8s8jLcRZ9hU3ZmqoVuPP0c7xm3EUhq3morb9-~zShueWWASaJnEmKqf0Vbm-rpx-k5Spy-dTJqLa86vwfbDLTQdyu7rGK-zfMGDXvsBTqdIQRmJFrQPVuBeZfuoEQwuNciZGfN0RNmjY~fc0~oe~v8PlfsyszMGottWSd-BRUQ~hW~-eeKi0KqL5seGial5dtMryE2cPlZNci49fywTSqLFfPpNUoGosiKgQ97L9aHFjIx9C17v9-Px7q9lDOmbwXUA__&amp;Key-Pair-Id=K1YYCGW8V4AHXW"></video>
+
+00:00:00 / 02:20:26
+
+## Audio Transcript
+
+- 00:33:44
+	Hey? Can you hear me?
+- 00:33:49
+	Yes!
+- 00:33:50
+	Okay, good.
+- Hello, everyone. And welcome to our course on data, science and applications
+- my camera seems to having some issues. So you probably cannot see me.
+- It's not detected. And it happened to me in the past. Then I fixed it. Now it's not working again.
+- I really have no idea. Okay? So
+- you can hear me, I guess, if not, just say on the chat box, if there is a problem with sound
+- so today we're gonna do 3 things.
+- We're gonna talk about visualization, about some probability and statistics, visualization using python.
+- Then I review probability I try to make things with a lot of pictures.
+- and we're going to do a little bit of statistics as well.
+- The 1st step in understanding data is visualization.
+- This gives the best insight.
+- There are different ways. We can visualize data.
+- Simple plot is one. This is when we
+- try to do X versus Y graphs, for example.
+- say, I have stocks over some time.
+- and I want to understand the trend. I will do stocks versus time to see that.
+- See uptrend, downtrend, etc.
+- Sometimes I'm trying to understand some
+- differences between classes between groups, let's say
+- in medicine, I have groups of people who are healthy versus group of people who are not.
+- And I'm trying to understand using my data, what's different between them.
+- So I will do some graphics that is about clustering.
+- And we're gonna see all of these today. So you'll you'll understand what I mean.
+- In other cases I'm trying to understand
+- how likely events are to happen. Let's say today it's 45 degrees where I am.
+- I'm just kidding, I'm trying to see. Is this really a typical situation or not?
+- Okay? So we are wanting to know about 3 types of visualization types.
+- And it is important to understand that any of these.
+- maybe not on the original data, but on some kind of
+- pre-processing of the data. First.st By some algorithm, we usually call it features.
+- We take the data, we extract some features out of it.
+- and we plot those features in order to understand
+- properties of the data that we have.
+- So I will be using this environment for coding. It is Microsoft Vs code.
+- And they're all the same. I mean, you can use by term if you want
+- it doesn't, or just use either that comes with
+- the system. So if you type idle. Here you get another oops.
+- I should type either here, and it should give it to me.
+- I didn't type either correctly. And this is the python environment that
+- you already have. If you install python.
+- It's bare minimum. Okay? So I know. Be in the past. I use it. But then people say, Can I use the nicer one? And here it is.
+- So.
+- Before you can do any of these visualization. I show you today on your computer.
+- you have to do some install of packages. Okay?
+- And here I do. I recommend these 2 pip install numpy and pip install macbook lib.
+- Numpy is all kind of fancy math, stuff, vectors, matrices, functions, etc.
+- Math plotly is our actual visualization package.
+- There are fancier packages than this. But for our purposes this is more than enough.
+- So let's go back to the slide.
+- Okay, so
+- simple plot is this, here is an example. You see, it's based, essentially, y versus X kind of graph. Okay, so we are going to go over this.
+- What? I'm trying to figure out. Yeah.
+- Okay, so let's go over it. I import smart plot. Lib
+- dot pi plot as Plt. This is a short name for the long thing here.
+- which we will be using for our visualization everywhere.
+- I begin by defining X, so I have to do X and a Y, okay
+- line space. This means a linear space, linearly spaced points between 0 and 50, involving 1,000 points.
+- The actual plotting command is here, Plt. Dot plot.
+- I give it X, and I give it. Y,
+- the Y value in this case is just a function I generated. I use sine function cosine.
+- and the command that actually show this stuff is plt dot show
+- if you run on on Jupiter. I think you don't have to do the Plt. Or Cho, but I never use it, so I don't want to give you advice.
+- I'm not perfectly okay with, I'm gonna run this code
+- and we're gonna see some stuff right away. Here it is. Okay. So notice that
+- the graph I have in my lecture here.
+- It touches the X, you know the boundaries of the graph while
+- in here it doesn't. Okay? So this is because
+- here I'm using a different version of python than I used when I wrote this lecture. Okay, you notice the space that it puts on top and bottom.
+- It puts the graph a little bit inside. Okay.
+- also in the graph, you see more. Only 2 waves.
+- Here. I have a lot of them. And it all has to do with this. How many points I took? Okay.
+- So if I run it again with less points, it will actually not less point less.
+- Here the X value is less.
+- I'm going to see a different boom.
+- Wow! You see, this is more like in the lecture.
+- And you see there is a dash line and a solid line. The colors will speak by the machine. I didn't do anything to for doing that. Okay, this is our simplest starting point
+- for the simplest possible graph.
+- Okay, let's continue.
+- Sometimes I need to put graph 2 graphs side by side.
+- This may be, for example, when I'm trying to plot
+- like one of them will be the y values in the thousands.
+- and the other one the Y value in the teens, so they will not
+- look nice if I plot them together.
+- So for this purpose we use the command
+- by subplot. Okay, Subplot is going to create for us an array of plots
+- which we can decide to be of any size
+- here I did different than the lecture. I did 3.2.
+- So this means 3 rows and 2 columns.
+- And to put some specific graph into them. You use the index one up to 6,
+- and I'll run it so you can see exactly what it does.
+- And here it comes. So you see, picture number one is on top left.
+- Last one is on bottom, right.
+- And you see how how it looks. Okay.
+- again, very basic thing. So in the lecture. I think I have a 2 comma, 1, 2 comma one.
+- and that's a 2, and I'll write it again just so that we can reproduce what we have there.
+- And here it comes. Okay, this looks more like
+- the one in the lecture. Okay?
+- So you see, the subplot command is this new thing.
+- and we are going to see example later on. We're gonna do 8 by 8, when we have to do
+- many plots showing some images or something else.
+- Okay, there is also another syntax for doing multiple plots. This is the page about it.
+- When I say, the code has some bugs, I mean, few lines are missing. Okay.
+- I you. It's enough for us to do the other one this upload.
+- But if you want, you can go and learn this one as well.
+- now we come to plotting several things. So let's say, I'm plotting now the temperature in New York City, in Tokyo, in Beijing, in Paris.
+- in Moscow, etcetera, I'm gonna use a different color for each one of them.
+- and I would like them all to be on the same graph, same image.
+- So I need to specify color. Okay. And this is done by specifying color in one of the following ways.
+- I can give a particular one of those lines.
+- color by name, like blue, red, green, or by code. And these are the 7 codes which exist.
+- I can do grayscale, and put some number between 0 and one.
+- and there should be a gray one. So you can see the 1, 2, 3,
+- 1, 2, 3. That's a gray.
+- I can put a hex hex code for the
+- color. So each 2 letters represent the number between 0 and 2 55. So Ff is 2, 55,
+- or I can do the Triplet, RGB, by value 0 to one.
+- So there are many choices here, of course.
+- sometimes I want to control the line style. Okay? So you see here different styles.
+- solid dash, dash, dot, etc.
+- And I do it also by specifying the command
+- lines. Type. Okay, so this is very, very obvious, very trivial. To understand what's going on
+- lines that I can either do by a word or by a code. Okay, dash is
+- solid. Dash, dash is dash, etcetera.
+- Sometimes I want to control both the color and the style.
+- and I do it by combining the codes with the 2 of them together like the solid grain
+- they're saying, etcetera, etcetera. Okay, so everything is pretty pretty simple here. Okay?
+- And this is when we do graphs of X versus y. So these are the simple plots until now.
+- Now we're gonna go further before that.
+- See, this is not so important. But this is
+- so. The 1st one I control.
+- Where is the image relative to my my frame.
+- I can put bigger spaces here in the front, in the back
+- or not. But the important thing is the next graph.
+- I can put a title. I can put label in the X place in the Y place.
+- and the command of doing it is this euro
+- plt dot title. I put anything I want there.
+- X label and Y label, just what they are.
+- Okay. So I have a little bit more control over how my figures are gonna look like, okay.
+- we mentioned histograms. So histograms is about trying to understand the frequency of events.
+- frequency of events. It's it's important. It's some probability probability concept.
+- And we would like to be able to plot things so that we can get sense of
+- the probability of different things. 2 different events
+- here I generated random data in this line.
+- 1,000 points, randomly distributed, run without an n.
+- A random number between 0 and one run with an N at the end is
+- Gaussian distribution with 0 mean and variance one.
+- So I do generate the data, and then I do plt dot east.
+- It generates this picture. Hey? This is the histogram.
+- It counts how many times a given value or given range of value appear.
+- The weakness of this, as is, is that if I get a lot of data.
+- the Y-axis will go to high numbers, which is not desirable. So
+- I want to normalize. Okay, so that's 1 thing normalize.
+- I use it with the command. Density equals. True.
+- But that's not all. This seems to be too cruel of a representation.
+- and I want to go to more resolution in the X direction.
+- And I do it by the command, by the keyboard bins
+- equals 30 here. It's basically 10.
+- I also.
+- sometimes I'm interested in multiple graphs
+- which may overlap. So if I don't have transparency, it's not gonna work.
+- And this is transparency. Alpha equals 0 point 5.
+- He got between 0 and and 1 1. It's not transparent at all. 0, you can see through completely your turn.
+- So this was generated. Alpha.
+- The following picture is, I have a few histograms.
+- and I'm generating with them. With Alpha equals 0 point 3.
+- Density is true. I always do, because I like to see probabilities.
+- and you can definitely see through them, each one through the others.
+- because Alpha is 1 0 point 3.
+- Okay, again, very, very basic stuff.
+- Nothing special.
+- I may want to do histogram in 2 dimensions.
+- which is shown here. You divide the X and the Y space into how many numbers.
+- and there you count in each block, in each box how many
+- times disappeared, and you plot it with some kind of contrast.
+- Here, you see, I put a color bar, which is this thing here?
+- And I also put labels on the color bar right?
+- No sorry the labels came with the color bar, but the label here, what it means
+- comes by the command set label.
+- So what do I do this? Okay, I need to do histograms in 2 dimensions. If I
+- I'm in a two-dimensional case. For example.
+- I look at the temperature and humidity in all those cities, and
+- I take one city at a time when I put the histogram.
+- And I'm seeing how frequently is. Some is each combination of humidity and temperature.
+- Okay, if I'm not happy if this looks too crude. Okay, like pixelated.
+- I can go and use something called kernel density estimation. It will fit some Gaussian or other shapes.
+- And you see this is a nice and smooth function here.
+- Actually, we don't really need this. This is enough. But you know, it's up to you.
+- Okay, the next diagram. This is about what I said clusters.
+- So let's try to understand what we are seeing here on the top, I have an array of digits.
+- These come from sk, learn, sk, learn! We're gonna talk about it later on.
+- and understand what what it can do for us.
+- Now each of these images we cannot see it. But I'm telling you it's 8 by 8 pixels.
+- So quite crude.
+- Now, to visualize things in 8 by 8, which means 64. Dimension is not so easy.
+- we actually cannot do it. We have to play all kind of games to understand something.
+- What we are going to do in this particular example.
+- We're going to extract 2 features out of these images.
+- What are the features? It's a different question. Here it is done by Isoman.
+- There are other ways to do things, and I'm plotting here
+- feature one and feature 2, each coming from a different digit represented by a dot.
+- If it came with the digit 0, I mark it as red as a blue. No blue. I think it's actually black.
+- If it is number 3, I mark it as pink, or something like that, and so on.
+- What I can see now is that
+- in the space of features feature one feature 2.
+- The different digits occupy different regions.
+- There is only a little bit of overlap between them.
+- And this is actually very good thing that I would explore later on, when we talk about classification.
+- instead of trying to distinguish the digits by looking at the full image like you see here on top.
+- This is what our brain does. Okay, we immediately look at it, and we know what you're seeing
+- for the math part for machines we're gonna maybe want to give, not the full image.
+- And here, you see, trying to understand the problem of classification
+- or the problem of Give me a new point. I'll tell you what it is
+- essentially amounts to dividing the space into regions
+- where in each region there is one, or mostly one color. Okay.
+- we're going to talk more more about this later on.
+- Now, these 2 features that were created here
+- are coming from something called Iso Map that we're going to discuss in lecture, you know, 4 or 5 whatever 4, maybe
+- maybe 3.
+- Essentially, it extracts some nonlinear quantities out of this data.
+- We're going to talk about more of them. Several
+- things under the manifold learning category. Okay?
+- So again, you see, this is an example where
+- I had objects belonging to several classes.
+- Here it's to 10 different classes, each forest a different digit.
+- and I'm trying to plot them in a way that would make sense. So I can
+- distinguish them in some kind of reduced space
+- reduced because I don't want to calculate a lot. I want to do the minimum amount of calculation that can give me the answer
+- that I want, and they answer, What do I want?
+- I want to look at one of those things
+- and say, is it a 1? Is it a 2? What is it.
+- Data sets. So our data sets or
+- no idea, what is this? But let's go to the era.
+- I'm going to power kegel.com.
+- Okay, so canker is a place for a huge amount of data.
+- You see, more than half a million data sets.
+- So probably every topic that you come in mind.
+- it's gonna be here, there will be some data about it.
+- These data sets are also having usability parameter. If it's 10, it's good. If it's lower than 10 watch for problems.
+- There may be. See, these are all 10. Okay, the last one was 0 point 8.
+- So
+- it's missing something. Okay? So when it's not. Then something is missing. Okay?
+- And you see, they're actually huge number of data sets that we have here.
+- I jump to 9 to 13 to etc. It's half a million things.
+- and if you trying to do something like either in the homework assignment
+- or later on the project, it is good that you look, search, search
+- today or after today, between today and next time, actually, next time is tomorrow.
+- So maybe tomorrow, before class try to browse this thing and see whether
+- there is something that really exciting, exciting.
+- Okay, see? They're also by topic. Classification is a topic.
+- And you know, you may find some interesting things here. Okay.
+- it's everyone is different. So whatever you're interested in is is fine.
+- so this was written when there was Covid. And you know we had a lot of question about what to do with Covid and all that.
+- So this is the beginning of our lecture, which, just finished
+- and which focused on visualization.
+- And again, I cannot stress how important is visualization. Okay.
+- many times, just by visualizing the data. I know what to do. Okay?
+- And of course, there are cases where you look at the data, it looks so complex. You, you look at the picture, and that doesn't tell you anything.
+- Some data is tough.
+- So our next topic is probability.
+- Why do we need it? You may ask. We're doing data science here. Why do you begin to do probability we don't like probability.
+- The thing is that probability concept of probability are backbone of many important quantum in data science.
+- for example, inferential, statistic, busy network and more.
+- And we understand statistics. You know, we have to understand probability
+- in statistical inference. We try to understand the population
+- for analyzing a sample which is much smaller. I'll give, you know. Particular case.
+- Say, I want to know what is the average height of people in Europe in Tokyo.
+- I mean measuring the height of millions of people is not a practical thing.
+- So what do I do? I go to random places in the city. I pick a person or 2. I ask them to marry their height. If they are
+- okay with it. I'm fine. I'm doing my table.
+- And then I get the average
+- number of all those measurements I did.
+- and this serves me as an estimate for
+- what is the population? You know me and Ben?
+- There is, of course, in statistic tools that tell us how much errors I'm gonna get with this and all that.
+- And this is just an example.
+- So let's go with 2 probability. What is probability.
+- When we look at life there are always many uncertain situation.
+- I look outside the door now. It's sunny, but you know it may rain tomorrow.
+- I would like to know how likely it is because I need to know whether to pick up my umbrella or not.
+- I have a math test. Tomorrow
+- will I pass it? Well, I haven't studied much recently.
+- and etc, etc. So there are many questions in everyday life that
+- there is more than one outcome, and you know you would like to somehow give weight to the different possible outcomes.
+- This is what probability does.
+- It gives high value, like close to one
+- for things that are very likely to happen, almost sure, 90% or more.
+- So to mathematically formulate things. We have to come up with some concepts.
+- Experiment is one.
+- These are the uncertain situation. For example, will it rain today? Yes, no, there are at least 2.
+- Outcome is the result of a single experiment. We waited to the end of the day, and it rained. So the result is it rained with the outcome.
+- An event is an important concept.
+- It is one or more outcome from an experiment. Okay?
+- Probability. The most important concept is a measure of how likely an event is.
+- Again, this is only one interpretation of what probability is.
+- And this is what we're gonna take for the rest of our ari are both.
+- When I say that there is 60% chance. It will rain tomorrow.
+- What I mean by this is that if this condition of today.
+- if I look at them and in the history of my data.
+- and let's say I see a lot of them there. Enough enough of them. I can see how many times in the following day rain happened.
+- and I would guess from this.
+- the probability of rain for tomorrow is, let's say, 0 point something
+- now. So why do I care so much about probability? Because
+- planning in uncertain situation is very beneficial.
+- The simple example of the rain. If I know that it's gonna rain tomorrow with high probability.
+- I should get my umbrella in a completely different setting.
+- If I have the business in my family history.
+- I should be worried about it. I should take steps.
+- Maybe I should eat healthier, maybe I should exercise, and all those
+- we can plan according to probability of future events.
+- If an event has very small probability, like probability of rain tomorrow is 0 point 0 1%. I'm not going to take my umbrella. But if it's 98%, I will definitely take it.
+- Okay. So it's about planning accordingly.
+- Now we come to some real stuff, some formulas, some concept.
+- So
+- we're going to think about events, a subset of something bigger.
+- Let's go on.
+- Okay, yeah. In this slide. I forgot to mention the sample space.
+- So this is the set of 4 possible outcomes. So it's a set. Okay.
+- an event will be a subset of this. Okay? So we're gonna I am going to
+- schematically draw the sample space as rectangle.
+- If it's a continuous sample says it's good. If it's discrete.
+- I should actually make a few dots of the plan
+- and say, This is my space.
+- In any event, events are subsets of this thing I call here Omega.
+- So Omega is going to be the sample space. Anything is a subset of omega.
+- But since we are talking in the language of sets
+- their natural operations on set, that we might want to consider union of 2 sets.
+- I combine the 2 and make one bill sets containing them.
+- Intersection of sets. This mean what is common to the 2 sets
+- like it is this banana shaped between the A and the B.
+- I can also talk about the complement of a set.
+- So it means it's those things are in Omega
+- which are not in my original set. So, as you can see the yellow.
+- Hey? Hello!
+- Is the complement of this a red.
+- So let's write a few forwards.
+- Probabilities scale scaled so that things are gonna be a 12 1.
+- The probability of Omega is one probability of the empty set is 0.
+- So you may ask, where do I get the empty set from.
+- Why do we need to deal with them? They said so. Think about these 2 sets, and be here.
+- If they did not intersect, the intersection would be empty.
+- So we need to talk, be able to talk about the empty set and what to do about it.
+- So we would like the probability of the empty set to be 0.
+- Now, if I look at the picture bottom here, right.
+- I can see that a union with a complement, the C on top of the A means complement.
+- they said, a union, a complement gives us all a formula.
+- Now the probability of Omega is one.
+- so the probability of the complement will be
+- defined is this, remember, P of a is at most one.
+- So one minus P of A is not negative number.
+- We should never get negative numbers. In probability.
+- Now, I would like to motivate this more fancy formula.
+- I would like to know what is the probability
+- of the area on the top picture. The area inside is apple-shaped.
+- Well, I can see that it's made up of the red shape, the blue shape.
+- This gives me the whole apple. But
+- there is an in-between, a Bareno shape that is calculated twice, both in A and in B,
+- so that's not good. I should count each point only once.
+- And here is the way I do it.
+- So think about probability as being the area. So it's easier to understand all these equations
+- like, let's say on the previous thing. Here.
+- The area of the complement meaning the area of the yellow side is one minus the area of a
+- one is the area forming all right.
+- So now this formula, so the yellow what's inside the yellow, the area of it
+- can be thought about as the area of a plus the area of B,
+- but this area in between, we've calculated it twice when I was in A and when I was in B,
+- but I need to calculate each point only once.
+- So I'm going to subtract PA intersection. B, because I calculate this one twice.
+- And here is the famous formula.
+- and when understanding just by looking at pictures.
+- Okay, now, we're gonna practice this stuff.
+- But when we do, we're going to take examples where
+- Omega is discrete, like in here.
+- So in this case, the way I will think about it is, I have 5, 6 dots on the page.
+- and the total weight of all of them is one.
+- So I'll take the symmetric case that each point gets one over 6 after the total.
+- So the probability for each number now is going to be one over 6
+- now, and of course P. Of Omega will be one.
+- because if I have, the weight is one over 6, and I have it 6 times. The total is one.
+- How do I interpret probability of an event? So again, what is an event? Now
+- think about Omega? These are 6 possible. Number an event is any subset.
+- Take, for example, the 4 5 set.
+- It has 2 elements.
+- So I'm going to think of the probability of A
+- is the number of elements in a divided by the number of elements in Omega.
+- So it is 2 out of 6.
+- What is a compliment?
+- Looking at as 4, 5. The complement is 1, 2, 3, 6, so the probability of complement
+- is one minus p. Of a
+- P of a, we calculate it's a 3.rd
+- So this one minus it is 2 thirds.
+- So notice that
+- probability of a plus, the probability of the complement is just one. This is this line here.
+- Okay, let's take something more interesting. I look at the set
+- for event B, which says, the result is even
+- so, this means we are dealing with 2, 2, 4, or 6
+- resolving. Odd. It's a compliment, is 1 35.
+- Now, I'm gonna take the event A from above
+- and event B from below here.
+- And I wanna see what exactly is A and B, this the intersection.
+- So when I say a end.
+- this is like intersection A or the or meaning union.
+- You will see that what is common to A and B is just the number 4.
+- So when I look at A or B,
+- these are the 4 digits here, 4 numbers here.
+- You see, there are 4 of them, 4 out of 6
+- here. It's 1 out of 6.
+- So P. Of A or B by just counting that I have 4 out of the 6.
+- I just write it more. I'm gonna use this for more role above P. Of P.
+- What is B of A is here.
+- P of A is 2 over 6
+- p. Of B is 3 over 6, and the intersection is one over 6.
+- I get, you know what I need.
+- Okay? So we started with simple meaning of the what's a probability.
+- And now we're gonna go to something even more important, which is conditional probability, because in life
+- this is the thing that happens, the most
+- we are dealing with conditional probabilities.
+- and we need to know what to do about it.
+- So the meaning first, st there is a formula here.
+- and there is a picture here, and I'll explain both of them.
+- You can take this as a definition and read it.
+- The probability of a given B meaning given B, meaning B already has happened.
+- and it's written as probability of the intersection
+- divided up by the probability of B,
+- let's go here. What's the intersection?
+- It is this yellow shape, yellow area
+- P of B is the green area.
+- So the conditional probability of a given B.
+- See, when you say, give and be, you change Omega to become B, so everything is relative to B, now.
+- a inside B is this yellow part.
+- So the yellow part.
+- the ratio of the yellow part to the green part is what we care about. Okay.
+- So this is just a definition. Okay, now.
+- we're going to do something with it.
+- We're going to find a very, very important role to help us solve a lot of problems.
+- Let's consider this picture, Omega, which is this rectangular shape.
+- is divided into the union of
+- b, 1 b, 2, etc.
+- The all the B's together. They cover all of Omega, and they do not overlap
+- automatically. We write it like this.
+- Only guys b, 1 intercept, I mean union. B, 2, union, B, 3, etc, etc.
+- And the important thing is that b, 1 union. Bj.
+- bi union, Bj, is empty. This means there is no overlap of the sets.
+- Now we consider this red shape here. It's an event, a.
+- And we ask ourselves what is the probability for this event day.
+- So since we think about probabilities area.
+- the area of this red shape
+- is really the sum of areas of a intersection, each one of those B's.
+- So you see, P of A is P of a intersection b, 1 plus
+- p, of a intersection, B, 2, etc, etc.
+- Probability of intersection is usually difficult in application. And instead.
+- we use this formula, you multiply by B
+- by the probability of B both sides.
+- So you see each one of these intersection, probability of intersection
+- became a product of 2 things.
+- Essentially according to this, you see, this means P of a intersection. B
+- is P of a given B.
+- Times, P. Of P.
+- So now you see, I change
+- each one of these probability of intersection with a product of 2 things.
+- the conditional probability and the probability
+- for the elements, the set b, 1 b, 2 b, 3, etcetera.
+- So this is called the rule of total probability, and it is extremely important
+- in many applications, we are going to use it.
+- Okay, let's do a conditional probability example.
+- I'm tossing the die.
+- So I'm asking the question, what is the probability
+- that we are going to get the number 4
+- given that the result is even. In other words.
+- we don't see what's happening. We flip somebody that can see things.
+- He knows that things are even
+- right. And he asked us, he tells us the result is even what's the probability.
+- So the result is, even it means it's the 2, 4, 0, 6.
+- The complement of this to result is all this. 1, 3, 5, a. The result is for
+- a intersection. B, so 4. Intersection with the 2, 4, 6 is just the number 4,
+- and then we can use the conditional probability formula.
+- It is P of A and B, divided by P. Of B. And you look at how many elements I have in A and B
+- compared to how many elements I have in B. And I see it's 1 out of 3.
+- Now we're going to get ready to use the rule of total probability which was explained here.
+- 01:33:16
+	Maybe.
+- 01:33:19
+	Question, okay, so oops
+- Omega. You see all the numbers between one and 6.
+- They're either even or old.
+- right b, 1 or B 2, and there is no intersection between even and old.
+- so probability of each one of these sets is a half, because we have exactly 3 numbers 0 3. Here
+- now I take a subset forming a.
+- The digits are 3 and 4.
+- What's the probability for this? C.
+- It is 2 numbers out of 6. So it's 2 over 6 is 12 over 3.
+- But I'm going to do it using the total probability formula.
+- So I 1st in this form, when I 1st see, okay, this is my Omega.
+- I have to chop it into some pieces
+- so that they cover everything, and they don't overlap.
+- So this is exactly our b, 1 and B, 2.
+- So the probability of C is
+- the probability of C given b. 1
+- times the probability of B, 1, 2,
+- and then probability of C given B 2 times P. Of B, 2, etcetera.
+- Again, this is just the definition. There is nothing fancy here. We're coming now to some interesting example.
+- So this example shows us that
+- it's not our intuition are actually not good when it comes to conditional probabilities.
+- So we have a medical test for the Zd, it's a covid something.
+- The result of the test can be either positive or negative.
+- This table here show us the different probabilities, probability of a disease.
+- and the test is positive is 0 point 0 0 9, etcetera, etcetera.
+- Now, I'm going to calculate. Now, what's the probability to get positive result if
+- I know that the person has a disease.
+- So, using using the formula for P of plus given DI get 0 point 9.
+- Similarly, probability of not getting the disease. If
+- we don't have a probability of getting negative. If we don't have the disease.
+- you calculate it based on this, on this table, it's also 0 point 9.
+- So what does it mean? It means that this test is pretty good, right?
+- Because sick people get positive result, 90% of the time, healthy people get negative results.
+- 90% of the time. So this looks like it's a good test.
+- But if we think about what is the value of the test we have to think about the following.
+- suppose that you go and you take the test, and let's say you get positive.
+- I mean, why do I take the test? I'm not sure I have, Covid.
+- I go, and I take the test, and I get confirmation. I don't.
+- So here it's about. What is the probability that you have the disease given
+- that you got positive in the test?
+- So intuitively, we would say 0 point 9. But it's wrong.
+- Correct answer the probability of d even positive. You see, this is the important probability to calculate from all this guess.
+- Here it's probability of plus given DI know I have the disease.
+- so you know not a big deal. But here I don't know if I have the disease.
+- The only thing I know is that I got a positive result. So sometimes it may actually
+- drive me crazy because I may have a very bad disease.
+- but sometimes I just look at it as a joke.
+- So now let's calculate.
+- I take the test. I get positive. You see, when you you want to know if you have Covid. Right? You go and take the test.
+- The test. You're says you're positive. Does it mean you have Covid? Well, sometimes, sometimes not really.
+- So. What is the probability that you have the disease. Given that you got positive.
+- we would say 0 point 9. It's actually not.
+- This is the important part of any disease test to see to what extent
+- it predicts the disease. Given that the result is positive.
+- So you see the probability of positive result given.
+- No, the positivity. Sorry the probability of disease.
+- Given the positive result.
+- I just use the definition of conditional probability.
+- And I plug in the stuff from the table.
+- I see that it's 0 point 0 8. Very, very low.
+- I took the test.
+- I sat in line for a long time, told me, I'm positive.
+- But see, with this test. With this data.
+- this really means I have the disease with probability of 0 point 0 8.
+- So this test is actually pretty lousy. Okay, I would like these probabilities to be very, very high in the nineties.
+- The lesson of this exercise is that
+- we should not trust intuition. We would have
+- thought.
+- The result is 0 point 9.
+- But it actually came out to be 0 point 0 8 very, very low.
+- So this test is, test is, is, doesn't have any predictive power.
+- This example tells us, do not believe your intuition. Just calculate these few formulas
+- whenever you run into some relevant thing.
+- the next thing is due to base. This is the base formula, very important thing, in probability.
+- But so we go back just a second to to here.
+- Look at this formula, it's a probability of a given B.
+- You can also the probability of B given A,
+- and if you do both of them, and rewrite them as follows.
+- you can see that the 2 2 left side are the same.
+- So therefore, the 2 right hand side must agree as well.
+- So what this would give us is an equation that relates
+- one condition of probability to the other by flipping the order.
+- Notice that this formula does not use the a intersection. B,
+- a intersection B is usually difficult to calculate in problems.
+- So now let's go back to our medical test. We would like to understand how
+- So we have a disease.
+- A, the person is infected.
+- We have a test. B, we have a test, and the test came out positive. This is Event B.
+- Now, when a company develops a test.
+- Okay? So it did its chemistry. Now it has the material.
+- It has to prove that it's working. So it takes some sample.
+- It collects volunteers, and it's gonna do the test on them.
+- Now.
+- P of A is the infect the percentage of infected people in the population.
+- So how am I going to know this?
+- I'm gonna do the sampling language for? I'll take a thousand people.
+- and I see what percentage of them have the disease and who don't, though doesn't.
+- This will be P. Of a. The probability that the person is infected.
+- Next, P. Of B. Given a. What does it mean?
+- Probability of getting positive.
+- Given that we have the disease.
+- Okay? So in Step one, I took a lot of people.
+- I tested them.
+- Okay, okay, so I should add, here
+- I'm developing a test. Usually it has to be a test which is very cheap.
+- but there are other means to do the test which are more expensive. In the case of Covid, for example, I can do
+- X-rays and get confidence about infected versus not infected.
+- So P. Of B. Given a is the probability that the test is positive.
+- given that the person is infected.
+- So this means in Step one I took I mean, maybe a thousand people.
+- and I tested them now, using expensive measures like X-ray, and whatever
+- not the simple test that cost me a dollar to do
+- something that may cost much more.
+- and I know which of these people that I took sample of.
+- Who are these people that are ill and versus healthy?
+- I give all of them my test.
+- In a measure.
+- I give all the infected people the A people.
+- I give them a test, and I see how many of them get positive. Not all of them get positive.
+- and I see the fraction of them that came positive.
+- This is P. Of B. Given A.
+- Similarly I look at the probability of getting positive results from the non-infected people.
+- which I also know who they are, because I tested the number one.
+- A lot of things get in high tech wedding.
+- Now, what is my question?
+- Imagine that you go to the clinic.
+- You take the test and you get positive result.
+- The question is, what is the probability that you are infected
+- automatically, we want to do P of infected giving the positive result
+- base formula, tell us that we can relate it as follows.
+- I find one conditional probability from the other one, and some additional stuff.
+- Now the weakness of this formula P of a, you see, is known from above
+- P of B. Given A, it's also a non-ruba.
+- What we don't know is P. Off B.
+- So when we don't know something like this.
+- we are going to stick to the low
+- low of total probability.
+- You see, if I look at Ana complement
+- together, they make up everything right. A person is infected.
+- A compliment person is not infected.
+- the person can be either one in one of those sets.
+- So then, I'm using the rule of total probability
+- And I get this formula. Probability of B, given a times probability of a plus probability of
+- be given, not a times probability of multi. Okay.
+- we take now an example, a practical example. Now.
+- we're gonna use this base formula to design a spam filter.
+- To see this is something useful
+- to do this. I look at my email in the last couple of years.
+- and I divide it into 3 categories, spam
+- low priority email and high priority.
+- Now, I went over my email and I know what spam and not not what is not spam.
+- And I find that 70% of my email spam 20%.
+- They were low priority and and the rest.
+- So see here, I have a sum of one, the set spam low priority and high priority.
+- They're all this joint.
+- There is no intersection between it.
+- Now I notice that the word free appeared in many emails in the letter spam.
+- So I want to try to build a spam filter based on this word.
+- What is the probability of the word free? Given that it's a spam email?
+- Well, it's pretty high. It's 0 point 9.
+- This mean 90% of the
+- emails in the spam category have the world free in them.
+- But only 1% of the no prior priority
+- have the word free in them. And similarly, 1%
+- of the high priority have the word free in them.
+- Now I got a new email just now.
+- And I detected the word free in this email.
+- What is the probability that it is a spam?
+- Well, we're going to use the base phone again.
+- I would like to know? P of a given F.
+- See what I'm giving above is P. Of F. Given a.
+- The probability for the seeing the word free in my spam folder.
+- So we are going to.
+- We're going to express P of a given F.
+- See? It's not this one, it's a different, or this one
+- So this is just the total probability. Okay.
+- no, this is just the base formula. And now comes the total probability
+- which is going to help us calculate what is the probability of F
+- meaning to find the world free in an email.
+- So
+- I go now. P. Of FI do the rule of total probability to find out what is P of F,
+- so I can do it based on ABC, right?
+- Because the 3 of them together make up everything.
+- And I just write it like this.
+- So if you notice. Now P of a given A is given above P of a is above
+- P. Of F. Given B is known.
+- Everything is known in this formula.
+- so now I can put it all together.
+- I'm going to use this formula, the base formula.
+- and I'm going to plug in your F from here, etcetera, etcetera.
+- And I get 0 point 9 9 5. What did I just discovered if
+- I got a new email?
+- And I saw the word free in this email.
+- The probability that it is spam came out to be 0 point 9 9 5,
+- only 5 in a thousand. I'm gonna miss. If I use this forward
+- another example. Example. So previous example was about spam filter.
+- Now, I'm going to do another example. It's called the Montey Hall problem. It's a very famous problem.
+- It was a TV show in 1975,
+- I guess, before all of you were born
+- the host was called Monty Hall.
+- and the game was the following, there was this place, which is 3 doors
+- behind one of these doors there is a car, let's say, Tesla car.
+- or if you don't like Tesla, take a Bmw. Or something like that.
+- The car is placed randomly behind one of these doors. Now you come. You're the player.
+- You pick a door.
+- If the car is behind this door, the car is yours.
+- but it's not the end of the game. You pick a door. Then the host tells you
+- he actually opens another door out of the 3.
+- Actually, one of you pick a door, but you don't open it yet. That's important.
+- The host. Then open another door and show you that there is no car behind this door.
+- He then gives you the option
+- to switch your door to another door.
+- and the question is, what should you do?
+- So in the beginning, when the game started, people didn't understand what to do, they played a game.
+- and then a mathematician wrote the answer. In the newspaper, you should always switch.
+- You should switch to the other an open door
+- and let's analyze it, using base formula.
+- So event number one H.
+- The car is behind the door we picked.
+- Monty is opening a door for us, right? So this will be another event. E.
+- Monty shows us a door with no car.
+- What is P. Of E.
+- What's the probability that Monty showed us a door with no car? It's 1
+- he knows where the car is, he's always gonna do it.
+- What is B of age?
+- The chance that we pick the right door is one out of 3.
+- What is P. Of E. Given H.
+- The probability that Monty opens a door with no car
+- given that we picked the right door.
+- It's always one multi always does
+- in the no switching, switching strategy. We keep the choice.
+- Our choice chance of winning is P of H. Given E.
+- What is HH means we pick the right door. E.
+- Monty shows us a door with no car. Okay. So P. Of H. Given E.
+- So now P. Of H. Given E, using the base formula
+- is P of E. Given H. Times, P. Of h, over P. Of E,
+- and if you plug all these numbers from above, you see you get one over 3.
+- Now let's keep analyzing this.
+- Monty opened the door, which there is no car behind it.
+- The probability so the car can be either in the door we picked.
+- or in the door the other door that Monty did not open. There are only 2 choices.
+- the probability that it is behind our door.
+- He's 1 h 3, 1 3.rd
+- There is only one door, which is the option.
+- so its probability must be two-thirds twice as much as ours.
+- So we should switch to that door.
+- Okay? So here I write some comment in red.
+- You can write the python code to simulate this game and see the result for its strategy
+- switch or not switch.
+- So I recommend, if you have time, try to do this, I mean
+- for tomorrow. It's a bit difficult to do in one day. But try.
+- and if you would like next time next time, meaning tomorrow, if you ask me.
+- I will show you a python code that does this and produce the numbers
+- 1, 3rd and 2 thirds respectively.
+- Okay, these are some practice problems. You don't have to do them. Okay. Only if you care
+- math problem. This is like the spam filter, but in a completely different setting.
+- Okay, we come now to another
+- important concepts. In probability these are called random variables.
+- Let's say, then, we denote the random number variable by X.
+- Take the rain example.
+- In this example we can have 2 choice. 2 things can happen.
+- It will rain, or it doesn't rain, or it didn't. So we can say, X is either 0 or one.
+- Let's say we toss a die.
+- The die result can be 1, 2, 3, up to 6,
+- so the X will be any number from the set, 1, 2 up to 6
+- x can attain any value from this set
+- in other cases. Now, I'm gonna toss now 2 dice.
+- and I'm going to sum the results.
+- So
+- if I have one and one, the sum is 2, if I have 6 and 6, the sum is 12,
+- and check that I can get any numbers between 2 and 12.
+- If I think about the temperature tomorrow, say in Tokyo.
+- it can have any number. Okay, I'm just gonna exaggerate if I put for minus 60 to 60.
+- But it's a continuous vibe and not discreet.
+- 1st thing we're gonna do is calculate probabilities by counting.
+- So let's do the toss in the example.
+- Assuming that the die is fair.
+- it means that there is equal outcome to each one of the 6 numbers, which is one over 6,
+- so x can be one, and its probability is one over 6
+- x can be 2 with the same probability and so forth.
+- Now I'm gonna toss 2 of them.
+- and I'm going to check the sum
+- so the sub can be any number between 2 to 12,
+- and to figure out the probability for each one of these I'm gonna do counting.
+- How can I get the sum to be 2?
+- This is only if I do one in the 1st one, in the second, there is only one choice
+- out of all the 36 choices.
+- Why? 36. Because the 1st die can be any one of the 6, the second, any one of the 6.
+- All the possible pairs are 36 of them.
+- How can I get a 3?
+- I can do? 1, 2, or 2, 1 right.
+- There are 2 cases out of 36.
+- How do I get a 7,
+- 7\. I can do by 6,
+- by 1, 6, 2, 5, 3, 4, 4, 3,
+- 5, 2, and 6, 1, 1, 2, 3, 1, 2, 3,
+- 6 cases out of 36,
+- and so forth. This is so, this is doing calculation by counting.
+- And I get a a shape that looks like this. Okay.
+- it's highest in the middle, and it goes down at the end.
+- So if I want to know what's the
+- how likely it is to get 8, what's the probability to get 8?
+- I can define X equals one. If
+- the sum of the result is 8 and 0. Otherwise, okay.
+- okay, we have an ultrasound, very basic combinator works.
+- But it's very important. It actually helps us
+- calculate probability in many, many cases.
+- So let's start with the simplest situation.
+- I have 3 objects, and they are different. I call them A, B and C,
+- and I want to organize them in a role one after the other.
+- The question is, how many ways I can do it.
+- I actually have listed all the possible ways right here.
+- which means there are 6 possible ways to do it.
+- Now, can I explain this number of 6
+- in a rational way. Well, partly. Yes.
+- So think about. I'm placing the object ABC,
+- on 3 chairs which are in a row.
+- I pick the A and I'm gonna place it
+- A has 3 possible places to be. So let's say, I put the A
+- now, I'm gonna put. The B
+- B has only 2 places left.
+- So it's 3 times the 2,
+- and the last one is only one possible place to remain. It has no freedom, actually.
+- So that's 3 times 2 times one. This is exactly the 6 that we have obtained here.
+- If I have an object, and I do the same thing.
+- I have to do N. Times, N, minus one N, minus 2 all the way up to one.
+- And this thing, this number has a name.
+- It's called N Factorial N Factorial. It's the product of all the numbers between one and N integers.
+- Okay, let's get more complicated.
+- I'm going to have these 2 people or 2 objects, and I'm going to place them not on 2 chairs on N chairs.
+- so the A can be placed in N positions.
+- Once this is done, we have N minus one position for B.
+- So the number of ways to arrange 2
+- distinguishable. Why do I mark distinguishable Boldface? Because A and B. There are 2 different letters
+- in N positions is N. Times, n, minus one.
+- What if these 2 objects are 2 blue balls?
+- I cannot tell who is one and who is 2 anymore, right? They look identical.
+- In other words, I can flip them.
+- and it's still the same result.
+- So I get that it's N times, n, minus one divided by 2,
+- so if I have 2 objects, I divide by 2.
+- But what if I had k object?
+- The number of ways I shuffle the K object is K factorials, right?
+- Because what does it mean to arrange them? I have to put them on K chairs.
+- So it's K for the 1st times k, minus one times k, minus 2, etc, etc.
+- So the number of ways to put
+- okay, indistinguishable objects or end chairs.
+- And if you check carefully, it's the same as N factorial, divided by the product
+- of K factorial and N minus K factorial.
+- This number is very important. It's denoted also by a bracket, as you can see here
+- we read it. N, choose. K. That's how you read it.
+- Now let's do a tournament problem.
+- I have
+- a tournament I'm going to, and I know that my probability of winning a single game is P.
+- I want to know what's the probability to win exactly K. Games out of the N.
+- Well, so we'll do it.
+- P. To the power. K.
+- Is the probability to win K. Games.
+- But since I want to win exactly K games, I must also lose all the rest, because otherwise it's not gonna be K,
+- so I'm winning K, and I'm losing K minus one and and minus K.
+- So this is the probability of
+- winning K. Losing and minus K, but which Kate
+- games out of the end do I actually worn and lost?
+- Well, I have to choose the K games that I want.
+- And this is this additional product here.
+- In other words, let's say I'm doing 3 games out of 10,
+- which are the 3 games. Is it? One to 3, or one to 5, or one to what?
+- In order to see how many possible combination are there.
+- It's exactly this number and choose. K,
+- okay, so if I look at this formula, which you just did.
+- if any small, it looks like this. If it's getting bigger, it looks like that.
+- And when it goes to infinity.
+- it looks like this. It's this famous bell-shaped formula.
+- Okay, when we deal with random variables are continuous.
+- we don't talk about the probability to get exactly a number like, what's the probability for X being equal to 60
+- what we do. Instead, we look at the range. What's the probability to get between 60 and 70?
+- And this question now becomes something that has a meaning.
+- Now we come to the most important theorem in this particular lecture, and it's called the central limit theorem.
+- So what is but what's this limit theory about?
+- We are doing some experiment.
+- The result of these experiments is summarized in a random variable. X
+- x 1 is the result of the 1st experiment x 2 is the second experiment, and so on.
+- For example, X can be the result of tossing the die 0, or one
+- or one to 6. I mean, if it's a coin, it's 0 or one, if it's a die, it's 1 to 6, for example.
+- So I do it again and again. Again. I do it actually n times.
+- and can be a hundred. For example, while I have only 2 sides to flip.
+- I calculate the average result of this 100 times.
+- I call it S.
+- Now I do it again and again, and again, and again and again, I have a lot of results for us.
+- I can make a histogram out of this result.
+- How will this histogram look like? If N is not.
+- It's gonna look like the shape you see right here.
+- a shape that has an interesting formula given here, and
+- this shape depends on 2 parameters, Mu and Sigma
+- mule is the place where the sand. It's the center of this shape.
+- let's say, muse a hundred. It's gonna center at the point 100
+- sigma has to do with the weights, so
+- you can see the result of different sigmas in the picture at the bottom. Small Sigma. It's more peaked and more narrow, high Sigma.
+- everything smears out more.
+- Mu is called the mean, and Sigma called the Standard Deviation. Okay.
+- Now, one of your homework.
+- I mean, it cannot be for tomorrow. So you do it for the next week.
+- Okay.
+- you want to write a python code to simulate the Clt. The central limit theory, and I'll I'll give more precise things about it later in a few minutes.
+- normal distribution, some properties of the normal distribution. If I look at the mu.
+- and then I make an interval mu minus sigma to mu plus sigma.
+- and I see what's the area under the curve. Between these limits
+- I get 0 point 6 8, almost 70%.
+- But if I go not one sigma, 2 sigmas up and down.
+- I get 95% off.
+- My area is between mu minus 2 sigma and mu plus 2 sigma.
+- So these numbers are very important.
+- Here is an example where I calculate expected value.
+- Expected value is some theoretical number.
+- It is a sum of x times, p. Of x. Over all possible values of x.
+- For example, let's do the tossing. The die has 2, 6 sides.
+- Each one has a probability, one over 6,
+- so I do one times one over 6 plus 2 times one over 6 plus 3 times one over 6 all the way up to 6, and I get 3.5.
+- Similarly, if I want to do the prob, the expectation of X squared.
+- So now think about this. You replace X here
+- with X squared, and also here.
+- So it will be the sum of X squared times, p. Of X,
+- so I just plug it in. And I get, you know, 15 point something. And the variance is this formula
+- where I get something around 3.
+- This is an interesting problem. Again, you can think about a simulation to do it. Okay.
+- you take a stick of unit length, break it at random.
+- Let Y be the length of the longer piece.
+- What is the mean of this? Why.
+- so you randomly choose it, and then you take average. This will be the mean for this
+- poor district. And here there is some assignment I mean, not an assignment, some recommendation. If you have time.
+- you know, do it by python.
+- Okay, now we have 2 assignments. Okay, which is not for tomorrow, but the following week
+- one is called the Central Limit theorem.
+- and the other one is called
+- the birthday problem. Okay? So I'm gonna go over each, all of them
+- for the central imagery. You want to verify that you get really the normal distribution.
+- So what you do is this.
+- 1st you pick a random variable.
+- What do you pick coin, flip? It's only 0 and one
+- diatosing one up to 6, or some to some other number, uniform distribution between 0, and
+- so I would probably do the diet tossing with
+- 6, or maybe not 6, but 5 or other numbers.
+- You're going to generate random numbers from this N times.
+- Then calculate the average.
+- then calculate Z, so Z, I'm gonna give you it in a formula, right? And then do histogram of Z, basically.
+- So let's go over this slide.
+- This is the math behind it, the central limit theorem.
+- And again, since we are meeting also tomorrow.
+- I don't have to rush with this. I will actually store, I mean redo this next time
+- tomorrow, same time, so that you are more ready for the homework.
+- But overall, what do what do I want to do?
+- There are a few quantities to calculate. x. 1 up to Xn. These are the results of your experiment. You flip the coin, meaning randomly. Pick a number between one to 6 and do it again and again and again.
+- and write your things, one x, 1 x, 2 x, 3, etcetera.
+- Then you calculate the average of it. This is X bar.
+- Then you calculate the n, or if you want, you calculate this
+- square root of what of Xn bar minus mu
+- divide by Sn, where Sn is given by this formula.
+- So in this formula everything is known.
+- x, 1, x, 2 up to xn is known, and also the average is known. So Sn is known.
+- Mu is the only thing which is not known. You have to know it theoretically.
+- but you know it's an easy task.
+- So calculating. Z. Really means calculating this quantity.
+- So what is the homework about? Let's go back.
+- You do a histogram of DC.
+- In other words, you calculate it again and again and again. Do do histogram. And you want to see that you get the normal 0. 1 distribution
+- in the birthday problem break it into 2.
+- You have a class of N. Students who assume that their birthday are uniformly distributed over the year N is specified. Let's say 20.
+- You randomly pick birthday for 20 people, and you check. Is there a duplication meaning? Are there
+- any 2 people with the same birthday?
+- So you do it again and again, and you really get the probability
+- that the class has 2 students having the same birthday.
+- So this is number one. Given n.
+- Calculate the probability, the number 2
+- you have to check. For what value of n.
+- The probability to have 2 students with the same birthday?
+- For what kind of size of class this probability is 0 point 5.
+- So this is a perfect place to stop.
+- We can continue tomorrow I will do a little bit more of this and a little bit of statistics.
+- and then we're gonna go to machine learning.
+- Okay? So I hope you have enjoyed this.
+- I'm gonna try to fix my camera. But
+- I think the laptop is beginning to run into troubles.
+- Okay? So I'm gonna see you tomorrow same time, and we'll continue with more exciting stuff.
+- Bye, bye, everyone bye, thanks.

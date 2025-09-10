@@ -1,0 +1,529 @@
+---
+title: "Video Conferencing, Web Conferencing, Webinars, Screen Sharing"
+source: "https://stanford.zoom.us/rec/play/ZJmrP8j8FUMoZt0PS5G7WPtiQrv2T2iHurfT1KPEZIUU5Jysx4T-ycriYNt9V2H8PTQAyj2FYq2h-uR5._kylDzadpHcUEya_?eagerLoadZvaPages=&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fstanford.zoom.us%2Frec%2Fshare%2F_LICZEbY9TMlA0V1AEQ7oalKnTYK_L28Wo_leWcskIHqMsFbYzyfvr4FcWtWaKMU.CJsZdVkreEWczgYF"
+author:
+  - "[[Zoom]]"
+published:
+created: 2025-07-04
+description: "Zoom is the leader in modern enterprise video communications, with an easy, reliable cloud platform for video and audio conferencing, chat, and webinars across mobile, desktop, and room systems. Zoom Rooms is the original software-based conference room solution used around the world in board, conference, huddle, and training rooms, as well as executive offices and classrooms. Founded in 2011, Zoom helps businesses and organizations bring their teams together in a frictionless environment to get more done. Zoom is a publicly traded company headquartered in San Jose, CA."
+tags:
+  - "clippings"
+---
+## Summary
+Professor Ge Wang, an associate professor in Stanford's Computer Research in Music and Acoustics (CCRMA) and a senior fellow at Stanford Human-Centered AI (HAI), discusses the philosophical questions surrounding artificial intelligence. He challenges the conventional engineering mindset focused on efficiency and problem-solving, advocating for a \\"values-based design\\" where creation is driven by intrinsic worth rather than explicit need. 
+
+He uses personal projects like the Chuck programming language and the Ocarina app, as well as analogies from difficult video games (e.g., Elden Ring) and challenging hikes (John Muir Trail), to illustrate that effort, struggle, and even frustration can lead to deeper satisfaction and learning. He argues that AI should augment human capabilities rather than replace them, emphasizing the importance of asking \\"good questions\\" about AI's role in our lives. Wang distinguishes between 'intelligence' (possessing tools to achieve desire) and 'wisdom' (critically evaluating desires and tools), asserting that wisdom is a crucial human pursuit. He warns against the \"Confucian curse\" of getting exactly what we wish for if our desires are misguided, stressing that removing the \\"labor of learning\\" from creative expression diminishes the creative act itself. Ultimately, he posits that AI's purpose might not be to make things easier, but to make the hard things worthwhile, fostering a future where the human experience of learning and creation is valued.
+
+## Key Points
+- **Professor Ge Wang's Background:** Associate Professor at Stanford's CCRMA (Music & Acoustics), with a courtesy appointment in Computer Science, and a senior fellow at Stanford Human-Centered AI (HAI). All his degrees are in computer science.
+- **Living in Interesting Times:** The current era is characterized by rapid technological advancement, including AI, climate change, geopolitics, and social issues, leading to many questions but few clear answers.
+- **The \\"What is the Point?\\" Question:** A pivotal question from early in his career, leading him to build tools (like the Chuck programming language) for others to explore music creation, rather than a fully algorithmic music composition engine.
+- **Values-Based Design vs. Need-Based Design:** His Ocarina app exemplifies a \\"values-based design\\"—created not to solve an existing problem or fulfill a market need, but because music-making is intrinsically good. This contrasts with conventional, problem-solving engineering.
+- **The Value of Difficulty and Effort:** Drawing parallels between challenging video games (e.g., Elden Ring) and arduous hiking (John Muir Trail), Wang argues that overcoming difficulties leads to profound satisfaction, learning, and a deeper appreciation of the experience, which a \\"helicopter ride\\" (easy solution) cannot provide.
+- **AI and Human Augmentation:** AI should augment human capabilities, not replace them. Current generative AI often focuses on replacement, raising questions about authenticity, authorship, and the purpose of creation.
+- **Intelligence vs. Wisdom:** Intelligence is having the tools to achieve what you desire; wisdom is the capacity to critically evaluate what you desire and the tools to achieve it. Wisdom is a continuous human pursuit that AI cannot replace.
+- **The Confucian Curse: \\"May you find what you're looking for.\\":** The greatest danger of AI might not be unintended consequences, but that it works exactly as intended by creators whose intentions were misguided or uncritical. We must be careful what we wish for.
+- **The Labor of Learning:** Removing the \\"friction\\" and \\"labor\\" from creative endeavors (like writing, drawing, or making music) risks removing the essence of the creative act itself and fostering a generation of consumers rather than creators.
+- **What Artists Want:** Artists often desire for AI to handle mundane tasks (like laundry and dishes) so they can focus on their creative work, suggesting AI should optimize necessities, not core human pursuits.
+- **Making Hard Things Worthwhile:** The ultimate purpose of AI might be to make the hard things in life worthwhile, rather than simply making everything easier. Confusion and frustration are essential parts of learning.
+- **\\"What We Make Makes Us\\":** The technologies and systems we create fundamentally shape who we become as individuals and societies.
+
+---
+
+https://stanford.zoom.us/rec/play/ZJmrP8j8FUMoZt0PS5G7WPtiQrv2T2iHurfT1KPEZIUU5Jysx4T-ycriYNt9V2H8PTQAyj2FYq2h-uR5._kylDzadpHcUEya_?eagerLoadZvaPages=&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fstanford.zoom.us%2Frec%2Fshare%2F_LICZEbY9TMlA0V1AEQ7oalKnTYK_L28Wo_leWcskIHqMsFbYzyfvr4FcWtWaKMU.CJsZdVkreEWczgYF
+# Original Content
+
+[Accessibility Overview](https://stanford.zoom.us/en/accessibility)
+
+<video src="https://ssrweb.zoom.us/replay02/2025/06/19/F0D7C9E6-FB88-4CEE-8D02-B5A67DEA5FCE/GMT20250619-195007_Recording_1920x1118.mp4?response-content-type=video%2Fmp4&amp;response-cache-control=max-age%3D0%2Cs-maxage%3D86400&amp;data=ba89b7a4df6f0b14f6c49cce8fafe06ecf7a69d8d0c89f91def92d21f26953e0&amp;s001=yes&amp;cid=aw1&amp;fid=T-myUUJMUbQ4wupIsQGIloHIDPATdClP6JW60glbG8tRKr0YWJjO4MY-yRbBxY-uATcdg6gMvYFB2xae.gNll_OV46NqOb_DB&amp;s002=rUndBHzKUoxad1mHGd_J16K60UFoe_mADG_GpBmajaNCfw3YKwqCFXobITCrX3zyk7gjjNER3OcqrfAqTcmHRSrQAFIW.5Beuakk7uh05Vo5F&amp;tid=v=2.0;clid=aw1;rid=WEB_be78491567b5f94f6a72f2ea7f558de0&amp;Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vc3Nyd2ViLnpvb20udXMvcmVwbGF5MDIvMjAyNS8wNi8xOS9GMEQ3QzlFNi1GQjg4LTRDRUUtOEQwMi1CNUE2N0RFQTVGQ0UvR01UMjAyNTA2MTktMTk1MDA3X1JlY29yZGluZ18xOTIweDExMTgubXA0P3Jlc3BvbnNlLWNvbnRlbnQtdHlwZT12aWRlbyUyRm1wNCZyZXNwb25zZS1jYWNoZS1jb250cm9sPW1heC1hZ2UlM0QwJTJDcy1tYXhhZ2UlM0Q4NjQwMCZkYXRhPWJhODliN2E0ZGY2ZjBiMTRmNmM0OWNjZThmYWZlMDZlY2Y3YTY5ZDhkMGM4OWY5MWRlZjkyZDIxZjI2OTUzZTAmczAwMT15ZXMmY2lkPWF3MSZmaWQ9VC1teVVVSk1VYlE0d3VwSXNRR0lsb0hJRFBBVGRDbFA2Slc2MGdsYkc4dFJLcjBZV0pqTzRNWS15UmJCeFktdUFUY2RnNmdNdllGQjJ4YWUuZ05sbF9PVjQ2TnFPYl9EQiZzMDAyPXJVbmRCSHpLVW94YWQxbUhHZF9KMTZLNjBVRm9lX21BREdfR3BCbWFqYU5DZnczWUt3cUNGWG9iSVRDclgzenlrN2dqak5FUjNPY3FyZkFxVGNtSFJTclFBRklXLjVCZXVha2s3dWgwNVZvNUYmdGlkPXY9Mi4wO2NsaWQ9YXcxO3JpZD1XRUJfYmU3ODQ5MTU2N2I1Zjk0ZjZhNzJmMmVhN2Y1NThkZTAiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTE2NDQwOTZ9fX1dfQ__&amp;Signature=hgdjaM~HS7ZxhNK6onScv-naLYLMVW5uEWQQuRaijdUU4I~A02UDNGlalo8Ll-80ybDDiUqc02BZcR78KjT5Aa2yPee935BxtI0q63z4od0XP3YY0H5RztgnqtigHU9c~HKNh3LdzIkjkocyT2nnSxET0WSJJEXaWLCgK-7ARp3Bp2HgoLMApGvWKaEjUE60WmXTn2hWjd-V20YhFls8Dqqo5BMIpEFcP~ZSS~qwi86v2zfBkAFn4Xfa94WydgR92jsd5Bewovqgtt5ZClKUPQDDf0RT2CYauV~s4SIurjQKe1D-EnGEOdBs8EA0~AIJX8BnmeTSDk7TZijy9Xrtyw__&amp;Key-Pair-Id=APKAJFHNSLHYCGFYQGIA"></video>
+
+00:00:00 / 01:08:25
+
+## Audio Transcript
+
+## Chat Messages
+
+- 00:01:11
+	Perfect.
+- Okay, I'll just go ahead and introduce Professor Ga. Wang is an associate professor at Stanford University in the Center for Computer Science computer research in music and acoustics. Ccrma, so he specializes in the art of design and computer music. So researching, programming languages and interactive software design for music
+- interaction, design, mobile music, laptop orchestras, expressive design of virtual reality, aesthetics of music, technology, design, and education at the intersection of computer science and music.
+- So Professor Wong is the author of Chuck Music Programming simul SMUL. E. Reaching over 200 million users, and the designer of the iphones, ocarina, and magic piano
+- professor is a 2016 Guggenheim fellow, and the author of Artful Design Technology in search of the Sublime, a book on Design and Technology, Art and Life, published by Stanford University Press in 2018. So, without further ado, please welcome Professor Goang.
+- 00:02:27
+	Hi, everyone. Thank you so much for having me. And I am going to make sure that my settings are okay here.
+- And before I I'm gonna have it just a swek of this coffee here. How y'all doing.
+- 00:02:48
+	Yes.
+- 00:02:49
+	I feel free to use the chat function during this. And and I think it's something I can see as well. So I usually try to keep an eye on it, so feel free to to do that. And
+- Brooklyn, Miriam, quick question, what is the time we have here? So it's like, until 2 o'clock. Our California time.
+- 00:03:13
+	That's right.
+- 00:03:14
+	And that includes questions as well. Right?
+- 00:03:17
+	That's right. Yep.
+- 00:03:18
+	Okay, well, how y'all doing? Feel free to
+- to kind of put a word that describes how you're feeling today into chat. If you like.
+- I'm doing good. I'm doing good. And also, if you would
+- put where you currently are located, took a general region, would do.
+- Wow all over the place.
+- Okay, see India. Let's see. Palo Alto.
+- Okay?
+- So we're going to talk about, what do we really want from artificial intelligence, our full design story.
+- And
+- yeah, I'm an associate professor here in music. And by courtesy, computer science. But all my degrees are actually in computer science. So I'm kind of a strange computer scientist
+- and also the senior fellow, a senior fellow and a faculty associate director of Stanford, human-centered AI or Stanford High.
+- I'll just begin by saying we live in interesting times and feel free to put into chat how you feel about this particular statement. How many of you feel like you're living in interesting times.
+- And, by the way, I'm not saying that it's necessarily automatically a good thing or a bad thing, or just just to say it's interesting.
+- How do y'all respond to this statement? Does any of you feel like the times are interesting. Anyone feel like the times are maybe a little too interesting.
+- Maybe in like a sentence, or less feel free to type how you feel as a person living on planet Earth
+- in the year 2025, as we as we do right now.
+- For these times I have no answers. I have a lot of questions, but I feel like that's also my job as a professor, as an educator is that I'm actually not here to supply answers, even though I like answers just as much as the next person.
+- But I'm here to try to help all of us, myself included. Figure out, what are the the good questions to ask?
+- Right? And for these times, you know, whatever you're thinking about that makes these times interesting.
+- It could be technology.
+- It could be AI. It could be
+- the climate and climate change. It could be geopolitics. It could be American politics.
+- It could be health care. It could be
+- And for these times I truly have no answers. I'm just another person living in these times, but I am keenly interested in trying to figure out what are the questions to ask myself.
+- and for and for my students. What are the questions to ask ourselves
+- in these times? And in fact, I'm going to talk today about AI, and in a crisis of faith, because among all those questions we have right now, it seems like, this is a time when we have more technology than we've ever had in any other point in human history.
+- But I'm going to talk about kind of a personal crisis of faith, about AI that I've been having, and as someone that actually, whose degree all of his degrees are in computer science.
+- I got my undergrad at Duke University in Cs, my Phd. In computer science. I was at Princeton.
+- But I'm 1 of these strange cats who
+- don't really cleanly fit in any box.
+- Just want to talk about that crisis of faith.
+- In fact, I think a good question to ask about a lot of this is, you know, what's even the point. And the story goes, I was going to grad school in the year 2,001, probably before many of you were born, most of you.
+- I was going to grad school. I was going to New Jersey, went to a house party. There was a band. The band was really good. I went up to ask him, hey? It's like y'all are great. And the guitarist said, Hey, thanks! What's your story? I said. I'm going up to grad school, and Princeton says, what are you going to study? I'm gonna study computer science. I want to go build in grad school. The world's most advanced algorithmic music composition engine.
+- And I said, that's my goal. I want to go to grad school to to do that.
+- And the guitarist looked me up and down, and he asked me very earnestly this question, what is the point?
+- That was a really good question, because I had no answers to it, but I felt it was a good, and it was a good question. I didn't have an answer, and I said, You know I get back to you on that, and I'll pocket
+- the question at Princeton in grad school.
+- I didn't end up building or even trying to build the world's most advanced algorithmic music composition engine, which in today's parlance would just be like called generative AI for music. I wanted to do this like 25 years ago, but I somehow like.
+- maybe because questions like this, I didn't end up building it, because I feel like I couldn't answer the question.
+- But maybe I can build a tool, I thought, where others, if they wanted to can explore this question for themselves.
+- So end up building, not the engine, the generative AI for music end up building a programming language, a tool they can learn with which to make sound music, musical instruments, musical interactions. And that was the chuck programming language.
+- So that's part of my origin story. And in fact, my day to day. You know, I work at Stanford's Computer Center for computer research and music and acoustics part of the music department. I have a courtesy appointment in computer science. And as a computer scientist, I'm really kind of a strange cat. And I deal with technology day in, day out. This is what I work with. I write code daily. I've been doing this for the last 20, maybe 30 years.
+- I still write code. I love writing code. It's 1 thing that I know I'm pretty good at, unlike a lot of other things that I wish I was better at. I feel like I'm pretty good at coding. I could still be better at coding, and I care to get better at it.
+- But I use it to make things musical instruments, musical games, toys.
+- artificial intelligence systems with humans in the loop and a lot of tools for education and a lot of games.
+- The aforementioned programming language worked on is called chuck, named after the verb to throw something chuck, and it's open source. It's freely available. You can start making bleeps and bloops of this in a matter of minutes, maybe even less. You can go to Chuck Stanfordedu. If you're interested in downloading, it's freely available. It's open source. Come, check us out. If you're interested in exploring that I direct the Stanford Laptop Orchestra
+- and actually, before I do this, I'm going to actually make the chat visible.
+- So I can.
+- I can also keep an eye on this as I percent.
+- We go.
+- I also direct the Stanford VR design lab. We're asking such questions as, how do we make music and make music together? What kind of instruments make sense in a virtual reality medium? And also to the very philosophical question, what, in fact, is real. How do we think about reality? So if you're going to talk about being real, I guess this is a way for us to try to figure out what that means.
+- One of our latest offerings to the Stanford VR. Orchestravork. This is a an ensemble of
+- this is. Basically, if you're in the performance, you actually don't hear anything unless you're in VR, and on in in the headphones.
+- This is what it looks like kind of in the performance.
+- Can y'all hear that?
+- Actually, there's not much sound you hear just kind of room noise.
+- because we're actually outside of VR here. The audience is sitting here
+- and we make strange computer music in here a lot of interaction. Then I do things like ocarina, which is
+- is an something I designed back in the day. I'm gonna for this. I'm gonna stop sharing
+- and actually play this for you.
+- Let's see, I need to figure out how to get original sound going here.
+- Settings, we go to audio.
+- Okay?
+- I hope I have this on.
+- I don't see this in this new version of zoom how to turn that on.
+- But can you guys hear this?
+- Okay, so
+- this is ocarina. It's an app made on the iphone. I made this back in 2,008, and you play this. I've blown into the microphone at the bottom of the iphone. Here multi-touch is used to control pitch.
+- Vibrato is controlled by the tilt of the phone.
+- and and so actually looks like
+- Zoom is asking me more questions. Here we go. You can play a little ditties with this.
+- too. Choo, choo, choo, choo.
+- for example, right? So I'm actually blown to the phone sound is entirely generated on the device. It's actually there's a chuck program, the programming which I talked about. That's running inside this app that's generating the sound in response to microphone input that's audio multi-touch input and accelerometer input for the tilt.
+- So yeah, this is made in 2,008. And somehow, oh, my God, it's been 17 years, and I'm still demoing this, and y'all are still like this is so cool. It's pretty old technology, especially by mobile phone standards. This might be older than some of you, I think. So I'll let you do with that information what you would like, and let's go back to the presentation.
+- And also I'm going to go ahead and bring up chat again, so I can see it.
+- You can actually find this on the app store. It's only on the iphone. It's not on Android.
+- It's only on the iphone. You can find other smule apps
+- on on Android if you like, including magic piano, which I also designed. That was in 2,012.
+- Any case. So this is ocarina in gameplay mode.
+- In this case you can see this is kind of the game mode of ocarina in which there are these circles falling down the side of the middle of the screen. That's actually prompting you how to play the next note. This is kind of like tar, hero, or rock band, but for ocarina. But the big difference is that the music? None of the sound you're hearing is pre-recorded. It's all generated live, which means you can affect the sound.
+- and learn to kind of express the sound in your own way. So that kind of open expression is very important to the design of this app as much as I love guitar, hero and rock band, and
+- as games and experiences.
+- And but but there's more there is another
+- side in the same app where you can listen to other people around the world, blow into their phones and make music.
+- Who is that playing? Oh, Shenandoah from the East Coast, United States. Well, you don't know. In fact, that's part of the experience. Or who is that playing legend of Zelda theme
+- Indonesia again, we don't know. And in fact, anonymity was designed into this part of the app, because
+- I kind of figured that. Well, actually, what's knowing doesn't actually make the experience necessarily better, but not knowing well, it makes you wonder and it. And so this part of the app becomes about just listening in, and then kind of
+- I think not knowing actually might be an asset here.
+- And here's the big question, though. Oh, by the way, ocarina of time, yes, this.
+- This is actually part of the market research. I did when when I was starting to design this app in 2,008, I was like, does anyone even know what an ocarina is?
+- So I decided to just do some market research. And by market research, I meant, I went to Youtube and I typed in Ocarina. And lo and behold, here was Doc jazz 4. That's the Channel name.
+- He's teaching people how to play like a clay ocarina, and a lot of the songs he had were from, of course, legend of Zelda, the ocarina of time, and the more people I talk to, the more I realize people
+- new ocarina through. Of course, the game Zelda ocarina of time, which to this day remains a classic
+- and one of the greatest games of all time. So ocarina of time. So yeah, Zelda, in some ways is in the DNA of this. And of course all this brings us to this question, why was this designed?
+- I'm going to give you all just a moment. If you want to type in, there are no wrong answers. This is really exploration. Why do you think this was designed? For what reason
+- for fun? It's cool, why not, hey? I think y'all y'all are. I like these answers. There are no wrong exploration. Yeah, this was also, of course, a commercial product. It was meant to make money. So that was another reason, even though, to be honest.
+- I that wasn't the primary reason for me.
+- and maybe it's closer to a lot of what some what many of you are saying, right for fun, for expressing yourself.
+- It's cheaper than like a real instrument. Well, considering that the apple is 99 cents, it is pretty cheap, though you do need like a
+- iphone to go with it, so I don't know how much the cost washes out. And is it convenience? There are all these questions. I don't know if there's any wrong answers here.
+- I think it was a number of reasons, but probably the most honest reason I can give you is that
+- actually there was no great reason, but maybe the greatest reason of all. Nobody asked for this, and this solves no problems that exist. And I say this as an engineer.
+- who, I think, have been building things for the last 2 decades
+- along this particular route, building things that nobody quite asked for, that solves no problems that exist. But we put in as much of engineering
+- care, finesse, skill, and imagination into these things that we can muster.
+- And so I guess
+- this is kind of what I want to put out there as we talk, begin to talk about kind of the rest of this talk, which is
+- around technology in this particular AI
+- and around the importance of actually building things in this way. Because this, you know, it's not like, we went out and asked people, hey, people, we're building a new app. What do you need? What are you missing? What problems do we need to solve? And people are like, well, we need to solve the problem that we can't blow into our phones like a flute. No, no one said, nobody said that right, nobody said that, and nobody really nobody asked for this.
+- And this really doesn't solve any existing problem.
+- And yet, you know. So so I guess this is what some would call not a need-based design, but rather a values-based design
+- right in that. By value space we mean that this was designed, not because there's some clear and present practical need because of a belief in something.
+- a value. For example.
+- if if we think that music making does a person good, it's just an intrinsically good thing to do to make music, we might call that a value, and if we have, if we hold that value as something that is a value to us.
+- then that would be enough in values-based design to start designing and to start building and to devote effort, time and resources into building.
+- This, to be sure, is a very
+- non-conventional way to think about engineering.
+- which all of you in some way form are doing as you're working with AI right?
+- but this, perhaps, as we enter into the age of AI, maybe the maybe I would think one of the more most important things we can
+- think about and attend to as engineers.
+- in that there are things that the reasons for building things that go beyond
+- what someone needs, or beyond making something more efficient or more convenient or more optimized.
+- Right? So in this talk which we're asking, what do we really want from AI? This has no AI in it. But I am trying to set up this framework for asking this question of why do we? What kind of things do we want to make with AI? And how do we think about the things we make with AI. And what does it mean
+- to make AI for all? Truly
+- the
+- there's a sentiment that technology should create calm. This is a kind of a interesting sentiment in that it's not saying technology is going to
+- create wealth or technology is going to solve problems. But maybe, also, technology could bring a kind of intercom
+- in our lives.
+- You know, this is a sentiment from
+- Mark Weiser, who was the chief technology officer of Xerox Parc, the iconic and famed research lab in Palo Alto that they're responsible for refining a lot of the desktop used computer user interface paradigms that we still use to this day among a number of other innovations.
+- And so you know, that's that's the tech side of me. By the way, there's a lot of other sides to me. I play a lot of games, feel free to put into chat. If you also play some of these games I'm gonna name. I've been playing Starcraft one since 1999. And then I started playing starcraft to any Starcraft people out there feel free to pipe up.
+- Yeah, good for you.
+- Aaron Rock, on anyone playing heroes. The storm! Oh, my God! Your father's play, starcraft! I feel I feel
+- wise and and old, rock on, and good for your good, for your dad and your brother.
+- Anyone playing assassin's creed? I played assassin's creed, origins played assassin's creed, Odyssey, and played assassin's creed
+- Valhalla. I did not like Valhalla for the record. I loved origins, and
+- and which is set in ancient Egypt, and then Odyssey, which is set in ancient Greece any Disco Elysium players here? This is truly a wonderful game, purely narrative, driven
+- divinity. Original sin. 2. This is made by the company. If you play Baldur's gate. 3. Larian made both games.
+- And then I started getting into like really difficult video games like armor. Core 6,
+- any A/C 6 fans here, Sekiro. This is a very difficult game.
+- very difficult armored corps. Yeah, I got all the achievements. It was very difficult, but I feel so proud of this.
+- In fact I am. I've played this game like I've played new game. Their new game. 7. No problem. Love this game still love one of my favorite games of all time. Really hard. Got to be some elven ring players in the room.
+- Elden Ring. Yeah, yeah, yeah.
+- How do y'all feel for those elden ring player. How do you? How do you feel about playing this game?
+- Would you say this is an easy game, Nope.
+- why do you still play it?
+- I've logged. Personally, I've got all the achievements on steam alone. I've logged more than 700 h, and I have a separate account on Ps. 5. On this this feeling of satisfaction, of getting new stuff. Satisfaction. Wow! Satisfaction! You know what? Let me interpret that a bit
+- for those of you who don't play Elden ring. This is a game in an action. Rpg, and you're running around usually with a big sword or some other kind of like two-handed wielding implement. And you're trying to go through this pretty, dismal world. But then there are all these bosses, and the bosses really are very, very difficult. The whole game is difficult.
+- and it's not uncommon to die like 60 times to a boss. Am I right? You know, the 1st time I ran into Margit, which is the 1st difficult, boss man, I must have died like 50 times.
+- but when I beat Margaret for the 1st time, that's the feeling.
+- It's a feeling of getting better. You know the feeling is not. I think it would be. It would be incorrect, insufficient to say there was like a dopamine hit of beating. It's not the dopamine hit here, I think, beating a boss that you feel like was previously insurmountable in a game like Elden Ring or Sekiro, or dark souls.
+- right, or lies of P, or 1st Berserker Kazan. And these really punishingly difficult video game
+- is is for me. It feels like getting an A on an exam that I studied for
+- and is finally able to execute. Yeah, Melaketh hard, boss.
+- Melania, I've been here. I don't know more times than I can count, but it's she's still difficult for me. Right?
+- But I think what you end up realizing, and this is actually believe it or not relevant to this talk on AI
+- is that in playing these difficult video games, and if you don't play these games I'm giving you, I think I'm trying to give you an idea of what what it feels like to die so many times.
+- But you do feel the sense of satisfaction. You also feel the sense like getting an A on a test that you learned something.
+- And my question to those of you who play these difficult video games is, do you wish the game to be fundamentally easier?
+- If so, why? And if so, if not, why not?
+- What are your thoughts on that? And there are no wrong answers here. Just curious.
+- All right. I'm going to give you all time to think about this.
+- Yeah, you know, easy mode and not be the worst thing. These games often don't come with an easy mode.
+- Some say not really. It's part of the experience to grow after boss or level. No way. The challenge is the whole point of the game. No, because I have Easter games for that. And that one game being hard is fun.
+- Yeah, you know, some would say that these really challenging boss fights.
+- They're not the obstacle on the path to playing the game.
+- They are the path.
+- Keep that in mind. The challenges in this game are not obstacles to get to the other side of they are. Why, you play the game
+- right and so I'll leave it at that and let you make of that what you will.
+- yeah, I've been playing Elden ring a lot. Platinum, Liza PI haven't started the Dlc. Yet. I'm about to play first.st Berserker, Kazan. I just went back, and I'm like a new game plus 4 of bloodborne 10 year old game, which is still really good. So, anyway.
+- that's the other side of me. It's gaming, and I'm just game a lot. And then there's another side of me that's hiking
+- after being stuck indoors during the pandemic, my my wife said to me, Hey, we gotta get out of here, and you know what I said to her, I said.
+- but wait, do we have to? You know we're indoors. We got the couch. We got the fridge. I got my video games. Why do we gotta go I don't know, suffer outdoors, and deal with
+- mosquitoes and tents and rocks.
+- but my wife is pretty serious. Madeline was like, no, we got to get out of here, and I said I saw that she was serious, and then I wasn't getting out of this. I said, You know what. Let's let's do it. But I was a reluctant hiker at first, st
+- but we started working our way up to longer and longer hikes. The longest one we did was on the John Muir Trail here in California that is, entirely in the High Sierra, and rarely dips below 8,000 feet of elevation. That particular backpacking trip took us 22 days.
+- where on the trail mosquitoes were a common occurrence, and where showers were not.
+- And, in fact, if you're interested, you can watch a short film on
+- on Youtube called on the Devil's Road. That was our 2 h venture. Do you want to watch 2 noobs
+- try to make their way through the wilderness. This is this is 2 h of your life. You could, you could. You can channel into that. This is a 50 second trailer for it now for a taste of things to come.
+- Fuck, giant fucking piles of rocks.
+- Yeah, literally. Peek, I suppose. Yeah, as you can tell, it's a very honest video, which I did not refrain from expressing my emotions
+- at different times towards the rock. If you're not going up a mountain, you're going down a mountain. One day on this hike.
+- we maybe in the middle of it. Day 13. We had to go up John Muir Pass, which is one of the like a dozen mountain passes on the trail. On that day we experienced 3,000 feet of elevation, climbing up 3,000 feet over rocks. My feet hurt, had blisters.
+- and then
+- we went through a lake which was the most amount of mosquito I've ever met in any given point. We had to run through like clouds of mosquitoes.
+- and then it started raining and hailing, which is kind of a danger up that high because we're above the tree lines, and lightning is like a real danger.
+- So we were cold. We were wet somehow the bugs were still there, and I was honestly miserable. I'm like, what am I even. Why are we doing this to ourselves? But then 5, 30 rolls around, we get to Evolution Lake. The thunderstorm stops, the mosquitoes dissipate.
+- and we see this double rainbow which you saw at the end of the video.
+- And I started thinking to myself, Man, what a contrast to what it took to get here. And then I asked myself, you know what if there's like a helicopter
+- that just took me to this point.
+- this beautiful Evolution lake with a double rainbow. But you know what I thought then I said, no, I don't. I would not take the helicopter ride. I suffered to get here.
+- and in suffering I earned this. This place feels different because I am not a tourist.
+- I'm now a hiker who made it up here, and in some ways I don't know what it is that I learned, but I felt like I learned a little bit about myself that day
+- and every day on the Jmt. Even though I would say 98% of doing the Jmt. The John Muir Trail was kind of like
+- suffering that we kind of signed up, for
+- there were 2% of it. That was just so sublime that I find my mind going back there all the time.
+- So.
+- by the way, you might, starting to see a theme emerging. This is kind of not that different from
+- besting Elden ring, except just a different form. This this peak was a boss. It was.
+- It was not pleasurable to get up there. But when you finally get up there.
+- man, that feeling is so good.
+- Any case, this is all to say. By the way.
+- not long ago the Internet was an escape from the real world where today the real world is an escape from the Internet. There's something to that, I suppose, then, I make art using the tools we make in things like the Laptop Orchestra. And for me, that's life
+- which I think it's really what design is actually all about.
+- It's life. It's not problem solving.
+- It's life. It's designing for figuring. It's casting a vote to how you want to live your life.
+- And on this I wrote the book, Artful Design technology in search of the sublime. If you go to Http artful dot design.
+- That's the website for the book. You can learn more from the book and read a lot of excerpts from the book, if you like, and Brooklyn, if you would. If you can put the URL into chat, artful dot design
+- hold on one. And
+- So this book actually ends up being a
+- a 488. Page. Comic book
+- again. Nobody asked for this and thank you, Miriam.
+- Nobody asked for this to be a comic book, but you know I grew up with comic books, and so I thought this would be well. They say the medium, the medium is the message in the sense that
+- the medium certainly has the power to to modulate the message.
+- How you say something is not separate from what you want to say. It's part of what you want to say right? So that's 1 interpretation.
+- But this is a book that ultimately asks these questions, what is the nature of design? Who designs? The answer is, we all do
+- by virtue of being human, you design the moment you try to shape your surroundings with an outcome in mind. That's design.
+- If that's designed, what does it mean to design well.
+- which I think is different from the question, how do we not mess up and design to design well? Is not the same thing as not designing poorly.
+- All right, let me repeat that designing good is different than not designing badly.
+- Both are important actually to not fail in design. To not do something awful with design is good.
+- it's a necessity, but it may not be sufficient.
+- Right to say something is good actually requires a different kind of lens.
+- And thirdly, in this age of so much technology and so much human
+- discord and restlessness, what does it mean to design? Ethically? Those are the questions of this book.
+- And so that brings me now to music and AI, which is a course I've been teaching here at Stanford
+- only for the last 3 years, but it's kind of been 3 years 3 pretty epic and crazy, tumultuous years for artificial intelligence. But I teach this not as a course you might
+- expect. But what I would call a critical making course, which means we're going to make a lot of stuff. That's the making. We're also gonna try to think as broadly as possible about the implications of what we make. That's a critical part.
+- Lecture, one asks, is title. Is this even a good idea
+- that is applying AI to music. And let's leave room for the possibility that not all music needs AI, or that
+- maybe it's not a good idea, or that maybe it is a good idea, or maybe some of it's a good idea, and some of it's not. But let's, this is what I mean by critical right. Let's actually not take anything for granted. Let's question
+- this is also a question about me teaching this class to be honest, and I told my students that I'm like, I'm not sure if I should even be teaching. This is even a good idea that I teach this class.
+- As we went on we realized we came from many different backgrounds, but we were unified by one thing that we all had, which was a thing that we termed AI fomo. You can probably guess what that is.
+- Maybe we're here because we don't want to miss out. We had to fear missing out on AI
+- just like I had a fear of missing out of like teaching this class. I'm like, I'm a computer music. I'm a computer science guy in a computer music department. Shouldn't I be obligated to teach this course? You know I don't want to miss out on. I don't want to miss out on the bandwagon in a way. So that's a very human, understandable reason for doing this. And if you have AI Fomo actually feel free show of hands honestly, how many people feel like you got AI Fomo.
+- Oh, I see a lot of people raising your hands. Yeah, to be honest, if you're in a program called AI for all, if you're in any program learning about AI, if you're feeling like, I got to learn AI, you might have AI Fomo, and it's totally okay. I have AI fomo, I still have AI fomo.
+- And, by the way, AI fomo seems the highest in places where AI is actually done. For example.
+- in universities in Silicon Valley.
+- you know. Thanks, by the way, for everyone who's raising their hand. I think we probably all have some form of AI phone. The more you learn about AI, the more the world is telling you, hey? Shouldn't you figure out how to do something with AI because you don't want to be missing out on this, do you? Right? There's that voice in our head that's always asking us to be like, shouldn't I be using AI for this?
+- Anyway, we realized we had afomo. But I said, You know, whatever we have, and it's okay to have afomo. Totally. Okay.
+- I do say that what this class is about is not about answers.
+- It's not about state-of-the-art technology, even though we'll use some AI in our work. It's about questions formulating the right and the best kinds of questions we have for ourselves about what it means to live for AI, to live among us and for us to live with our technology?
+- Because at the end of the day, isn't that
+- the real question here? How do you, as a person want to live with AI in your life. And what's a what's the good version of that?
+- And also
+- the way that AI is going right now, if that differs from your notion of what's good. What's actually at stake? What are we at risk of losing those, I think, are the questions.
+- The purpose of art, James Baldwin once wrote, is to lay bare the questions that have been hidden by the answers.
+- This was a lovely sentiment about art.
+- right? That it's a kind of lens
+- to examine ourselves. The answers are, might already be here. It's in front of us. But what do they mean? And I think, even though James Baldwin was not writing about artificial intelligence. He was actually writing about
+- actually, politics. In this case, global politics in the sixties.
+- I think this is actually applicable to artificial intelligence in that we do have the answers AI can already generate impressively competent text video audio images can do your taxes. I would definitely check over the results of your taxes if you have AI. Do it before I submit it, but it can purport to do a lot of these things to a pretty impressive amount, astoundingly
+- impressive amount of competence.
+- And yet what does it mean? That's the question. The answers are kind of here.
+- but it's the questions that are lagging behind.
+- So that brings me to this question, what do we really want from AI? Do we want a big red button that just makes everything easier, simpler, more convenient, faster, more optimized. Do we really want to? 5 x ourselves?
+- Or is there something more to it that we want? If you look at music.
+- it's not really about efficiency, is it? People spend years and years
+- to learn an instrument? And, by the way, feel free to raise your hand or type into chat, basically like, if you play a musical instrument or engage in some kind of hobby that you like.
+- what is that hobby? If you would feel free to put that into chat.
+- I see singing piano, flute, alto, sax guitar, piano, violin, film, keyboard, singing guitar, ukulele, French horn, puppet, trumpet trading piano, origami
+- swimming beats and golf.
+- So I guess.
+- And do you like it, I guess, is the next question. And
+- and I guess to someone who likes what you've been doing, and have been doing this for some time.
+- maybe a few years or longer.
+- Right?
+- How would you feel if AI just did it for you? Would you be okay with that. And this is a genuine question. Right? This is again, no wrong answers no right, because there are no right answers here. It's really just how you feel.
+- Some people say definitely, not, no, depends. No, yeah. You know, it's it's it's it.
+- And why not? For those of you who are saying No, and, by the way, depends is also a good answer as well as no, and maybe in some cases yes, it's all like, I said. There's no wrong answer.
+- Some things aren't meant for AI that's interesting. Feel free to expand on this, if you like. Right? There's.
+- you know this is, I think this is, goes back to the question, what do we really want from AI? Because I think the world is telling you, hey? AI is about reducing the cost of labor
+- as about making things more efficient as about optimizing.
+- And if you were to optimize all of these things.
+- isn't that just automatically better? And I guess I'm here saying.
+- what if it's what if those aren't the only things to work for?
+- So
+- 10 or 3 of Stanford's human centered AI. Applications should augment human capabilities, not replace them right, even though I think so much of AI that's out there in the world is doing exactly this replacing.
+- Think of any of the Gen. AI kind of tools for images or music or video.
+- Yeah, I mean, this is good good questions. I mean, Samuel writes, I mean, regardless people may use ad for music, and maybe that's fine, right? But each person maybe get to get to choose. And then
+- but then questions abound. Is that like, does it matter
+- tree to know who wrote the music?
+- Or is this simply, are you simply content to have the end product? How much does the process matter right? And, by the way, to think through these questions again, I have no answers. I do think that this idea of thinking about your favorite hobby might be a good lens to train to this question.
+- Right? Doesn't doesn't matter. And again it the answer
+- often, maybe somewhere between I don't know, and it depends
+- to no, to yes, and it but it all kind of depends on how you're thinking about this. But this the point is to actually think about these things, to actually have that question
+- and to have that bounce around in your head right? And I think that's probably the maybe by far the most important skill to have in this age of AI far more than any technical skills around doing AI, which, by the way.
+- will be obsolete in the next year, 5 years, month, or even next
+- next day, depending on how things are going.
+- But the good questions about what these things mean in our lives and how you want to move through the world with this technology embedded in our lives. I think that question is not going away.
+- The skills you have are important.
+- But they should go alongside kind of these sets of questions that we're asking. So let's look at some student work that people have done in my course.
+- This 1st one is, ask them to make a poetry tool which you can kind of perform with. It's not a generating tool per se. It's not like, Hey, generate a poem of this of this kind. And here's a poem. No, this is a poem you kind of play as an instrument, a poem generator along the way this is made using vectorized words.
+- a kind of ancient uncle or aunt, if you will, of modern Llms. This is like vectorized words, unsupervised learning. It's basically like taking a corpus of text, like all the news articles from New York Times in the last 50 years, putting them into and constructing a model based on some kind of semantic similarity. And what you end up with is a high dimensional space, maybe
+- common to have 50 to like 500 different dimensions of
+- basically like these dimensions of by which
+- similarity could be measured. For example, the term cat
+- would likely be similar by some metric to the term kitten
+- compared to say, cat and airplane. Right? That's the idea of vectorized words is that you actually have a mathematical location, a high dimensional space for each unique term.
+- And so students are to use this to make a kind of poetry tool. This is one called stormfury.
+- storm, it time, division, storm. Fumi.
+- moving up moving left. This isn't a dimensional reduced version of it. What is Wantsham? What is Goten? What is Bioshield? I have no idea there's a cool beat. Why not when things really get going, we're teleporting. Look to the left. Who is Susan reamer@baldsend.com. Someone's email made it into this database to this model.
+- This is all to say, there's a lot more to AI than prompt, based, and generative. And we can think of AI either as an oracle versus tools. Second assignment is to use a interactive AI framework called Wecnator to create
+- 3 interactive, a utilities toys in everyday life. These don't have to be useful. In fact, whimsical, is good, absurd, is good, playful is wonderful.
+- And this is the work of Dr. Rebecca Feebrink, an expert in the introduction of AI Hci, human computer interaction and music and music.
+- You can use Wackinator to create tools like
+- little toys like this. This is a wavebot.
+- It waves when it waves back when you wave at it. That's all it does. By the way.
+- this is trained in less than a minute.
+- took far longer to actually conceptualize and build the robot with its moving parts and servos, connect up the software.
+- And so this is what my students have been doing. This one is called auto riz.
+- I'll just let you do with this what you will.
+- And I told people you need to deploy this.
+- and you got to deploy it. So here's here's being deployed
+- different users.
+- Right?
+- That's all it does. Of course, this is
+- Autoris. Of course, it's meant to be a thing that detects riz. And
+- basically, if you have a seductive look, it plays this.
+- this, this Gloria's music. And so it's a classifier. It's a classifier. It's a riz classifier. And of course, this is kind of a commentary, perhaps also on technology itself. This is this is this is a playful way to look at it. And of course this is all this does, it's so.
+- Well, let's listen to the author, Matt, who made all riz. I really enjoyed this assignment. I think it's easy to adopt this toxic capitalistic mindset that everything you do or make has to be productive or for something. But when we follow that dogma, we forget to make beautiful things just because they're beautiful, do funny things just because they're funny or make stupid projects just because they're stupid. There's so much beauty in doing things just because it's nice to take a pause on life and to make something just for the sake of making it and for a grade. But that's more of an afterthought.
+- Hmm! What do y'all think about that?
+- Any case, here's something else made also with Wekinator. This is hand to voice.
+- Now, this is stuff that AI is really good at. By the way, imagine trying to program this without AI,
+- right? It would be actually like, this is what data is actually very good at is, you can just train it to recognize not only the hand, but then different hand gestures. And using Wackinator, you can quickly, by example, map this and create a compact even in real time model that can respond right? And think about how far this is from this generation of everything has to be a text prompt.
+- But this is still using AI right
+- in the interest of time. I'm going to go ahead and just summarize. What did we learn from this class. We did not get over AI Fomo. We still have it, but this is kind of a therapy and a coping mechanism for AI Fomo. We talked about AI and accountability
+- which AI doesn't really have today.
+- because we don't know what it means for AI, for Chatgpt, for any of these generator image to have this thing we call authorship, which goes with this word accountability. If you put your name on something that you're putting out there.
+- that means there would, for better, for worse. You are responsible for some part of it. You're accountable for it. There's a question of authenticity.
+- accuracy which, by the way these 2 things are not this exactly the same? For one, you would have very different measures and different ways to gauge whether something is authentic versus whether it's accurate.
+- One seems to be something that's more quantifiable, like accuracy where there's a base standard, whereas authenticity, I think, is a trickier thing to to get at. And then this huge a word, this Scarlet Letter word in this case
+- is aesthetics. Aesthetics isn't just like how something looks or feels.
+- But actually how something really feels.
+- whether a thing is something that abides by who you are or something that makes you more you, whether it's something that you would be like. I think that's part of the world I want to be a part of, or that says something about the people I want to be. Part of this is aesthetics on a grand scale of what it means to feel as a person.
+- you know, that's something that's also very tricky with AI today we talked about AI and transparency, how this is so important. But it's also very hard in AI. We talked about AI in education.
+- And what we talked about is that maybe AI in education isn't about intelligence, even though that's in the word AI
+- intelligence we might define as possessing the tools to achieve which desire basically says, Can you get
+- what you want if you have means to get what you want? Hey? You know what you're you're smart, you're intelligent.
+- but wisdom is having the capacity to actually critically evaluate what you want in the 1st place, and also to critically evaluate the tools or the means you have to achieve what you want? Are those things actually good? And for whom are they good?
+- That's the difference between intelligence and wisdom. And this is to say intelligence alone.
+- It's generally not enough. It's never enough.
+- And I'm not suggesting that we need to have artificial wisdom
+- quite the opposite, I'm thinking. Well, maybe artificial intelligence would help us with the intelligence. But maybe wisdom is something we've got to learn to always have for ourselves.
+- because you still got to have that end wisdom of figuring out what is good for yourself
+- and for your communities?
+- Right to even ask the question, how much technology do we want to use. And do I want to
+- have the judgment for my own, rather than farm out the judgment to another entity?
+- And I think AI is over-indexed on the former, while perhaps forgetting a lot about the latter.
+- Right? So I want, if there's 1 slide to take away from this talk, it might be this one, the difference between intelligence and wisdom, the second one being the much harder but much more intrinsic thing. If you learn it's, you know, by the way.
+- wisdom is not something you acquire, and you're done. It's a thing that for as long as you live.
+- if you choose, you can choose to always try to be a wiser version of yourself.
+- It's kind of a nice human pursuit.
+- anyway. I have no answers, quick questions. We live in interesting times. My times got really interesting when I became a parent a year and a half ago.
+- She's already learning about AI in some ways.
+- and I look at her, and I think about the future.
+- and all I can think about is, what kind of future is she going to grow up in? You know it's not just AI. It's not just education, it's all of it. You know. The world is so impermanent
+- and so in so much uncertainty. America.
+- we're living in hugely troubling, trying and uncertain times
+- that I wonder if she's gonna grow up. She's most likely going to grow up with less rights
+- than her mother, you know, and these thoughts.
+- They confound me, they worry me.
+- But whatever the future is for her
+- at the end of the day, I just feel like it's a future I can barely imagine.
+- and as someone who thinks about the future a lot whose work some people ask me all the time, Go, what's the future of art and music with AI, and I always say I don't know, and it depends.
+- And also, by the way, there's not a single future. Music and art is going in a million directions at any given time. And I think that's a good thing.
+- So this has been my crisis of faith as a person who's been doing AI for many years, but also this person who critically
+- questions and examines himself
+- when it comes to engineering technology, artificial intelligence. And I think that's not a bad thing, though, because I'd rather be in crisis than to be complacent.
+- It's okay to have that spark of rebellion.
+- Because what if the whole point of music of art is that we make it.
+- and the fear is that we might go from having good things to more and more just things that are good enough because good enough might be good enough to monetize. Think of all the Gen. AI. Music and
+- art and video services that's out there, you know, they're they purport to
+- democratize music or art making. But I think if a critical person might say, Wait a minute. But aren't you just creating like a whole new generation of consumers.
+- Are you really here to help me make art? And what the hell does democratizing music even mean
+- which I? It's a term I've used in the past.
+- but I've come to realize what a bullshit term it actually is, because it's so easy when you say to democratize art, making or music making to confuse, confound
+- access to these things versus the vital labor of learning. To do these things.
+- Access in general is good, but you can't take away the labor.
+- the confusion, and the frustration of learning how to make art
+- without also throwing away the part where you're learning to make art.
+- and where the you know, to take away the labor in creating something would actually be taking away, creating.
+- in creating something. They're taking away the creative in creative expression.
+- At least, these are thoughts that I would put forth the questions I put forth.
+- I would ask you to make these what you will. But I want to put these questions out there, and the fear is that we would end up with things that are serviceable often, but sublime never
+- that we'd enter into a new age of generic.
+- What artists want for the interest of time. I'm just gonna go with this one. This you probably heard this one. It's almost been kind of a meme now, one. I had to do my laundry and dishes so I can do art and writing not, for I had to do my art and writing, so I can do my laundry and dishes.
+- This is actually surprisingly uniform sentiment from artists.
+- It's like, Why is AI doing all the things that we humans love laboring to do.
+- Isn't that putting, pointing our attention in the wrong places?
+- or have AI help us make some real inroads on like climate science.
+- or to do my dishes and laundry, I'd be okay with that, unless, of course, someone really enjoys doing dishes and laundry
+- intrinsically.
+- Wouldn't that be nice?
+- Good question, Holly
+- John Cage, in the sixties. What we need is a computer that isn't labor saving, but which increases the work for us to do quite an interesting contrarian comment.
+- which is, what if AI is not about making things easier all the time, but making the hard things worth doing?
+- What if that was the case.
+- And also what if being confused and frustrated is an essential part of learning anything?
+- If you're never confused, never frustrated. If you remove the friction from our daily lives. What are we actually learning? What are we actually experiencing
+- like a hard video game? This all comes back. What if all things worthwhile are mountains to climb.
+- The reverse is not necessarily true. Not all mountains to climb are worthwhile.
+- is not a mountain to climb that is worthwhile.
+- But all things worthwhile might just be mountains to climb.
+- When we talk about hard video games to maybe actual mountains.
+- There's something in that.
+- if nothing else. We learn more about ourselves. But I think there is something even more than that.
+- something akin to what we might call the human experience.
+- Yeah. So maybe it's not about making things easier with AI, but making the hard things worthwhile, doing no answers, only questions. I'm going to go ahead and end this on one of my final notes. Here
+- I started this talk by saying, we live in interesting times.
+- This is often labor
+- regarded as what we call the confusion. Curse. Confusion is being by the ancient Chinese philosopher Confucius.
+- But I don't think Confucius actually ever said this.
+- You know, this is something we kind of attribute to Confucius, for whatever reason, at least in the West.
+- But it's it's it's a curse.
+- you know. It's why I asked you how many feel like the time's a little too interesting. But this is only part one of the 3 part. Curse the second part of the curse, says, may you attract the attention of powerful people, I'll let you think about why, that may be a curse. I grew up in China.
+- and I think that basically translates to maybe attract the attention of the government.
+- No, thank you. But the 3rd part is what I want to call your attention to. The 3rd part of the Confucian curse.
+- simply says, May you find what you're looking for.
+- and I think this for Aei
+- is the following, it's saying, be careful what you wish for.
+- The danger with AI is not only what. If AI went off the rails and did things that we had never
+- accounted for, that we never intended unintended consequences.
+- Yeah, that's a problem, to be sure, but I think the even larger, more insidious
+- problem we might be facing is the opposite. What if AI actually worked exactly as intended by the people who created AI? But their intentions
+- were either misguided, uncritical, not thought through.
+- And things. Actually, we actually got what we wanted or what we thought we wanted. But then we realized, -oh, is this really what we want. And then it's maybe a little too late to go back.
+- you know, before we throw out all the things like learning to write an essay learning to reason, learning to draw learning, to make music
+- and saying, You know, yeah, I can do all of that. And and you know, and of course people are doing that, and I'm not saying that's a bad thing to do. I'm just saying
+- what if that wasn't the only way people
+- went about what if people still learned, nonetheless.
+- to write, to make music, to play ping pong, to draw, to paint.
+- And it's just like a video game. It's like it's like I
+- I know I don't want to hand over the Controller in Elden Ring to another, either another person or an AI to get through this boss for me, because the whole point of playing the game is, I'm trying to learn how
+- to actually beat these bosses, to beat these levels, to get to actually beat the game, and then to do it on a harder difficulty, setting the new game pluses.
+- just saying, Be careful what you wish for.
+- and this is, say, why, the question, what do we really want from AI, I think, is actually, maybe one of the questions to ask right now is because
+- what you think you want will end up expanding into what you do.
+- The Upanisha tells us you are what your deepest desire is, as your desire, so is your intention, as is your intention, so is your will, as your will, so is your deed, as is your deed, so is your destiny.
+- This is why that seed of desire, what you truly want. If you can get that
+- right, or at least give yourself the best chance of giving that right, and leave yourself room for adjustment for critical thinking.
+- I like to think that gives us a better chance at at a destiny that's better for all.
+- Speaking of AI for all
+- what I really want, and I'll end with this. In these days of profound uncertainty about the future. I look at my daughter, who just turned one in every fiber of my person.
+- tells me this as she grows, I would want her to learn to value and even embrace the difficulty, confusion, and frustration that comes with learning, and that reside inherent in the craft of creatively expressing oneself whatever form that may take, and for her to come to know the sublime joy hidden in the process, with or without. AI.
+- I think that's what I want, at least for my daughter in this age of AI, because at the end of the day what we make makes us culture does matter, especially for engineers.
+- and I want to thank you all so much for having me.
+- 01:06:57
+	Thank you so much, Professor Wong. Let's give Professor a round of applause for that deeply philosophical and meaningful talk. I mean, wow! Every time I hear you speak, Professor Wong. I learned something new, and I'm just grateful for the opportunity for you to speak with all of us at AI for all today.
+- Thank you. Thank you for being here. We did record the session students, and so we will be sharing the recording in our platform as long as professors. Okay, with that.
+- 01:07:27
+	Okay, with that. Okay.
+- 01:07:28
+	Okay, fantastic. And at this time we are going to transition to our final part of the day, which is our reflection sessions. I'm going to go ahead and put that in the chat, for all of our students feel free to continue to flood the chat with your gratitude for Professor Wong, and then we will transition to your reflection sessions right now, and your sessions start at in 1 min, so we'll see you over there. Thank you so much.
+- 01:07:55
+	Thank you, Brooklyn. Thank you, Miriam. Thank you. Everyone. Thank you all.
+- 01:08:04
+	There you go!
+- 01:08:08
+	Thank you.
+- 01:08:23
+	If there is confusion, too, about.

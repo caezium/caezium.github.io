@@ -1,0 +1,635 @@
+---
+title: "Video Conferencing, Web Conferencing, Webinars, Screen Sharing"
+source: "https://stanford.zoom.us/rec/play/74vznYB-noSydpdhVd5uqr7tZg9sfSNH28zOGvkT5OH5oYHCaxodw7u5Y1QA51Ko1x6QZkyxowVCzbIK.wHKnZ7tMGcwEWj93?eagerLoadZvaPages=&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fstanford.zoom.us%2Frec%2Fshare%2FNbM2G6PrgLbxQnsy3EX-9kxM_gGyMLSYafjnxcH7Bp7BYmrcIKaHf0yxiZHnKw_X.6V92l5X74IXfLk3y"
+author:
+  - "[[Zoom]]"
+published:
+created: 2025-07-04
+description: "Zoom is the leader in modern enterprise video communications, with an easy, reliable cloud platform for video and audio conferencing, chat, and webinars across mobile, desktop, and room systems. Zoom Rooms is the original software-based conference room solution used around the world in board, conference, huddle, and training rooms, as well as executive offices and classrooms. Founded in 2011, Zoom helps businesses and organizations bring their teams together in a frictionless environment to get more done. Zoom is a publicly traded company headquartered in San Jose, CA."
+tags:
+  - "clippings"
+---
+## Summary
+This lecture provides an introduction to Machine Learning (ML), explaining its role as an AI approach that teaches computers to make decisions and predictions from data, especially for tasks difficult to program with explicit rules (e.g., handwriting recognition, machine translation). The speaker differentiates ML from traditional rule-based AI, highlighting ML's ability to learn patterns from data but noting its black-box nature and susceptibility to data biases. Key concepts covered include features, labeled vs. unlabeled data, and types of ML: supervised (regression, classification), unsupervised (clustering, anomaly detection), self-supervised, and reinforcement learning. The lecture also touches on model training, the importance of generalization vs. memorization (underfitting/overfitting), and ethical considerations like data collection, bias, and fairness.
+
+## Key Points
+-   **What is Machine Learning (ML)?** An AI approach where computers learn to make decisions and predictions from data, without explicit programming.
+-   **Why use ML?** For tasks difficult to define with rule-based systems (e.g., handwritten text, machine translation, recommendation systems).
+-   **ML vs. Traditional AI:**
+    -   **Traditional AI (Handcrafted/Expert Systems):** Rule-based, predictable, requires expert knowledge, but hard to scale.
+    -   **Machine Learning (Learned Systems):** Learns from data, identifies patterns, can be unpredictable when failing, relies heavily on data quality.
+-   **Data is Key:** ML models learn from training data sets, which provide examples of input and often corresponding output (labels).
+-   **Features:** Quantifiable properties of input data chosen to be helpful for prediction.
+-   **Types of Machine Learning:**
+    -   **Supervised Learning:** Uses labeled data (input-output pairs).
+        -   **Regression:** Predicts a continuous real value (e.g., house price).
+        -   **Classification:** Predicts a category/class from fixed options (e.g., spam/not spam, digit recognition).
+    -   **Unsupervised Learning:** Uses unlabeled data to find patterns or structure (e.g., clustering, anomaly detection).
+    -   **Self-Supervised Learning:** Generates labels from the data itself (e.g., predicting the next word in a sentence).
+    -   **Reinforcement Learning:** Learns through trial and error based on a reward/penalty system (e.g., playing games).
+-   **Model Training and Generalization:**
+    -   Aim for models that generalize well to new, unseen data, rather than just memorizing training examples.
+    -   **Underfitting:** Model performs poorly on both training and unseen data (too simple).
+    -   **Overfitting:** Model performs well on training data but poorly on unseen data (too complex, memorized).
+    -   Use a separate **test set** to evaluate generalization.
+-   **Ethical Considerations:** Data collection practices, inherent biases in data leading to biased models, and ensuring fairness.
+
+---
+
+https://stanford.zoom.us/rec/play/74vznYB-noSydpdhVd5uqr7tZg9sfSNH28zOGvkT5OH5oYHCaxodw7u5Y1QA51Ko1x6QZkyxowVCzbIK.wHKnZ7tMGcwEWj93?eagerLoadZvaPages=&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fstanford.zoom.us%2Frec%2Fshare%2FNbM2G6PrgLbxQnsy3EX-9kxM_gGyMLSYafjnxcH7Bp7BYmrcIKaHf0yxiZHnKw_X.6V92l5X74IXfLk3y
+# Original Content
+
+[Accessibility Overview](https://stanford.zoom.us/en/accessibility)
+
+<video src="https://ssrweb.zoom.us/replay02/2025/06/19/85A0C480-47A2-4E28-8BB5-465AB0431EBD/GMT20250619-162956_Recording_2560x1440.mp4?response-content-type=video%2Fmp4&amp;response-cache-control=max-age%3D0%2Cs-maxage%3D86400&amp;data=ba89b7a4df6f0b14f6c49cce8fafe06ecf7a69d8d0c89f91def92d21f26953e0&amp;s001=yes&amp;cid=aw1&amp;fid=6MDm1__OexT-74dQ3MMYcP3lwSd_H6JXnXc2EezgTJAdSy4O0NNJpLX-qNgfpeF4x9JMYVkoXuC41ias.YhOQBxwzDzxL7XIa&amp;s002=QYzHb58hOJyZO_lQjX7t3Vuz-nukp3IY27nkDiAKHNsKkozXYUFK5whBs8qeETlQocbfedWeAY6-hKU0R4VwxFPz8GEw.aS_0QRDx1ZuQESog&amp;tid=v=2.0;clid=aw1;rid=WEB_de86c50bd4db0f274c7167a6e813ba1f&amp;Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vc3Nyd2ViLnpvb20udXMvcmVwbGF5MDIvMjAyNS8wNi8xOS84NUEwQzQ4MC00N0EyLTRFMjgtOEJCNS00NjVBQjA0MzFFQkQvR01UMjAyNTA2MTktMTYyOTU2X1JlY29yZGluZ18yNTYweDE0NDAubXA0P3Jlc3BvbnNlLWNvbnRlbnQtdHlwZT12aWRlbyUyRm1wNCZyZXNwb25zZS1jYWNoZS1jb250cm9sPW1heC1hZ2UlM0QwJTJDcy1tYXhhZ2UlM0Q4NjQwMCZkYXRhPWJhODliN2E0ZGY2ZjBiMTRmNmM0OWNjZThmYWZlMDZlY2Y3YTY5ZDhkMGM4OWY5MWRlZjkyZDIxZjI2OTUzZTAmczAwMT15ZXMmY2lkPWF3MSZmaWQ9Nk1EbTFfX09leFQtNzRkUTNNTVljUDNsd1NkX0g2SlhuWGMyRWV6Z1RKQWRTeTRPME5OSnBMWC1xTmdmcGVGNHg5Sk1ZVmtvWHVDNDFpYXMuWWhPUUJ4d3pEenhMN1hJYSZzMDAyPVFZekhiNThoT0p5Wk9fbFFqWDd0M1Z1ei1udWtwM0lZMjdua0RpQUtITnNLa296WFlVRks1d2hCczhxZUVUbFFvY2JmZWRXZUFZNi1oS1UwUjRWd3hGUHo4R0V3LmFTXzBRUkR4MVp1UUVTb2cmdGlkPXY9Mi4wO2NsaWQ9YXcxO3JpZD1XRUJfZGU4NmM1MGJkNGRiMGYyNzRjNzE2N2E2ZTgxM2JhMWYiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTE2NDQ1NjN9fX1dfQ__&amp;Signature=bbDjivWF-boKaTLUaB1dlsGJjCHdNIJp8S0MD6qn1wgxEo9-34phgtfwF~QkSob8xD9LGspT9RU6~yqm9XexT8NyH2t2Kq8AndK-UzM2E9UxIrKn2O~WCw1FiBxwOsyXbOLu0gyERTUS880qehum4keejYi3HCzKmZNMoAHLBcN5cy2aB3dyEluqWjX-cO1d9TxL41CDI0nIVlHRcoCadf1NGQMQRWVHrAE91fBuvMilP2eEt-VTOCiTjV1LDf28JPSlGSyT6tGqqkwJnn08zD2eeDOUhtcyLkBtBbucbyf6hSRXF0~BaEzNCcoSd8vUocYWLywchs063GrFCqoHOg__&amp;Key-Pair-Id=APKAJFHNSLHYCGFYQGIA"></video>
+
+00:00:00 / 01:17:47
+
+## Audio Transcript
+
+## Chat Messages
+
+- 00:00:02
+	Alright. Hello, everybody welcome.
+- I'd like to introduce our speaker for today. So Shaytaina is a computer science. Phd. Student at Stanford University, advised by Deli and Juan Carlos Niblis. He completed his undergrad with gold medal from
+- Iiit Hyderabad majoring in computer science and engineering Shaitanya has experience as a pre-doc researcher with Google, research, India and a research intern with Mpi informatics, Germany.
+- And most recently, as a research scientist intern at Meta reality, lab Shaitanya worked with Xi. N. Wei. On fast registration of photorealistic 3D. Avatars for VR. Facial animation, and his work was accepted at Eccv. 2024. Shaitanya's research.
+- Oh, I apologize, and that's the conclusion. Thank you so much. Please welcome Shaitanya Patel from Stanford University.
+- 00:01:10
+	Cool. Thanks, madam, for the introduction. Very detailed introduction. I would say, so. Yeah. I'm 4th year Csphe student working in 3D computer vision. And it's really good to see you all just to get the logistics correct. So I'm sharing my screen. And I have
+- you everyone in a gallery on another screen. I have chat open. So if you have any question, just type it in the chat, and if it's urgent, and if I fail to notice, you can just interrupt me. Okay.
+- does that sound good?
+- 00:01:49
+	Sounds good.
+- 00:01:51
+	So should we start.
+- 00:01:53
+	Yes, please. Go ahead.
+- 00:01:55
+	Cool.
+- yeah. So today I'll be talking about introduction to machine learning if I know correctly. You have had a 1st lecture yesterday with Peter Norwig, very veteran computer scientist in AI. So he talked in general about AI here, I'll talk a bit more technical into machine learning.
+- Okay.
+- so this is the today's lesson roadmap. We'll be talking about what machine learning is, how does it fit into AI? And how does it work for the bullet point 4 and 5. I'm not sure if I'll be able to cover that. But if we have time I'll also go into that. So my focus will be to just focus on 1, 2, 3 for now?
+- Cool. So what is my and also like? Feel free to ask the question like, let's make it as interactive as possible. So it's fun for everybody.
+- So yeah, what is machine learning?
+- So machine learning is that approach an AI approach where we
+- teach computers how to make decisions and prediction from data data. Here is a key point. So machine learning is a type of AI, so that we don't have to program whatever we want to do explicitly, it will learn from the data on its own.
+- Okay, yeah. So why do we want to do that, in 1st place. So
+- some tasks that we want to do
+- they are very hard to describe with rule-based system. For example, let's say you want to detect handwritten text.
+- Now, there are many ways to write things right, and we can't describe every single possible way in the program.
+- But
+- in machine learning, what we do is like. We provide many, many examples of handwritten text and corresponding like what's written there. And the model will learn itself how texts look like.
+- So we don't have to program anything explicitly.
+- Another example is machine translation. Let's say I want to translate English into Chinese. Now, I don't know Chinese, so I don't, since I don't know Chinese, I don't even know how to, you know. Instruct how to derive rules for translating English into Chinese.
+- But in Ml, if I have data of English and Chinese paired translation, I can create an AI that can do that task without even me knowing how to speak Chinese, and I don't need to program every translation and every approaches myself.
+- And the good thing is like.
+- if I have a program, and if I have a code set up and everything to translate English to Chinese.
+- I can use the same program, same thing to train a model which can do any translation from English to some other language, let's say.
+- okay,
+- Another example of machine learning would be digit recognition. It's a similar. It's similar to handwritten text recognition. But we are just focusing on the digits. So
+- we can say that there are many ways to write 0 ones twos. And I mean, you can try deriving a rule based system. Okay, one will be a line going from top to bottom. But some people write it a bit slanted. So you can try that. But you can see that like sometimes lines get blurry. I mean
+- one. If in for example, this particular 7, it looks very much like one.
+- So when you try to go with like rule based system, sometimes it get very tricky. But we can just show machine learning model. A lot of example of 0 ones and twos, and it will learn by itself.
+- So, yeah, how. And this is another recommendation system you might have seen on Amazon. When you buy a book it will show
+- recommendation for other products which are similar, and
+- So how do we do that? Actually.
+- so it's all about data data is at the heart of the machine learning. So a training data set provides examples of input and output, telling the model how it should behave. So
+- you can take an analogy between for understanding how Ml. And traditional AI works. So if your parents give you a rule of every scenario that would be more like traditional rule-based AI.
+- But if your parents give you feedback on how your action was.
+- You can consider that as a training data, so your parents can't provide a guidance on every possible scenario that's going to happen. But if you make a mistake, parents can provide. Okay, maybe in these kind of things, you shouldn't do that, or maybe in these kind of things. You should do this. So you can consider that
+- as an example of training set. And over time you learn a general behavior of like what's good and what's bad. So it's same with the machine learning model. You provide examples of what it should do in certain scenarios, and it will make a general idea of like how it should predict on any new scenario or any new input. So
+- for
+- let's say, you want a machine learning model that can classify that can say, if an image is of apples and orange. So what you can do is like you can have a data set where you have many examples of
+- orange images. And you say that, okay, this is orange. This is orange. This is Apple. This is apple.
+- Or if you have a language data set.
+- and you want to classify, if that particular piece of text is positive or not, so you can do that. And
+- it can be really tricky to do with a rule based system. For example, you want to classify Amazon reviews for a TV
+- if it's positive or not. Now, a positive review might be something like this using this TV was a blast.
+- and it looks like a positive review, right?
+- But another review can be. When I turned on the TV, it had a blast. That's a negative review. And if you just try to create a rule based system like, if it's a blast, then it's probably negative.
+- It won't probably work well on these kind of complex languages. So yeah.
+- So we have been talking about about this. But how does machine learning fit into general AI, so
+- machine learning is a part of AI. So machine learning models are AI models, but not all AI models are machine learning models.
+- So machine learning model is a part of AI which learns to make decision based on data.
+- Oh, and not all AI algorithms needs data.
+- But recently, all of many, almost all of the successful AI systems are based on machine learning. So that's why it's all the current hype about that?
+- there is.
+- message from chat. If you want to do, ml, to find independent data, would the training data consist of just inputs or input output, I think, oh, yeah. So the question is, should the training data contain only input or the pairs of input and output both. And we'll actually talk about that. So that's a nice question. It's there in the next few slides.
+- So talking about difference between General AI and machine learning. So, as I said, it can be either handcrafted or learned from data. So a handcrafted system
+- will be things like, okay,
+- deciding something based on some symptoms. So doctors may use some kind of rule based system. So if it's fever and a cough, then it's maybe this kind of disease if it's fever, but there is not cough, then it might be something like this. So these kind of rule based system
+- you need an expert to
+- create the system. And the benefit is that it has a predictable behavior
+- when it fails. You know where it fails.
+- Wow!
+- But the problem is like you want to, you will need to cover all the possible scenarios.
+- whereas a learned system, which is a system, a machine learning system which is learned from data.
+- It can take advantage of patterns.
+- and you don't need to specify that. And it can learn to make decision on its own.
+- But the problem is, when it fails, you don't know how it fails or why it fails, or you don't know how. Maybe you can correct that.
+- So the only way to correct is
+- just have more data on the specific scenario that you don't want it to fail. So
+- that's the one downside of using using machine learning.
+- So now, going into the
+- going into the actual, really meat of the lecture, how does it work? How do we do that?
+- So
+- in any kind of machine learning problem. First, st you need is a data set a data set of training examples.
+- So for for every input example, what we usually do we derive a set of features?
+- So what is a feature a feature?
+- okay, there is also another question, what is the rule of labeled versus unlabeled data in machine learning. Oh, you are all going very ahead. It's coming in. So yeah, difference between label and unlabeled data.
+- So, okay, coming back to the slide.
+- Feature is a property of your input which might be helpful for a prediction.
+- and that feature is a way of describing that attribute which will be helpful for the machine learning model to understand. It's something which you can quantify in code which can quantify in computer. And we want to choose the most relevant one.
+- It can be either binary label
+- yes or no, or it can be a real value. What actual number is, or it can take one of the small possible numbers. So take an example of this. You want to classify whether a fruit is orange or apple.
+- Now think about how a machine would learn to do that
+- is. Now I want your answer is mass or shape of the object, a good feature or no.
+- to classify whether the current object in your hand is apple or orange. Oh, a lot of people are saying no.
+- which is true, because both are almost similar similar weight. And yeah, and similar shape. So mass and shape is an example of features which is derived from the actual input object. But they are not helpful.
+- How about color? Is color a good feature?
+- Yes. So
+- Oranges are mostly orange, and apples are. Most apples are distinctively different than orange in color, so it is a good feature. So
+- so color is an example of good feature that you want to use.
+- but sometimes not. Color is not sufficient. Sometimes oranges are a bit yellowish, and if an apple is not ripe enough it can be yellowish. So
+- one feature is not enough. So what we usually do is we derive a collection of features that are useful in combination.
+- And yeah, in this example the labels are apple and orange. So? Sorry
+- there was a question.
+- Sorry.
+- 00:15:15
+	I think that somebody was accidentally came off of mute.
+- 00:15:20
+	Oh, okay, no problem.
+- All right. Now, going into the math of this, how do we formalize this?
+- So your input, your input, example is set of features described from your data. So your
+- input can be a picture, an email, a sentence song, anything but you derive necessary features on top of.
+- That
+- so? Your data is X, and you derive a set of features from one example. So for apple it might be, it's a mass.
+- its color, and whether it has a round shape or not. So, for one particular example, it will be mass 1.5 color green, and it has a roundish shape.
+- what? There is another question. What is the best way to extract data? Is there any program or application?
+- That's a good question.
+- Data is almost always curated by annotators. So in all big machine learning models, companies basically employ a set of annotators, and they will label high quality data. So it's almost always. But there are a few examples where you can get it automatically. We'll talk about that later. Yeah.
+- and the labeled example, is a set of features and corresponding label. So in our example, our set of features for one particular object was this, and the label is app.
+- And finally, your data set is a collection of labeled or unlabeled examples. Again, I'll talk more about difference between label and unlabeled later. But in your project this is how you will formalize your
+- this is how you'll formalize your problem into data.
+- cool! There is another question in the chat. What kind of AI does not use machine learning?
+- I gave an example of an expert system deciding what kind of disease a person has based on symptoms.
+- So you can think of it. A flow chart, a flow chart of rule based system
+- is A is an example of AI which doesn't use. Data.
+- it was a clear, direct way to create an AI
+- that imitates an expert knowledge in some way.
+- There is another question.
+- Are handcrafted AI systems the same as expert systems. That's correct. Yeah. Expert systems are rule-based, handcrafted system.
+- Okay, how can we detect and fix human error and bias? I will talk about that. This is the 4th bullet point, 4th or 5th bullet point in the series of lecture. So we'll talk about that.
+- cool. So in your project, how does your data look like? So the data is usually in form of a matrix, or you can think of a spreadsheet where each row is one example, and each column describes one feature of that particular example.
+- So
+- here it's a data set of books each column. There are columns like title author average rating on maybe goodreads or something language. And each row is basically information about
+- one particular book.
+- And yeah, there are many example of data sets. We can actually look into that.
+- Let's see, let's let's see if you can find. Oh, oh, yeah.
+- this is a data set of packed adoption records with animal and adopter data. And
+- this is a data set. Basically, there is an Id of the pet, the name of the pet species breed. What's the age gender color? And finally, whether the pet was adopted or not
+- by this. Maybe you can now create an AI model which will take all the pet information you can create an Ml. Model which will take all the pet information, and it will probably predict whether this pet will be adopted or not. So
+- this is one kind of data set. And in Kaggle, you can basically find, like many interesting data sets. So Kaggle is a website where, there are a collection of data sets and best performing models on those data sets which people have submitted to the website.
+- Okay?
+- Now there have been many, many questions on the chat.
+- And I see some other students are also answering, that's good.
+- Okay. For deep learning, for a task such as classifying images. Do you really need to include features.
+- or can the model derive them by itself? This is a very good question.
+- So
+- I think that's out of the scope of this lecture, but I can give you a direct answer that initially, when there are not a lot of data sets and not a lot of compute.
+- people used to derive features so that the learning is easier.
+- But right now, with a lot of data and a lot of compute.
+- we can just have a bigger, more complex model. And let the data let the model figure out features by itself.
+- or you can think of it. And another way, the data itself is just one big feature. That's it. So image itself is just a feature
+- and network will machine learning model will try to decide try to get some features on its own from the data and learn to classify.
+- Okay?
+- yeah. Again, there, there are some questions on label and unlabel data. And that's where we are. Coming to right now. So types of machine learning.
+- what different kind of machine learnings are there? The most common is supervised machine learning.
+- Where your data set is labeled, meaning it has examples and corresponding labels.
+- So here I'm showing an example where?
+- The problem we want to
+- deal with is classification of input images into digits.
+- And you have in your data set, you have many images of someone's handwritten digits and corresponding label of what's written there. So this is 7. This is 8. So this is an example of label data.
+- and another example of label data might be. Let's say you want to learn a classifier to classify email into
+- a label of spam or not spam. Then you will have a data set of all the email text. And for every email you will have, it's a label, whether it was spam or not.
+- And similarly, image classification data set where you have images, and for every class of every classifiable category.
+- So
+- in so supervised learning, most of the Ml literature is at least traditionally, was built around supervised learning. But many of the things can be transferred into other types of learning which I'll talk about next. But for now let's talk about supervised machine learning. So what you want to do is we want to model. We want to get
+- a computational model which imitates your training data.
+- Your training data has
+- examples and corresponding output. We want a computation model which can assign a label to all the input data point in a similar way.
+- So you can think of a machine learning model as a function, a mathematical function.
+- It's a function of your input example. X, and the output of the model is whatever prediction you want to do.
+- class of the label, or some kind of real value.
+- And things like that.
+- Okay.
+- Now.
+- in supervised learning. There are 2 types of supervised machine learning, one's called regression, and the other one is called classification.
+- You, you want to output a continuous real value. For example.
+- if you want to create a model which can estimate price of a house. Let's say your input feature is the square footage of the house.
+- So your input is a square footage of the house. It's a real value ranging from possibly 0 to very high, and your output is again a real value. The price of the house
+- so that is an example of regression.
+- and in classification your output is a class. It's a category out of the fixed number of categories. So for email classification. You know, the output is only spam or not spam. So that's an example of classification.
+- Here on the right you can. This is a very simple example of how regression and classification look like. So on the top.
+- it's a regression on XX. 6, you can think of
+- one single input feature, and on the Y-axis, the output real value.
+- So square footage and the price of the house
+- and your machine learning model will try to
+- Oh.
+- on the bottom, it's an example of a classification with 2 features you have x, 1 and x 2
+- and machine learning model will try to learn a boundary which can separate between 2 classes.
+- Okay?
+- Oh, cool.
+- Now let me go through some questions.
+- are unsupervised AI models key to Agi.
+- I think yes. So the question is basically unsupervised AI models, models which don't require label data. Are they really key to Agi. It's kind of a practical question, because labeling requires human effort
+- and label data can be only so big unlabeled data. On the other hand, it's on Internet, you can scrape it. It's a lot of data. And when you have a lot of data, you have a much better working model. So right now, due to these practical data limitations.
+- unsupervised model, if you can. If you can pose a particular problem into unsupervised one, then yeah, it. It tends to do better right now.
+- how does model deal with outliers?
+- Usually doesn't. So
+- there are class of machine learning models which are specifically designed to be robust, took outliers. So
+- for uninitiated, like outlier, is a data example which is like very dissimilar to your original training site. And the model can fail in a lot of unpredictable way. So again, that's out of the scope of this lecture. So I'll not discuss that
+- in real world scenarios. I assume there will be a lot of dimensions. So that's a comment from Ronak. So yeah, that's correct. Here. I'm showing example of one D or 2D regression and classification task. But in real world you have a lot of features which you can't even visualize in on screen, or even in 3D.
+- How do we use logistic regression for more parameters?
+- I think I'll talk about regression in a bit. So yeah.
+- how do you even figure out which K. To use for each of those like, what's the secret sauce for picking the best K
+- for your model directory works? I'm not sure what K refers to here.
+- but I think it will be discussed
+- later. Yeah, I think it's the question about unsupervised learning which will come later. Here, okay, let's
+- work through one regression example. So
+- high school, Gpa versus a college Gpa, so let's say, you want to
+- create a machine learning model which can predict a student's college Gpa, based on high school. Gpa.
+- so input X
+- is the students high school, Gpa, and your output Y is the students college, Gpa. And you have a training data like this. So for many students, you have their high school, Gpa. And College, Gpa.
+- And you can plot them on a 2D plane. So on. X and y, and you have dots for each.
+- Example.
+- Now, can you come up with other features which might be useful, because, I mean, we know that higher high school, Gpa. Roughly translates to higher quality Gpa. But there are other factors. You can see that there is no linear relationship between X and Y here. So what other features might be useful?
+- I can give an example. It can be the
+- difficulty level of the high school courses that the student have taken
+- right. So if there is a low Gpa, but the courses were actually difficult.
+- Then maybe you want to predict a bit higher. College. Gpa, so yeah.
+- yeah, number of Ap class. So I think that's time spent studying.
+- That's a good feature, but I don't know if it's a positive or higher or negative or higher
+- standardized test score. So yeah, your sat score on top of high school. Gpa is also a good
+- IQ, okay, that's interesting. IQ is, it's debatable. I would say
+- and then yeah.
+- Job status which is equal to time taken.
+- Let's go school funding levels of extracurriculars.
+- So yeah, you can see that there are many features. Some features are directly indicative, but some features are maybe slightly indicative. So you want to pick features which are
+- useful.
+- and if you pick too many features, then you can run into war fitting, which we will discuss later.
+- So, yeah, a lot of examples of the features.
+- And yeah, so that's good. We'll still stick with the single feature example for for this example.
+- So, yeah, how? What will be a machine learning model on this particular task?
+- So we can think of the simplest form of machine learning model, which is a linear model.
+- It takes an X, and it predicts Y
+- based on a linear relationship. So w. 1 x plus W. 2, it's the simplest form of Model
+- X is the input w. 1 and W. 2 are your model parameters. So it's
+- it's what machine learning model is. These 2 parameters.
+- And we don't know. We want to learn them from data. And why is the output value?
+- So now, given a label data point of X and Y,
+- how can you determine? Best set of w. 1 and W. 2.
+- That works right? So that's what model training is.
+- So
+- this is an example of like your data set, you have X and Y, high school, Gpa. And College, Gpa.
+- And since your model, your model is linear, it's a linear regression model
+- W. And WW. 1 and W. 2 will decide a line that passes through this, and you want to fit the best line. So this is an example of line. But
+- this is another machine learning model which is predicting something like this.
+- But this is another model which is predicting something like this.
+- And you can see blue line.
+- And what is the best? I mean, some people. Okay, okay, X, the red line is fitting the best. But Blue Line is also doing one job that it it is always
+- under predicting the university. Gpa.
+- Right? So it always under promise, it never over promises. So for some cases it might be the best line
+- in cases where you don't want students. You don't want to over promise to students about that college. EPA, maybe the blue line is best. So the best. The definition of best depends on what you want to achieve at the end.
+- then, which is the most common form of machine learning that people do, then you can do that. So
+- for every w. 1 and W. 2, you can actually get an error on your training data. So, for example, for a particular set of w. 1 and W. 2. The model predicted for this particular X. The prediction was around 2.4 or something, but the actual Gpa. Was 3.7 5. So that's the error. So you would. And there will be error on every training data point, and you
+- try to find w. 1 and W. 2 such that the error is smallest possible. And that's what the training of the machine learning model is. You try to find model parameters such that your error is the smallest possible.
+- Okay, define a loss function and minimize it through gradient descent. That's correct. So Alex is asking.
+- am I talking about the same thing as like defining a loss function and minimizing through gradient descent. That's precisely correct
+- gradient descent. And again, gradient descent. Everything is out of the scope of this class for now. But you will talk about this later. In the coming 2 weeks. During your project
+- and classification. I think we already talked about what classification is.
+- an example of classification. Based machine learning models are things like this, cancer diagnosis from images. So
+- here you have images of
+- cancerous spot on your skin. And the output is the type of skin cancer that you have.
+- So what you see on the
+- on the images is basically the raw input data that you have.
+- Now, if you are able to derive good features out of that.
+- the definition of good features is that when you plot it into. Let's say this kind of 2D plot.
+- Each class is reasonably separated from other class, so that you can create a decision boundary.
+- So
+- here you can see that. Okay, the cluster here is probably the blue class. Here is the orange class. So you want to derive your features such that there is an E, you can have an easier machine learning model which can classify on that.
+- Here the linear model won't be enough. For example, the blue is somewhere in the middle.
+- You need a sufficient complexity of your model which can.
+- draw a decision boundary which is not linear. It can draw a nonlinear, maybe roundish boundary on that.
+- So yeah, okay.
+- and then let's talk about the other kind of thing which many students ask question about the unsupervised machine learning.
+- So here you have a data set of examples. But you don't know the labels.
+- or you don't know any kind of label on the data, and that's called unsupervised learning. For example, you have just images of handwritten digits. You don't know what each image
+- is like, what digit in each image is.
+- So
+- what can you do with that? For example, yeah. Unsupervised learning is a type of machine learning which deals with unlabeled data. So on the left. You have a set of data points, but you don't know. Let's say the class of that. You don't know whether each particular.is a cat or dog, or maybe apple or orange. You just have the data, not the labels.
+- But what what can you do on top of this data?
+- One example, one thing which can do is like
+- you can try to see what different kind of clusters there are
+- in this example. You don't know what the label is. But you can roughly see that there are 2 particular distinct clusters of the data.
+- So you can learn structure about the data. You can find new patterns. In your data.
+- you can find an anomaly in the data. Let's say there was a label. There was a point which is which is very at the top, right?
+- It doesn't belong to any of the cluster. So you can find anomalies. Basically, this example looks like an anomaly. This looks like an outlier. This looks like maybe a faulty example or not. So on in traditional machine learning, using unsupervised learning. You can do these kind of clustering anomaly detection. You can find structures in your example.
+- Yeah. There is a question.
+- And just the thing like, whenever you're asking the question, it would be better if you ask questions visible to everyone, so that everyone can know the question, and maybe they can answer. So the question is, why would the blue dots be in the orange boundaries.
+- Are these outliers? Hmm, I
+- think. Oh, yeah. So I think the question was here. There are some blue dots which are in the orange regions. Are these outliers
+- so
+- potentially? Yes, but it might also be the case that the set of features which you are which you are using to describe. To plot this plot.
+- it might not be enough.
+- It can also be that case. So maybe you need a 3rd dimension where these blue dots are reasonably separated from the orange. Another 3rd feature. So
+- that's a good question.
+- So
+- the problem with many features is that we can't visualize the data. So what people do is they have higher dimensional features more than 3 dimension which you can't visualize.
+- And then there are some methods which can basically project the high dimensional data into 2D, so that you can visualize. It's not perfect, but it will give you a rough sense of okay. These features are good or not
+- cool. Some cancer tumors look similar. That's why, okay, yeah.
+- And why? This might be, it might be that some cancer types look very similar to each other. So.
+- yeah, so these, maybe those 2 classes are very hard to classify than among themselves. So cool.
+- So.
+- yeah, so this was the difference between supervised and unsupervised learning. Now I know there are a lot of questions, so
+- in many case the boundaries between supervised and unsuperized learning is blurred.
+- For example.
+- take an example of any kind of language model like Chat Gpt, chat, Gpt is trained to predict the next word based on all the previous words
+- great.
+- So
+- in our formalism it has the label, the input is all the previous word, and the output is the next word.
+- So it is a type of supervised learning. But the thing is we don't need to hand label the data. We can just gather all the text that exist in the world
+- for
+- any paragraph. Just take the 1st part of the paragraph and put the next word as its target. So we don't need any kind of manual effort to label the data.
+- So some people also put that as unsupervised learning.
+- or a better, what might be self-supervised learning, because from the data itself you can create some kind of label without requiring human effort.
+- So
+- yeah, so learning a language model is a self supervised learning. But it's still modeled in the sense of supervised learning like you have input and you have particular label as output.
+- Okay.
+- cool?
+- yeah. There is another. I mean, there are many kinds of learning. But the 3rd interesting kind of learning is reinforcement learning.
+- Now, what does it mean? It's
+- it's based on how we sometimes learn
+- what are good decisions based on reward and penalties.
+- So
+- as a child, you don't know which things are safe or not. If you touch a hot stove surface, then you instantly get a negative reward in form of pain, and then your brain instinctively models that. Okay, maybe you shouldn't touch the stuff when it's hot.
+- So here nobody. There was no a label. Example of hot stuff is bad.
+- There was no other signal. The only signal was the reward.
+- What you felt. It wasn't a direct reward, saying that the hot stove is bad.
+- So, but it was a reward of positive or negative behavior. And through that you learn
+- how to basically make decisions and reinforcement. Learning does something similar.
+- You don't specify input and output, but you specify what are the good rewards in a particular situation, and the model will learn
+- by trial and error to make decision which leads to higher reward.
+- So that's the type of machine learning which call, which is called reinforcement learning.
+- And yeah, you can think of it in a gaming example. When you started playing new game.
+- In the beginning there will be a tutorial of saying what to do. That's an example of supervised learning. It will say, Okay, go to this place, pick up this object. That's a supervised learning, but after that there won't be tutorial. You will start playing. You will fail on your mission or something, and then you will.
+- By time you will learn how to successfully pass the mission right?
+- So passing is a reward, you feel good about it, and you just keep trying and trying until you learn behavior which will get you to pass the mission. So that's a very good example of
+- reinforcement learning in games.
+- So yeah, okay, we have 15 min. So I will go quick on this. So reinforcement learning is like how you learn from trial and error like playing a video game or things like that.
+- You might have seen an example of Alphago. It was a system trained mostly with reinforcement learning.
+- because there wasn't a supervised data set of which
+- which action in a particular state is good or bad, but you can just let the model run and design some kind of reward function, and it will figure out in it on its own
+- how to make decisions that lead to better rewards.
+- So
+- yeah, we talked about supervised, unsupervised machine learning. Also reinforcement learning. Semi supervised learning is basically something in between where you have some label data and lots of unlabeled data.
+- And you try to do better than just training on the label data set.
+- So yeah, I have, like, I can show you, like, really good example here.
+- Okay, consider it this way. Let's say
+- these 2 clusters, some of some of the values in these 2 clusters are labeled.
+- So you can basically learn a supervised classification. It can predict the boundary here, let's say, because there wasn't a label example here.
+- But since you know that there is a density of points in unlabeled points in these regions, maybe you want to shift your boundary here.
+- So that's a form of how unlabeled data can aid supervised learning. And that's called semi-supervised learning.
+- Okay, we have only 13 min. So I'll go very quickly on these 4th and 5.th Okay,
+- okay. So how do you actually train the model? What kind of things you look for when you are training a model. So you have an example. X, you're training a model F to predict Y,
+- so now we have a data set, we call it training set.
+- And to see how your current model is working, we get some metric, some kind of error metric, which shows that how accurate the model currently is.
+- But I'll discuss like just working well on the training data is not enough.
+- The model. When you are training a model, you want the model to work well on the new example in future.
+- If the model really work well on the new example which it hasn't seen in the training data set.
+- We can say that the model generalizes well, it generalized to a new unseen data.
+- and if it doesn't do well, if if it only does well on the training set. But if it doesn't do well on the new example.
+- then most probably the model is just
+- memorizing all the examples. It it's not learning good behavior. It's just memorizing. If this, input, I'll output this, that's it.
+- And
+- yeah, we want the model to generalize to new examples instead of memorizing the correct label. And this is
+- how it would look like, let's say, these wavy points in a wavy pattern. This is your input set, and you want to fit your model
+- if your training and
+- if model is really doing well, if the model is not doing well on the training set and not doing well on the testing set, also
+- the on unseen example. That means your model is underfitting. So a line is a good example here.
+- On the other hand, if your model is doing really well on the training data, but on unseen example, it's doing really bad. Then it's called overfitting. So
+- you can have a complex model. We can fit a complex cow like this on the trading data
+- on the right side. You can see that it's having almost 0 error on the training data. So
+- when you don't visualize this, you can think of it that okay, my model is doing really great. Maybe I should just deploy it in a real world.
+- But if there was a point in the middle here, it will predict something which is very off
+- than the general trend.
+- So that's what generalization means. You want the model to do good on an unseen example, and that's why the middle curve
+- is a good fit. It is not doing perfect. It's not having perfect 0 training error, but it's
+- it's better than the model on the right side, because it's it will do well on an unseen example.
+- And
+- here in 2D. It's very easy to see. But when you have multiple features detecting these kind of scenarios is not trivial, and that's why you need a structured way of doing this. So that's why, whenever you are training a model, we always put aside some part of training data
+- which is not used to train the model. And that's called test set
+- the test set. You never use it for training. You only train the model on the training data. And then, after that, you
+- test the model on the unseen examples for which you already know the labels and quantify in some way how well the model is doing.
+- So this is how
+- it would look like. If you have entire data set, you split it into training and testing set
+- and on training set. You do everything, feature, extraction, training, and you work with different models to make sure that the training error is really low.
+- Yeah. And then finally, you evaluate on that test set.
+- If it's working reasonably well on the test set, then you're good to go. But if it's not working well on the test set. That means you are most probably overfeeding. You need to go back and
+- tweak your model training in such a way that
+- your training error actually increases so that it stops overfitting.
+- this part was, how do we actually evaluate the model. So accuracy is, I think, a very good example.
+- Let me okay, that.
+- And yeah, and the 5th section is like, Okay.
+- how do we? What are some ethical and societal challenges with machine learning?
+- So 1st is like, how do we collect the data that can? That may, requires some decisions which are ethically ambiguous. So
+- for for problems like chest X-ray classification.
+- you need doctors to classify every chest, X-ray image into whatever labels that you want.
+- And this is kind of expertly annotated data. And it's very expensive to get these kind of data.
+- And recently, initially, what people were trying to do they were trying to have.
+- They were trying to tweak model design so that it works on a very limited set of data set.
+- But in later years what people have found is that having a larger data set
+- is almost the only way to get better model
+- at at some level. You are limited by your data, no matter how complex, how good your model design is. If you have a large amount of data, a simpler, easier model will always beat that.
+- So so yeah, that's why
+- data is now new oil. That's what many people believe. And that's why big companies are trying to gather as much data as they want. And that's why these are so powerful
+- power.
+- this is an example of like how we should be careful what kind of data we use.
+- So so let's say, someone wants to work on creating
+- training a model which can generate dialogue of movies
+- and your data set, you just use movies data set. But when you actually plot the statistics of the data set.
+- you may find that most of the dialogues are spoken by male characters.
+- and then, if you train a model on this, the trained model will on it will most probably output dialogues which are spoken by male characters. So this is an example of bias on the data set which may creep into your trained model.
+- Yeah.
+- And sometimes, if your data is not high quality of it doesn't cover all the possible scenarios
+- it can output really unwanted examples. And this is very interesting examples of the reinforcement learning model.
+- So the idea was the deep point. People were trying to train a reinforcement learning model
+- in simulation that can learn how to walk on irregular terrain.
+- And it was a reinforcement learning model, and it was trained using a reward system and reward was
+- reward will be high if you can go far enough. That's what that was the only reward.
+- And yeah, this is how it worked.
+- So you can see that it's going
+- ahead nicely. But there was no reward reward for penalizing other weird behavior of hands or something.
+- So yeah, for example, here
+- it is, going ahead far, but hands are a bit weird. So these kind of behavior, if it's not regularized. Well, if it's if the reward structure is not enough.
+- then irregular behavior can creep into the modeling here itself.
+- Yeah.
+- Okay?
+- yeah.
+- there is another famous example of, there was a data video. Sorry, a vision question answering. So you give an image. You give your question, and the model should output the answer of the question
+- and
+- the train model, when you input a green banana and ask, what what color is the banana? It always outputs yellow.
+- because in the training data set, it always saw green bananas.
+- So it learned to associate banana with yellow color, irrespective of what the image is.
+- So yeah, 80% of the bananas are yellow in the training site.
+- so yeah, these kind of biases can creep into. So biases sometimes can be harmless, but sometimes can be really harmful. So
+- as a machine learning researcher or machine learning practitioner, if you become one, you should always be thinking about
+- the impact of rogue behavior of your model, and if it's heavy, then maybe take extra care into that.
+- an example workshop, and let's directly go into the question outside.
+- Okay, is there a specific line between good and under fit? Or is it more subjective?
+- Yeah, it is definitely subjective. So
+- the way we usually do is that, okay, we have a training error and validation. Error.
+- usually validation, error, or testing error is always a bit higher than training. But we want to know whether we if we can still improve on that.
+- So we try to make the model more generalized.
+- And so we try to make the model a bit more restrictive, but because of that, if even testing error goes high, then we know that. Okay, the model was already doing great. Maybe not. Let's not force it to overgeneralize, and we can also go into other way. We try to make the model more over fit.
+- and if it overfits here, but it also has the better validation error. That means, okay, we can still keep going higher and higher. So it's basically subjective, based on what kind of evidences we get from the experiments.
+- The question is, is there actually a way to train an AI model to write stuff
+- that sounds totally like human? I mean, we have that we have chat gpt, right?
+- I mean initially, the Chatgpt answers were pretty AI like. But right now
+- the answers are like really good human like, and if you prompt it in a way that if you prompt it in a way that okay, just sound more human like it will try to sound more casual and human like, so.
+- yeah, how are Ml, biases made or developed?
+- Ml, biases, according to me, are
+- the 100% the product of what kind of data you use.
+- There are some ways where you have a model design which is more robust.
+- But people have found that if you try to make model
+- more general or fair enough, you always lose on its accuracy. So either you have a bad model.
+- which is bias free, or if you have a good model which has some kind of bias.
+- People always choose to have good model with some biases and try to correct the biases through training data, not the model design itself. So yeah.
+- what is the generally the fastest form of machine learning, reinforcement, supervise, etc. Reinforcement learning is very slow.
+- It's basically trial and error. You keep trying random things until you hit a good one with good reward.
+- On the other hand, in supervised learning, your model is directly told what the good action is so supervised. Learning is definitely the fastest one.
+- But there are some examples where
+- there are some scenarios where you don't know. You don't have the label data set, and the only way to do is is reinforcement learning.
+- So yeah, another example is like reinforcement can learn. Learning can find solutions which are really surprisingly good.
+- I can give you an example of chat. Gpt so
+- in chat Gpt after training. It's fine tuned on examples of like different kind of things.
+- Consider a math solving a math problem
+- in supervised learning. You will need data of every kind of math problem and every different type of steps to solve it. But it's generally not enough in reinforcement. Learning. What you can do is you can just let the model run on itself. Ask it to think about how to approach a problem, and whenever it hits a good solution you reward it with a high reward.
+- In this way you are
+- training a model in a way that it will. It is generating good behavior, of solving a math problem by itself, and it's not possible through supervised learning. And that's why the deep seek model
+- which came out very recently, it was able to do really well sometimes better than chat Gpt on many tasks because it was
+- fine-tuned with reinforcement learning. And it it was able to get some really good solutions to many problems
+- are traditional machine learning models still relevant today with deep learning becoming more advanced.
+- Yes. So the deep learning is basically, you have bigger model with deeper model. And you train it on lots of data set.
+- But when you don't have enough data set.
+- then traditional machine learning is still useful because traditional machine learning is still made to work on low amount of data. So it problem specific.
+- But I would say, if you can gather more data.
+- then just gather more data. It's always better.
+- Yeah.
+- Okay. Is there a place where we can access the slides later?
+- I'm not sure. Maybe I can ask Mariam about that. I'm happy to provide the slides. But
+- Brooklyn, can we provide the slide.
+- 01:04:51
+- 01:05:01
+	Okay, cool, cool. Then, yeah, I don't have problem. With that, I'll just check with a couple of other people who contributed to meet slides, and I'll provide that.
+- Can we explain why a model made a certain prediction? Do they have an option to show their thought process?
+- This is a very good question. Deep learning model in general, they are black box.
+- If they make a decision, we don't know why
+- why it was the case, if they make a bad decision, we don't know why it was the case.
+- There are some techniques where you can sometimes figure out.
+- What part of the input data led to that decision.
+- But we don't know how to correct that.
+- So deep learning models are in general a black box. And that's 1 of the problem
+- against a rule-based system in rule-based system. You always know.
+- where the model went wrong. But in deep learning, most probably not.
+- Would machine learning algorithms typically use a greedy algorithm. And if so, how would they avoid being caught in a local minima situation? I think this question is out of the scope of this lecture. But
+- the short answer is, Yes,
+- It always goes to a local minimum. But there are ways to formulate your model design and your training in such a way that even if it goes to a local minimum, it's a good local minimum that you are happy with.
+- And since models are bigger, the solution space is usually very big. There are lots of parameters. There are multiple configurations of parameters which will give you a good model. And if you're training during training, if you can find a good one, then it's good enough.
+- What's the best way to address bias and fairness in Ml.
+- it's a big area of research. And
+- I mean, traditionally, people tried doing that in an algorithmic way.
+- trying to design a machine learning model which naturally does not have bias. But
+- right now, I think train data is the only way.
+- I think the better research question might be, how can you create data set without bias and fairness in. Ml, so.
+- you know, there are a lot of questions on biases. I mean, in my slides there is a talk from timid Gabrew. It's a really good talk on biases on in machine learning. So maybe you can check that out
+- as a student, what are the best way to access high quality data set for training machine learning models?
+- But Kegel, as people have mentioned, Kaggle and hugging face have some really good data set, and some of the data sets that we use for benchmarking the model and the method they are typically available publicly, so you can just download. But for fun examples, I think Kegel and hugging face is a good way to go.
+- For example, in one of the assignments here in A at the course at Stanford.
+- We wanted students to create a tiny image generation model. And we found a data set from, I think, Kaggle.
+- about emojis. So data set of emojis, it's small enough. It's simple enough that you can train a model. So
+- is just one example of how you can try small. But fun projects through data sets on Kaggle.
+- okay, is all data manually labeled by people. If your problem requires that, then, yes.
+- Is there a more convenient method on some problems? Unfortunately, no.
+- So yeah, that's why, like some companies which specialize in
+- labeling the data, they have good tools which make labeling faster. But yeah.
+- do you think it will ever be possible to completely eliminate bias from AI? Wow! This is a good question
+- that
+- since Agi, or like models, are becoming as closer to the human intelligence, this question is very similar to can there be a very neutral, perfect human.
+- It's as hard of a question as this.
+- What we can do is like.
+- I don't think they'll be perfectly neutral or bias less. AI.
+- We can only try to push it to be as bias free as possible, just like education system tries to
+- instill, like as many good values in students as they can. So it's something like that.
+- Okay, excess of slides. So okay, so yeah, we'll provide the slides. So that question is answered.
+- how can you control the bias in so unsupered model, where you can't control what features the model picks from the training data.
+- That's true. So the question here is
+- okay, just to get just to give an overview. So
+- deriving features and training. A simpler model was the traditional way of doing Ml, but right now, with bigger data set and bigger compute.
+- What we do is like, we just give the raw data to the model and let itself. And it's a bigger model. So we let itself figure out how to classify or how to predict the correct label.
+- So
+- because of that model might pick up good or bad things so, and there are many famous examples of spurious biases. So.
+- for example.
+- there was a question of detecting camel versus cow. But in the data set examples of cow are always in a green field, and examples of camels are always in a desert. So when you give an example of a cow in a desert, then it predicts camel. So these are kind of spurious correlations that what we call but
+- yeah, and we are just giving model the example. And it's trying to figure out itself.
+- People have tried different examples. But again, the only way that worked was giving more data.
+- Yeah.
+- okay, when Agi is reached will what will ultimately distinguish us, make us human man. That's a deep question.
+- very philosophical question.
+- is there a way we can access your slides after lecture? Yes, I'll provide. The slides.
+- Okay, that's the end of all the questions.
+- by the way, if you want to speak up your question, you can just unmute yourself and speak up. But
+- yeah.
+- 01:12:59
+	Great. Thank you so much. Yes. Is there any last call for a question that comes from a student who would like to come off mute.
+- Okay, we hear, I see Rohan raising your hand. Go for it.
+- 01:13:16
+	Sorry. So yeah. For when using like, smaller, efficient Nlp models, how do you balance making the model like easy to understand, but also like making sure it's accuracy is like high, especially for like finance, like healthcare, and like those important.
+- 01:13:32
+	There he is.
+- When you say, easy to understand. Do you mean you want the model to be
+- explainable in the sense that you want to know why the model is doing wrong decisions.
+- 01:13:44
+	Well, I guess.
+- in that sense, but also in the sense where it's able to be understood by like the non technical people as well
+- like or not as technical.
+- 01:13:54
+	I see. And they're saying, like, you have limited data.
+- again, I think the question is a bit broad. But what works best is, start with a very strong model.
+- and then provide your data as an very limited example, very limited set of example, with all the instructions that you can.
+- So, because if you start from a small model which is not trained already, it will likely to overfit. So it's best to start with a strong, bigger model, but which which is well trained, and then carefully tune it to your case.
+- That usually works better.
+- 01:14:41
+	Alright. Thank you.
+- 01:14:43
+	No problem. Thanks for the question. Yeah, will there be any way for us to reach out more question in future with email or Linkedin.
+- I mean, I'm not sure if Ea, for all, has an official way of reaching out. But to me you can just reach out to me personally. I'll try to answer best as I can.
+- So yeah.
+- 01:15:05
+	If you if you end up having a question, you'd like to address to the speaker. Specifically, you can always send it to us, and then we can direct it to the speaker or connect to you that way.
+- Yeah, like.
+- 01:15:21
+	Perfect. Well, thank you so much for your time this morning for spending so much time and so much of your brilliant expertise with us and our students. It was a true pleasure to just get some insight into the work that you do. And yeah, all of your areas of expertise. You'll see a lot of thank yous coming in the chat. Yeah, again. Thank you. And we look forward to connecting with you offline again.
+- 01:15:50
+	Sure.
+- And yeah, thanks for inviting me. And thanks for all the interesting questions.
+- 01:15:54
+	Yeah, that's
+- you handled them beautifully. We are going to go ahead and take a break right now. But before I will go ahead and put in all of the links to your group lectures in the chat. So these will be the Zoom Meeting links that you'll be in next. We're going to start them at 11. So you have a good 14 min or so to go to the restroom, get some water, just take care of
+- your needs and then be back here following those zoom links for your group projects. You'll be meeting with your graduate mentors at that time.
+- So thank you so much, everybody, and we'll see you after your break.
+- 01:16:34
+	Thank you.
+- 01:16:35
+	Thank you all. Take care!
