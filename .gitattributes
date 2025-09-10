@@ -1,16 +1,10 @@
-# Default: normalize text files to LF line endings
+# Normalize text files to LF
 * text=auto eol=lf
 
-# Treat binary formats as binary (no line ending normalization)
+# Always treat common binary formats as binary (no line-ending normalization, no corruption)
 *.png binary
 *.jpg binary
 *.jpeg binary
 *.gif binary
 *.svg binary
 *.pdf binary
-*.pdf !text !filter !merge !diff
-*.png !text !filter !merge !diff
-*.jpg !text !filter !merge !diff
-*.jpeg !text !filter !merge !diff
-*.gif !text !filter !merge !diff
-*.svg !text !filter !merge !diff
